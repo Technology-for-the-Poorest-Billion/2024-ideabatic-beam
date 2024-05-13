@@ -1,0 +1,28 @@
+To Do List:
+- Location Tracking
+- Look into data logging
+- Familiarise with last years work and current prototype - a lot of work has been done on the door and cool-life prediction.
+- Get hands on the arduino used (and temperature sensor) if available
+- 
+
+From Powerpoint:
+"Challenge: How to make the self-closing door more robust? Use 2 sensors only to predict
+temperature of 18 chambers and remaining cool-life
+• consider different solutions for remote settings and lab settings.
+• can they be integrated in one chip?
+• Optimisation of the self-closing door
+• Solution:
+Electronics module with display
+• Prediction of temperature of 18 chambers (not measured but extracted from an
+algorithm using existing experimental data)
+• Remaining cool-life prediction: users can decide if they should return to refill icepack or
+can continue travelling to the next village?
+• Location tracking (what if in remote areas/hilly areas)
+• Warning signal: when the door is opened for an x amount of time, when the door is not
+closed properly, when the remaining cool life is x hours etc
+• Data logging for analysis: e.g. temperature data, when was the door opened and how
+has that affected the performance
+Self-closing door and area for the clip on- snap fit electronics module
+• spring design
+• Stress analysis
+• Life-time etc"
