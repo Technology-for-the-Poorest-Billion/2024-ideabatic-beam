@@ -2,11 +2,13 @@
 
 
 ## The people
+Team members strengths and weaknesses.
+Skills required, training needed.
 
 
 
 ## The resources needed
-
+Costing, parts required.
 
 
 ## The timeline
@@ -18,3 +20,4 @@
 
 
 ## Contengency plans
+What could go wrong? What to do when it happens?
