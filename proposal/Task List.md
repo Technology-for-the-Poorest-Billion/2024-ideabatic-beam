@@ -25,7 +25,13 @@
 
 ## Mechanical:
 
-- Electronics module housing needs to be modular (an optional add-on to the overall device)
+- Design of electronics module housing, needs to be modular (an optional add-on to the overall device)
+
+
+- Design of door for integration with electronics casing
+
+
+- Design for installment of modular circuitry (with temperature sensor)
 
   
 - Self-closing door mechanism; improved ergonomics
