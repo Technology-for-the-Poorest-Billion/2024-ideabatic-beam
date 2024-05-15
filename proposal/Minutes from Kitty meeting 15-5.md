@@ -20,3 +20,25 @@
 -	Outside sensor mainly used for remaining cool life, inner for backup/monitoring (?)
 -	Private GitHub preferred, WhatsApp questions – maybe even make a shared drive to share things?
 -	20C probably best for testing/modelling: https://drive.google.com/drive/folders/15KfUTUK4o-9_mfXlAF1HeKQmgM5Zm7Bo & https://drive.google.com/drive/folders/13nn9-MJRJQJbd6YWNrIXZLQqjzbAK4W1 
+
+# Ness's minutes
+wrt CASING:
+- electronics module casing, modular, click-on mechanism onto door design
+- removable from the top for charging, without disturbing temperature sensor
+- more spread out design of casing rather than deep so insulation thickness is not as affected
+- depends on electronics components
+- waterproofing not the most important but could consider
+
+wrt DOOR:
+- could reference previous year designs of self closing door (20C)
+- advice: print and test and iterate hardware
+- in final report, show how you got to a final design and describe why other designs are problematic in trials 
+- investigate torsion springs and other aspects of door, especially ergonomics for finger grip
+- a hole in the top for module, should not go over the door top plane, to prevent damage in case of dropping
+- minimal parts, want top to be planar with the frame of the chamber
+- modular door so that electronics module could be installed
+
+integration wth ELECTRONICS:
+- in case of jams, signal or alert to users?
+- temperature sensor with a connector with pins (like a charging port), and an electronics module with a matching connector
+- find quality off the shelf connectors, but consider strength of spring for self closing design
