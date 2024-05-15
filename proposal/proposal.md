@@ -3,9 +3,7 @@
 - Brief overview of the problem, context and engineering approach to tackle the problem.
 
 ## The problem
-Current vaccine carriers use cooler boxes which are poorly adapted to the conditions that they are expected to tackle. They often have very poor cooling lifetimes that can mean the vaccine spoils before it reaches it's destination. In field conditions, lasting about 4 hours which is simply not enough as journeys can often last up to 2 days in 25(?)+ C heat. SMILE, by Ideabatic aims to combat this issue with a unique designed cooler box with a single ice pack that can last up to 4 days (120 hours). 
-Can talk about requiring 4 ice packs, but only 1 is used? 
-
+Current vaccine carriers use cooler boxes which are poorly adapted to the conditions that they are expected to tackle. They often have very poor cooling lifetimes that can mean the vaccine spoils before it reaches its destination. They were shown to last about 4 hours in field conditions, which is simply not enough as journeys can often last up to 2 days in over 25ºC heat. Human error is also a large problem, as healthcare workers may leave cooler boxes open for hours, significantly reducing its cooling lifetime. SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler box containing only a single ice pack that can last up to 4 days (120 hours), compared to usual cooler boxes that need four, along with a self-closing door mechanism to reduce human error.
 
 # Presentation of the proposal
 
@@ -18,7 +16,13 @@ The main addition that Ideabatic is looking to implement is a functioning, modul
 
 Also within the electronic topic is the improvement of the temperature sensing algorithm. Right now, the function works by (INSERT HOW IT WORKS HERE) and incrementally reducing the cool life. It does not currently consider how the door opening will affect the remaining cool life which is something that we are looking to add. 
 (There is also the work last years team has done to detect when the door is closed and beep after half a minute of open door. Needs to be investigated) 
+
 ## Mechanical
+The mechanical component involves designing a compatible “snap-fit” electronics module housing and door slot design, as well as improving on previous iterations of the ergonomics and robustness of the self-closing door mechanism.
+
+
+OpenSCAD would ideally be used for the individual designs of the electronics module housing, door slot, internal placement of sensors, and spring mechanism. 3D printing would then be used to test and redesign components iteratively. Important features of the improved design is its resistance to damage in case of dropping, as well as containing minimal parts for easy manufacturing. The thickness of the electronics module and casing is also important to consider such that insulation thickness at the door is not significantly affected. Additional aspects such as waterproofing may be explored. The outcome should be a modular, integrated electronics casing and door system with improved ergonomics and mechanism robustness.
+
 
 # Assessment of the quality of the proposal
 
