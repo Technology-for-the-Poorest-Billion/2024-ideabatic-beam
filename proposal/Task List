@@ -7,7 +7,7 @@ Electronics/Software:
 - Make a start on making temperature predictor compatible with door opening; informed by existing data
 
 - Charging mechanism needs to be compatible with modular nature of electronics module: sensor is fixed in door but won't be removed, 
-  the rest of the module is removed for charging
+  the rest of the module is removed for charging (clip on, clip off)
 - Probably using rechargable batteries
 - Need electronics module to be as thin as possible 
 
