@@ -5,6 +5,8 @@
   
   Initial display only shows OK or NOT OK; maybe time remaining. Press button for exact temperature, further features like GPS
 
+- Datalogging of temperature, sotred in micro SD card that is easily removable
+
   
 - Implement a sensor for when the door is open or closed; and an indicator to alert if door left open (beeping)
 
