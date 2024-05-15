@@ -42,3 +42,7 @@ integration wth ELECTRONICS:
 - in case of jams, signal or alert to users?
 - temperature sensor with a connector with pins (like a charging port), and an electronics module with a matching connector
 - find quality off the shelf connectors, but consider strength of spring for self closing design
+
+# Benjamin's minutes
+- Kitty thinks that modelling the temperature evolution with door open would be very useful but potentially too difficult, maybe we could make a start regardless? Could easily adapt model using datalogger and parameter tuning. 
+- Kitty prefers final output of project to be shared via Google Drive rather than Github
