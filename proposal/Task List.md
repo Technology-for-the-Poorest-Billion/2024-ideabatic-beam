@@ -34,7 +34,7 @@
 - Design for installment of modular circuitry (with temperature sensor)
 
   
-- Self-closing door mechanism; improved ergonomics
+- Improve self-closing door mechanism, especially ergonomics
 
 
 
