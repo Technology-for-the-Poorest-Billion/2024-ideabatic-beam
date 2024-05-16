@@ -54,19 +54,19 @@ Note that these are rough estimate for the  parts needed; more research is neede
 ### Electronics
 
 #### Inability to find sufficient connectors to attach the module with the required strength
-The team can instead look towards a simpler plug and play approach with dupont connector wires for simplicity sake, magnets can also be incorporated. 
+If connectors for modular electronics are mechanically unstable, the team can instead look towards a simpler plug and play approach with dupont connector wires for simplicity sake, magnets can also be incorporated. 
 
 #### Module unable to be compressed well enough whilst still allowing optimal functionality
-The design can be reverted to include all components within the door, whilst having the door be modular. This effectively solves the issue of keeping the electronics modular, though isn't as feasible to do.
+To implement the desired features, the electronics module may become too large to be clipped as a modular unit to the door. In this case, the design can be reverted to include all components within the door, whilst having the door be modular. This effectively solves the issue of keeping the electronics modular, though isn't as feasible to do.
 
 #### Failure to rebuild code for Pi Pico
 The decision to switch to a Pi Pico has been done as the Pi Pico is a lot cheaper than an Arduino nano (and thus a lot more befitting of the project), and for familiarity with the team. If converting the available code to work with the pico takes too long, it may be a better idea to switch back to the Arduino, as the code has already been proven to work. 
 
 #### Failure to add GPS tracking, or data logging
-These are effectively "nice to haves" and aren't primary objectives. 
+These are effectively "nice to haves" and aren't primary objectives. Most likely barrier to implementing GPS is cost. Most likely barrier to implementing data logging is that the spatial requirement for an SD card could make the module too large to be modular. 
 
-#### Failure to improve upon previous temperature sensing algorithm
-The previous team's algorithm still worked sufficiently well. We can resort back to their algorithm and focus our efforts on the other aspects of the task.
+#### Difficulty in adapting the temeprature algorithm to account for door open
+This was suggested by Kitty to be too diffuclt to take on in three weeks. The previous team's algorithm still worked sufficiently well, so if she turns out to be correct, we can resort back to their algorithm and focus our efforts on the other aspects of the task.
 
 ### Mechanical
 
