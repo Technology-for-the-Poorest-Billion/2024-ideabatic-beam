@@ -34,7 +34,7 @@ Unfamiliar with CAD.
 
 ## The timeline
 <!--NEED TO MAKE ROUGH TIMELINE-->
-![Timeline can be found here.](Timeline.pdf)
+![Timeline can be found here.](GanttChart.pdf)
 
 ## The assessment of the risks and safety
 
