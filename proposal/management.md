@@ -18,7 +18,7 @@ Good communicator, suited to taking on task management, timeline and operations 
 Unfamiliar with CAD. 
 
 ## The resources needed
-`Costing, parts required.`
+<!--Costing, parts required.-->
 | Part Description | Quantity| Unit Cost | Link |
 |-|-|-|-|
 |Battery: Can use powerbank| 0 | N/A | N/A |
@@ -47,7 +47,7 @@ Unfamiliar with CAD.
 
 
 ## Contingency plans
-What could go wrong? What to do when it happens?
+<!--What could go wrong? What to do when it happens?-->
 
 ### Electronics
 
