@@ -21,7 +21,7 @@ Unfamiliar with CAD.
 <!--Costing, parts required.-->
 | Part Description | Quantity| Unit Cost | Link |
 |-|-|-|-|
-|Battery: Can use powerbank| 0 | N/A | N/A |
+|Rechargable| 1 | ~ £20 | To be sourced - if outside budget, revert to AAs or powerbank |
 |Connectors for module| 1 | £5.53 | https://uk.farnell.com/hellermanntyton/148-90056/wire-splice-terminal-pc-10pcs/dp/3255511 |
 | Temperature sensor | 2 | £6.83 | https://uk.farnell.com/dfrobot/sen0137/dht22-temp-humidity-sensor-arduino/dp/3517874?ost=3517874 | 
 | OLED Display | 1 | £14.04 | https://uk.farnell.com/seeed-studio/101020452/oled-display-1-12-128-x-128-pixels/dp/4007703?ost=4007703 | 
