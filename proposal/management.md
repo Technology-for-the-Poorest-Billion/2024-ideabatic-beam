@@ -32,6 +32,8 @@ Unfamiliar with CAD.
 | Switch | 1 | £1.98 | https://uk.farnell.com/omron-electronic-components/d2ffl/microswitch-hinge-lever-1a-pcb/dp/1961095?st=lever%20switch | 
 | 3D Printed Parts | Unknown | £5 | N/A | 
 
+Note that these are rough estimate for the  parts needed; more research is needed to look into some of these parts to find more fitting alternatives.
+
 ## The timeline
 <!--NEED TO MAKE ROUGH TIMELINE-->
 ![Timeline can be found here.](GanttChart.pdf)
