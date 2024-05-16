@@ -7,3 +7,4 @@
 - Back up claims with references for final report. Might be worth asking Kitty where she got the data in her slideshow.
 - Be more explicit of primary and secondary objectives
 - Make sure that if a group were to continue our work,  it is documented clearly and concisely whilst being easy to understand.
+- Make clear market context and frame it as a "technology push"
