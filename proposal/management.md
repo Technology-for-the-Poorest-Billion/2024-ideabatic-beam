@@ -9,13 +9,14 @@ Skills required, training needed.-->
 Have experience prototyping electronics with a Pi 4 and different sensors, with understanding of different communication protocols used, and have used tkinter within python to make a very simple display on an LCD. Have experience with 3-D printing, having done so both in department and at home. 
 <br> Requires training, or examples given, for C++ code, and for building a display interface.
 
-### Ness
-Experience using CAD for extracurricular projects. Training needed on specific rapid prototyping skills such as OpenSCAD and 3D printing.
-
 ### Benjamin
 Some experience with implementing a sensor module on a Raspberry Pi Pico. Probably well suited to exploring the temperature algorithm improvement problem (accounting for the opening of the door). 
 <br> Good communicator, suited to taking on task management, timeline and operations tasks.
 Unfamiliar with CAD. 
+
+### Ness
+Experience using CAD for extracurricular projects. Training needed on specific rapid prototyping skills such as OpenSCAD and 3D printing.
+
 
 ## The resources needed
 <!--Costing, parts required.-->
