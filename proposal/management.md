@@ -70,11 +70,11 @@ This was suggested by Kitty to be too diffuclt to take on in three weeks. The pr
 
 ### Mechanical
 
-### 3D printing takes a long time, during which changes may have already been made to the design.
+#### 3D printing takes a long time, during which changes may have already been made to the design.
 
 For large components like the door, 3D print smaller segments of the design for testing so that faster iterations or comparisons could be made. Before each print job, ensure all changes to the design have been included, and that they are necessary to the design.
 
-### OpenSCAD may be too difficult to pick up.
+#### OpenSCAD may be too difficult to pick up.
 
 CAD Solidworks could be a fall back option since it is more familiar. Previous group also used Solidworks and so there are more reference files to build from.
 
