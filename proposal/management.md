@@ -84,5 +84,8 @@ The snap fit mechanism needs to be decided on rather early in the design process
 #### Difficulties integrating electronics with casing design:
 As the casing design is dependent on the type and number of components used by the electronics team, later changes to the design of electronics may affect the design of the casing. If it takes a long time to settle on a design for the electronics module, there may not be enough time to complete the casing design. Ensure the dimensions of slot and casing prototypes can be easily changed in later iterations to accomodate changes in size of the module, and work with electronics team to ensure shape of module is reasonable.
 
+#### Budget Constraints:
+If certain parts (eg rechargable battery) are too expensive, revert to less expensive alternative (eg AAs or power bank)
+
 #### No time for improving robustness of spring mechanism: 
 It is foreseeable that we may run out of time to deeply investigate the self-closing door mechanism, as it involves improving on many iterations of previous designs that may have explored most aspects of torsional springs, and may require extensive testing to yield new results. It is not the most critical aspect of this design iteration.
