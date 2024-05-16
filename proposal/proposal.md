@@ -5,7 +5,7 @@
 
 Current vaccine carriers use cooler boxes which are poorly adapted to the conditions that they are expected to tackle, often with very poor cooling lifetimes that can mean vaccines spoil before they reaches their destination. These were shown to last approximately 4 hours in field conditions, which is simply not enough for journeys that can often last 2 days in over 25ºC heat. Human error is also a large problem, as healthcare workers may unknowingly leave cooler boxes open for long periods of time, significantly reducing the cooling lifetime. There is also an issue in which, despite requiring four standard ice packs placed appropriately, workers may end up only using one or two, placed haphazardly. 
 
-SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler box containing only a single ice pack that can keep 18 vaccines cool for up to 4 days (120 hours), along with a self-closing door mechanism to reduce human error. The design also incorporates a waterproof casing with further insulation and straps for comfortable carry as a backpack. Clearly responding to a genuine need, the impact of SMILE can be assessed against UN's sustainable development goals. 
+SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler box containing only a single ice pack that can keep 18 vaccines cool for up to 4 days (120 hours), along with a self-closing door mechanism to reduce human error. The design also incorporates a waterproof casing with further insulation and straps for comfortable carry as a backpack. Clearly responding to a genuine need, the impact of SMILE can be assessed against UN's sustainable development goals, most obviously Goal 3: Good Health and Wellbeing. 
 
 
 # Assessment of the quality of the proposal
