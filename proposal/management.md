@@ -70,6 +70,14 @@ This was suggested by Kitty to be too diffuclt to take on in three weeks. The pr
 
 ### Mechanical
 
+### 3D printing takes a long time, during which changes may have already been made to the design.
+
+For large components like the door, 3D print smaller segments of the design for testing so that faster iterations or comparisons could be made. Before each print job, ensure all changes to the design have been included, and that they are necessary to the design.
+
+### OpenSCAD may be too difficult to pick up.
+
+CAD Solidworks could be a fall back option since it is more familiar. Previous group also used Solidworks and so there are more reference files to build from.
+
 #### Failure to design "snap-fit" module and door:
 The snap fit mechanism needs to be decided on rather early in the design process to ensure compatibility between different parts. If such a mechanism could not be reliably prototyped or functional, it would cause difficulties in continuing with other aspects of the project. Therefore it should be the first point of investigation before deciding on other aspects of design.
 
