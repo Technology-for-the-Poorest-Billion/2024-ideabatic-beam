@@ -12,6 +12,10 @@ Have experience prototyping electronics with a Pi 4 and different sensors, with 
 ### Ness
 Training needed on rapid prototyping skills such as OpenSCAD and 3D printing.
 
+### Benjamin
+Some experience with implementing a sensor module on a Raspberry Pi Pico, as well as datalogging results to fit to a model. Probably well suited to exploring the temperature algorithm improvement problem (accounting for the opening of the door). 
+Good communicator, suited to taking on task management, timeline and operations tasks.
+Unfamiliar with CAD. 
 
 ## The resources needed
 `Costing, parts required.`
