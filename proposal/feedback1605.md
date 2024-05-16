@@ -1,0 +1,7 @@
+- Contextualising the project, embracing last years work and being explicit about improvements we intend ot make
+- Skills we came to the project with and what we want to learn from the project (put it in final project too)
+- Add images to make it more user furiendly
+- There was a bit of jumping around - see below.
+- A lot of what was in the contingencies should have been put in the actual proposal, where the contingencies should focus on what to do if those cases occurred.
+- Surveys -- use "human-centred design", or similar.
+-
