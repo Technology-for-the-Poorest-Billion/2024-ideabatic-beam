@@ -2,8 +2,8 @@
 
 
 ## The people
-`Team members strengths and weaknesses.`
-`Skills required, training needed.`
+<!-- Team members strengths and weaknesses.
+Skills required, training needed.-->
 
 ### Romeo
 Have experience prototyping electronics with a Pi 4 and different sensors, with understanding of different communication protocols used, and have used tkinter within python to make a very simple display on an LCD. Have experience with 3-D printing, having done so both in department and at home. 
@@ -21,8 +21,8 @@ Unfamiliar with CAD.
 `Costing, parts required.`
 | Part Description | Quantity| Unit Cost | Link |
 |-|-|-|-|
-|`BATTERY??? Can use powerbank?`| 1 | £? |  |
-|`CONNECTORS FOR MODULE TO FIT INTO`| 1 | £? |  |
+|Battery: Can use powerbank| 0 | N/A | N/A |
+|Connectors for module| 1 | £5.53 | https://uk.farnell.com/hellermanntyton/148-90056/wire-splice-terminal-pc-10pcs/dp/3255511 |
 | Temperature sensor | 2 | £6.83 | https://uk.farnell.com/dfrobot/sen0137/dht22-temp-humidity-sensor-arduino/dp/3517874?ost=3517874 | 
 | OLED Display | 1 | £14.04 | https://uk.farnell.com/seeed-studio/101020452/oled-display-1-12-128-x-128-pixels/dp/4007703?ost=4007703 | 
 | Raspbery Pi Pico H | 1 | £4.73 |  https://uk.farnell.com/raspberry-pi/raspberry-pi-pico-h/raspberry-pi-board-arm-cortex/dp/3996081| 
@@ -33,8 +33,8 @@ Unfamiliar with CAD.
 | 3D Printed Parts | Unknown | £5 | N/A | 
 
 ## The timeline
-
-`NEED TO MAKE ROUGH TIMELINE`
+<!--NEED TO MAKE ROUGH TIMELINE-->
+![Timeline can be found here.](Timeline.pdf)
 
 ## The assessment of the risks and safety
 
