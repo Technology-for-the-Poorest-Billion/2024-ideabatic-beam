@@ -4,4 +4,4 @@
 - There was a bit of jumping around - see below.
 - A lot of what was in the contingencies should have been put in the actual proposal, where the contingencies should focus on what to do if those cases occurred.
 - Surveys -- use "human-centred design", or similar.
--
+- Back up claims with references for final report. Might be worth asking Kitty where she got the data in her slideshow.
