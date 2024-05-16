@@ -1,6 +1,7 @@
 # Problem description
 
-`Brief overview of the problem, context and engineering approach to tackle the problem.`
+
+<!-- Brief overview of the problem, context and engineering approach to tackle the problem.-->
 
 Current vaccine carriers use cooler boxes which are poorly adapted to the conditions that they are expected to tackle, often with very poor cooling lifetimes that can mean vaccines spoil before they reaches their destination. These were shown to last approximately 4 hours in field conditions, which is simply not enough for journeys that can often last 2 days in over 25ºC heat. Human error is also a large problem, as healthcare workers may unknowingly leave cooler boxes open for long periods of time, significantly reducing the cooling lifetime. There is also an issue in which, despite requiring four standard ice packs placed appropriately, workers may end up only using one or two, placed haphazardly. 
 
@@ -9,7 +10,7 @@ SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler b
 
 # Presentation of the proposal
 
-`Technical aspects may be described here.`
+<!--Technical aspects may be described here--> 
 
 The aim of the proposal is to improve upon the current design in two main areas, electronic and mechanical. There is a lot more versatility within the electronic task, allowing it to be split further into multiple different subtasks, whilst mechanical has one main concern that is to be tackled, albeit in many different ways, and is rather open ended. 
 
@@ -28,7 +29,7 @@ OpenSCAD would ideally be used for the individual designs of the electronics mod
 
 # Assessment of the quality of the proposal
 
-`Evaluate its value in the context of the project. What will it solve, is it safe, etc. Check Lara’s slides for what to cover.`
+<!--Evaluate its value in the context of the project. What will it solve, is it safe, etc. Check Lara’s slides for what to cover.-->
 
 
 The SMILE coolbox works as it is, and is safe for users. Despite this, it has come up against approval and funding issues. Ideabatic has decided to take the device to developed markets (such as the UK) as a proof of concept, along with the addition of further features which can be included or removed as costs require for developing market applications. 
