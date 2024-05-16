@@ -4,7 +4,7 @@
 
 Current vaccine carriers use cooler boxes which are poorly adapted to the conditions that they are expected to tackle, often with very poor cooling lifetimes that can mean vaccines spoil before they reaches their destination. These were shown to last approximately 4 hours in field conditions, which is simply not enough for journeys that can often last 2 days in over 25ºC heat. Human error is also a large problem, as healthcare workers may unknowingly leave cooler boxes open for long periods of time, significantly reducing the cooling lifetime. There is also an issue in which, despite requiring four standard ice packs placed appropriately, workers may end up only using one or two, placed haphazardly. 
 
-SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler box containing only a single ice pack that can keep 18 vaccines cool for up to 4 days (120 hours), along with a self-closing door mechanism to reduce human error. The design also incorporates a waterproof casing with further insulation and straps for comfortable carry as a backpack. 
+SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler box containing only a single ice pack that can keep 18 vaccines cool for up to 4 days (120 hours), along with a self-closing door mechanism to reduce human error. The design also incorporates a waterproof casing with further insulation and straps for comfortable carry as a backpack. Clearly responding to a genuine need, the impact of SMILE can be assessed against UN's sustainable development goals. 
 
 
 # Presentation of the proposal
@@ -31,3 +31,14 @@ OpenSCAD would ideally be used for the individual designs of the electronics mod
 `Evaluate its value in the context of the project. What will it solve, is it safe, etc. Check Lara’s slides for what to cover.`
 
 
+The SMILE coolbox works as it is, and is safe for users. Despite this, it has come up against approval and funding issues. Ideabatic has decided to take the device to developed markets (such as the UK) as a proof of concept, along with the addition of further features which can be included or removed as costs require for developing market applications. 
+
+
+There are three core improvements to the existing design that we are looking to implement:
+
+The door being self-closing, and/or warning users if left open, has been proven by field tests to be a functional necessity. Due to carelessness, the door is often left open, which leads to unnecessary spoiling of the vaccines. Ergonomics of the door opeartion is essential for ease of use, and must accommodate the varied nature of applications and shapes and sizes of users. 
+
+
+Implementing a simple display, showing the cool life remaining, or at its simplest, an 'OK' or 'NOT OK' signal, is a high-impact safety feature, which allows the administer of vaccines to be aware when vaccines have spoiled, and when they need to return to restock the icepack. Here, information saves lives. 
+
+The current algorithm for estimating the temperature in each vaccine compartment has been calibrated assuming that the SMILE door is closed at all times. In reality, the door will frequently be opened, especically during an administration session. This leads to much faster cooling rates (extent to be determined), and thus shorter cool lifetimes. To obtain an accurate temperature estimate and make the display worthwhile, the algorithm should thus be improved to include the effect of the open door; preferably coupled with a real-time sensor on the door to indicate its state. 
