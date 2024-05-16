@@ -63,10 +63,10 @@ These are effectively "nice to haves" and aren't primary objectives.
 ### Mechanical
 
 #### Failure to design "snap-fit" module and door:
-The snap fit mechanism needs to be decided on rather early in the design process to ensure compatibility between different parts. If such a mechanism could not be reliably prototyped or functional, it would cause difficulties in continuing with other aspects of the project.
+The snap fit mechanism needs to be decided on rather early in the design process to ensure compatibility between different parts. If such a mechanism could not be reliably prototyped or functional, it would cause difficulties in continuing with other aspects of the project. Therefore it should be the first point of investigation before deciding on other aspects of design.
 
 #### Difficulties integrating electronics with casing design:
-As the casing design is dependent on the type and number of components used by the electronics team, later changes to the design of electronics may affect the design of the casing. If it takes a long time to settle on a design for the electronics module, there may not be enough time to complete the casing design.
+As the casing design is dependent on the type and number of components used by the electronics team, later changes to the design of electronics may affect the design of the casing. If it takes a long time to settle on a design for the electronics module, there may not be enough time to complete the casing design. Ensure the dimensions of slot and casing prototypes can be easily changed in later iterations to accomodate changes in size of the module, and work with electronics team to ensure shape of module is reasonable.
 
 #### No time for improving robustness of spring mechanism: 
-It is foreseeable that we may run out of time to deeply investigate the self-closing door mechanism, as it involves improving on many iterations of previous designs that may have explored most aspects of torsional springs, and may require extensive testing to yield new results.
+It is foreseeable that we may run out of time to deeply investigate the self-closing door mechanism, as it involves improving on many iterations of previous designs that may have explored most aspects of torsional springs, and may require extensive testing to yield new results. It is not the most critical aspect of this design project.
