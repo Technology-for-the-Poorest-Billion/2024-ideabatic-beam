@@ -10,11 +10,11 @@ Have experience prototyping electronics with a Pi 4 and different sensors, with 
 <br> Requires training, or examples given, for C++ code, and for building a display interface.
 
 ### Ness
-Training needed on rapid prototyping skills such as OpenSCAD and 3D printing.
+Experience using CAD for extracurricular projects. Training needed on specific rapid prototyping skills such as OpenSCAD and 3D printing.
 
 ### Benjamin
 Some experience with implementing a sensor module on a Raspberry Pi Pico, as well as datalogging results to fit to a model. Probably well suited to exploring the temperature algorithm improvement problem (accounting for the opening of the door). 
-Good communicator, suited to taking on task management, timeline and operations tasks.
+<br> Good communicator, suited to taking on task management, timeline and operations tasks.
 Unfamiliar with CAD. 
 
 ## The resources needed
@@ -73,4 +73,4 @@ The snap fit mechanism needs to be decided on rather early in the design process
 As the casing design is dependent on the type and number of components used by the electronics team, later changes to the design of electronics may affect the design of the casing. If it takes a long time to settle on a design for the electronics module, there may not be enough time to complete the casing design. Ensure the dimensions of slot and casing prototypes can be easily changed in later iterations to accomodate changes in size of the module, and work with electronics team to ensure shape of module is reasonable.
 
 #### No time for improving robustness of spring mechanism: 
-It is foreseeable that we may run out of time to deeply investigate the self-closing door mechanism, as it involves improving on many iterations of previous designs that may have explored most aspects of torsional springs, and may require extensive testing to yield new results. It is not the most critical aspect of this design project.
+It is foreseeable that we may run out of time to deeply investigate the self-closing door mechanism, as it involves improving on many iterations of previous designs that may have explored most aspects of torsional springs, and may require extensive testing to yield new results. It is not the most critical aspect of this design iteration.
