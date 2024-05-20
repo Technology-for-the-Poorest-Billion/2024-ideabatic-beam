@@ -30,7 +30,7 @@ Experience using CAD for extracurricular projects. Training needed on specific r
 | Solderless Breadboard | 2 | £3.38 | https://uk.farnell.com/multicomp/mcbb400/breadboard-solderless-300v-abs/dp/2395961 | 
 | Buzzer | 1 | £3.26 | https://uk.farnell.com/projects-unlimited/ai-3245-tf-lw95-r/audible-signal/dp/1653528 | 
 | Wires | 1 | £3.32 | https://uk.farnell.com/multicomp-pro/mp006282/jumper-wire-kit-male-to-male-100mm/dp/3617770?st=jumper%20wire | 
-| Switch | 1 | £1.98 | https://uk.farnell.com/omron-electronic-components/d2ffl/microswitch-hinge-lever-1a-pcb/dp/1961095?st=lever%20switch | 
+| Switches / Buttons | 1 | £1.98 | https://uk.farnell.com/omron-electronic-components/d2ffl/microswitch-hinge-lever-1a-pcb/dp/1961095?st=lever%20switch | 
 | 3D Printed Parts | Unknown | £5 | N/A | 
 | AA battery module | Unknown | £5 | N/A |
 
