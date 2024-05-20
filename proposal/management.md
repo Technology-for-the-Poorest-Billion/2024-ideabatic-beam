@@ -32,6 +32,7 @@ Experience using CAD for extracurricular projects. Training needed on specific r
 | Wires | 1 | £3.32 | https://uk.farnell.com/multicomp-pro/mp006282/jumper-wire-kit-male-to-male-100mm/dp/3617770?st=jumper%20wire | 
 | Switch | 1 | £1.98 | https://uk.farnell.com/omron-electronic-components/d2ffl/microswitch-hinge-lever-1a-pcb/dp/1961095?st=lever%20switch | 
 | 3D Printed Parts | Unknown | £5 | N/A | 
+| AA battery module | Unknown | £5 | N/A |
 
 Note that these are rough estimate for the  parts needed; more research is needed to look into some of these parts to find more fitting alternatives.
 
