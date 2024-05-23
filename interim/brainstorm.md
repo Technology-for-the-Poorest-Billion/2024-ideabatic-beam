@@ -4,13 +4,23 @@
 issues with corrosion/lifetime
 potential issues with fatigue
 
+
 - comparing the difference in temperature between the two temperature sensors
 issues with 
 can also compare the internal with the predicted
 
+
 - do we actually need the internal sensor
 algorithm simply uses the external sensor
 need to contact last years team
+
+
+- for connection to internal sensor:
+  wires going straight through down the door
+  wiring around -- issues with wear
+  going through metal hinges/through door switch contact
+
+
 
 - button switch
 
