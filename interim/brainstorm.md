@@ -32,7 +32,7 @@ need to contact last years team
 
 - something using the hinge as electrical contacts???
 
-
+- internal sensor preferred for mounting stability, reduces influence of electronics heating corrputing, better accuracy (fewer components whose thermal resistances need to be estimated)
 
 # How will we connect the internal sensor to the external module?
 
