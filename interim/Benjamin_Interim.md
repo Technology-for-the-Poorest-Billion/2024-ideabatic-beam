@@ -77,9 +77,9 @@ Project partner has her own preferences, particularly concerned with sensor degr
 - Computing thermal resistance per unit depth of door;
 
 - Running simulation to quantify effect on cool lifetime:
-![IMG_9BA91C064C3B-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/778feb40-0244-448c-85c7-256ff3ce7fd7)
+![IMG_BCBBDE28F372-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a8e9b9f-3947-4bb9-898e-086afd208efc)
 
-
+This is worst case (can cover ends etc.), but worth worrying about! 
 
 - Kitty, our project partner, still very interested in using the temperature sensor on the door. Part of the useful output of this project will be a demonstration of why this is not necessary, by attempting to quantify with a KPI the drawbacks. 
 
