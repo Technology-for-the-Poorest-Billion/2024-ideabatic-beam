@@ -7,7 +7,7 @@ Current vaccine carriers use cooler boxes which are poorly adapted to the condit
 
 SMILE, by Ideabatic, aims to combat this issue with a uniquely designed cooler box containing only a single ice pack that can keep 18 vaccines cool for up to 4 days (120 hours), along with a self-closing door mechanism to reduce human error. The design also incorporates a waterproof casing with further insulation and straps for comfortable carry as a backpack. Clearly responding to a genuine need, the impact of SMILE can be assessed against UN's sustainable development goals, most obviously Goal 3: Good Health and Wellbeing. 
 
-<!-- Contextualising the project, embracing last years work and being explicit about improvements we intend ot make
+<!-- Contextualising the project, embracing last years work and being explicit about improvements we intend ot make-->
 
 Ideabatic has been collaborating with many different project groups to develop a temperature display electronics module as an add-on product to the SMILE device. The need for such a product was identified after some users relayed that they wanted to keep track of the temperature in the SMILE device to better ensure the vaccine is stored properly.
 
