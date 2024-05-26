@@ -20,3 +20,7 @@ Issues encountered:
 - actually deciphering all of the available data (not particularly good file management from partner or previous team)
 
 Steps taken to overcome issues:
+
+
+
+• Update the project development time-line and present a plan for completion.
