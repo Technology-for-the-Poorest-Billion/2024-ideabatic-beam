@@ -3,8 +3,13 @@ My role: Project management, The design problem
 Some additional context:
 This project was taken on by a team last year, here is the progress they made and where they fell short:
 
+- they made an electronic circuit but it was not modular, was not able to clip on and off from the door
 
-Redefining the objective:
+
+• Troubleshooting skills 
+
+
+Reassessing and redefining the objective:
 
 Following discussions with our project partner and Alexandre, the objectives for the project have been simplified:
 
@@ -19,53 +24,28 @@ Constraints on the design:
 
 
 
-
-
 If the primary goal is comfortably satisfied within the time constraints of the project, we have some bonus secondary objectives which can be addressed:
 - implementing GPS tracking and data logging on the electronics module
 - adapting the temperature prediction algorithm to account for the door open vs door closed
 
-
-
-Romeo's role:
-
-The electronics and code (I have already prepared some code in the Raspberry Pi Pico's compatible Python IDE Thonny, 
-which should work, just needs to be adapted to the specific temeprature sensor and tested with the circuit once assembled. 
-
-Romeo more suited to how the electronic circuit should actually work, and choosing the appropriate components 
-(for example the details of how the switch could be implemented)
-
-Teamwork:
-
-
-
-Work done:
-
-
-Issues encountered:
-
-- actually deciphering all of the available data
-
-Steps taken to overcome issues:
-
+- Kitty, our project partner, still very interested in using the temperature sensor on the door. Part of the useful output of this project will be a demonstration of why this is not necessary, by attempting to quantify with a KPI the drawbacks. 
 
 Prototype candidate designs:
 
-- draw each one, technical feasibility assessment of each one.
 
-- a brief calculation showing the insulation lost to a small cylindrical hole for wire through the insulating cuboid 
-(in terms of depth of cuboid etc)
+
+
 
 Radar plot for 
 
 
-Introducing the Key Performance Indicator: Area of the Radar Plot.
+Introducing the Key Performance Indicator: Area of the Radar Plot. Alternatively just a weighted product of the various dimensions. Probably more appropriate since each one is essential, so any one going to zero should give a KPI of zero. 
 
 Dimensions of Radar plot:
 - cost
 - mechanical robustness
-- electronic 
 - insulation efficacy
+- accuracy and verasity of temperature measurement
 
 Ideal output will be a visual and quantified representation of the experienced or expected suitability of each candidate design.
 
@@ -75,8 +55,19 @@ Experiences for the ones that we actually make into prototypes,
 Each student would ideally present a specific aspect they have contributed to (giving credits to other where appropriate) and briefly explain how the work package they present fits within the overall project
 
 • Team working skills, good log of work done and issues
-• Troubleshooting skills and the ability to reassess objectives when necessary.
-• Technical characterisation of how well the prototype meets the project objective
+
+
+
+My output for tomorrow:
+- A schematic of the electrical circuit we are looking to design. Three variants - external sensor, internal sensor wired, internal sensor wireless
+- An illustration of the added uncertainty caused by putting the temperature sensor external (thermal resistive component)
+- Drawing of each overall design considered so far
+- Outline of the dimensions of the key performance indicator, some radar plots for each candidate design (to be updated)
+- A rough rating of each candidate's rankings on radar plot
+(eg a brief calculation showing the insulation lost to a small cylindrical hole for wire through the insulating cuboid 
+(in terms of depth of cuboid etc))
+
+
 
 
 • Where applicable, show an early prototype and demonstrate feasibility;
