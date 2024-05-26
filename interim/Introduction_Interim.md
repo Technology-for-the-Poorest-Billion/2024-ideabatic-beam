@@ -25,3 +25,4 @@ Steps taken to overcome issues:
 
 
 • Update the project development time-line and present a plan for completion.
+• Present a summary of team members' personal and technical development (what have you learnt and how have you learned it?);
