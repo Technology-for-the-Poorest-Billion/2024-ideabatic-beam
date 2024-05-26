@@ -1,4 +1,6 @@
 • Troubleshooting skills 
+• Present a summary of team members' personal and technical development (what have you learnt and how have you learned it?);
+• Team working skills, good log of work done and issues
 My role: Project management, The design problem
 
 ## Some additional context:
@@ -50,10 +52,10 @@ Raspberry Pi Pico Microcontroller, DHT22 temperature sensor, 10kΩ resistor and 
 Why is there a 'default'? Shouldn't this be an open design problem?
 Yes, but...
 Project partner has her own preferences, particularly concerned with sensor degradation, 
-
+Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
 <br />
 
-#### Communication and justification (preferably quantitative) of our design decisions is important!
+#### Communication and justification of our design decisions is important!
 
 <br />
 
@@ -70,7 +72,7 @@ Project partner has her own preferences, particularly concerned with sensor degr
 ### Quantifying Compromise to Insulation
 
 - Manufacturing and design interdependence:
- Smallest wiring ~ 2 mm. Door made of PBS, cast ⇒ ± 1 mm
+ Smallest wiring ~ 2 mm. Door made of PBS, manufactured by casting ⇒ ± 1 mm
 
 - Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 6.3mm<sup>2</sup> wiring, 20.2mm<sup>2</sup> air.  
 
@@ -81,24 +83,57 @@ Project partner has her own preferences, particularly concerned with sensor degr
 
 This is worst case (can cover ends etc.), but worth worrying about! 
 
-- Kitty, our project partner, still very interested in using the temperature sensor on the door. Part of the useful output of this project will be a demonstration of why this is not necessary, by attempting to quantify with a KPI the drawbacks. 
+ 
 
 
 
 
-- using the temperature sensor externally only enhances potential for modularity
-- if temperature sensor external, we will need to reconsider series used as DHT22 does not have very good water resistance. Will need to revisit component selection. 
 
+
+
+
+
+Cost of making wireless (two microcontrollers chaper than buying wireless temperature sensor):
+Pi Pico → Pi Pico W: £2
+Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
+So adds £6 to the single-unit price of electronics module
+Might *just* be feasible if there are no other cost incurred (see below)
+
+
+### Budget Feasability
+
+| Part Description | Single Unit Cost | Bulk 100+ Unit Cost |  |
+|-|-|-|-|
+|Raspberry Pi Pico| £4.02 | £3.14 | 
+|DHT22| £4.74 | £3.56 | 
+| OLED Display | £10.19 | Pending (supplier contacted) ~ £7.95 |  
+
+#### Per-unit cost for 100+ units: £14.65
+
+<img width="294" alt="Screenshot 2024-05-26 at 22 03 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/8339f98f-2ae2-430d-b406-43770354d9cf">
+
+#### Optimistic Per-unit cost for 3000 units: £11.37 
+(Assumes continuation of logarithmic pricing trend, such that per-unit cost falls to 60% of single-unit cost)
+
+<br />
+
+Hence,
+#### Single-unit cost that could feasibly be added: (15-11.37)/0.6 = £6.05
+
+
+
+My output for tomorrow:
+- Introduce the remaining candidate designs
+-  An outline of how I am going to go about similar feasability analysis of each remaining design, and what I expect the main concern to be
+- (eg an illustration of the added uncertainty caused by putting the temperature sensor external (thermal resistive component))
+
+- How I intend to rank them to determine which ones should be pursued
+- Outline of the dimensions of the key performance indicator, one example radar plot for each candidate design (to be updated)
+- A rough rating of each candidate's rankings on radar plot
+
+# Communicating Design Decisions
 
 Radar plot for 
-
-- Material used for door is Acrylonitrile Butadiene Styrene, or ABS; door is to be manufactured by polymer casting, which would have a tolerance of ~1 mm to a first-order estimation.
-- Smallest cables we can source economically will have diameter ~2mm
-- Hence in the best case we perfectly house the two cables,
-- In the worst case we have a clearance of 1mm either side of open space,
-- This does not take into account the 
-
-- Clear illustration of design and manufacturing method being interdependent 
 
 
 Introducing the Key Performance Indicator: Area of the Radar Plot. Alternatively just a weighted product of the various dimensions. Probably more appropriate since each one is essential, so any one going to zero should give a KPI of zero. 
@@ -111,44 +146,15 @@ Dimensions of Radar plot:
 
 Ideal output will be a visual and quantified representation of the experienced or expected suitability of each candidate design.
 
-Experiences for the ones that we actually make into prototypes, 
+- using the temperature sensor externally only enhances potential for modularity
+- if temperature sensor external, we will need to reconsider series used as DHT22 does not have very good water resistance. Will need to revisit component selection. 
 
-
-Each student would ideally present a specific aspect they have contributed to (giving credits to other where appropriate) and briefly explain how the work package they present fits within the overall project
-
-• Team working skills, good log of work done and issues
-
-The most cost-effective way of creating the wireless communication is likely to be 
-
-Cost of making wireless:
-Pi Pico + £2
-https://thepihut.com/products/raspberry-pi-pico-w?src=raspberrypi
-
-Wireless module microcontroller to communicate with Pi Pico: £4
-https://kunkune.co.uk/shop/esp32-esp8266/esp8266-nodemcu-v2-cp2102-lua-wifi-development-board-module/
-
-So adds £6 to the price of electronics module
-
-Even with bulk discounts unlikely to be economical given batch size and budget
-
-
-
-My output for tomorrow:
-- A schematic of the electrical circuit we are looking to design. 
-- An illustration of the added uncertainty caused by putting the temperature sensor external (thermal resistive component)
-- Drawing of each overall design considered so far
-- Outline of the dimensions of the key performance indicator, some radar plots for each candidate design (to be updated)
-- A rough rating of each candidate's rankings on radar plot
-(eg a brief calculation showing the insulation lost to a small cylindrical hole for wire through the insulating cuboid 
-(in terms of depth of cuboid etc))
-
-
+<br />
 
 References
 
 https://mathworld.wolfram.com/Lens.html
 
+https://thepihut.com/products/raspberry-pi-pico-w?src=raspberrypi
 
-• Where applicable, show an early prototype and demonstrate feasibility;
-• Present a summary of team members' personal and technical development (what have you learnt and how have you learned it?);
-• Update the project development time-line and present a plan for completion.
+https://kunkune.co.uk/shop/esp32-esp8266/esp8266-nodemcu-v2-cp2102-lua-wifi-development-board-module/
