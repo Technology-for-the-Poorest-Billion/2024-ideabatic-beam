@@ -5,7 +5,7 @@ My role: Project management, The design problem
 This project was taken on by a team last year, here is the progress they made and where they fell short:
 
 - successfully made an electronic circuit that displayed the temperature and remaining cool life
-- was not modular, was not able to clip on and off from the door
+- was not very modular, required removal of door which was tedious in practice.
 - ambiguity in their recommendation for position of the temperature sensor
 - did not quantify the effect of the electronics module compromising insulation
 - mechanical issues with door ergonomics, lack of protection for display screen
@@ -19,7 +19,7 @@ Following discussions with our project partner and Alexandre, the objectives for
 #### Primary goal: (i) Make the electronics modular, (ii) minimise the compromise to insulation.
 
 Secondary objectives (only if primary satisfied): 
-- implementing GPS tracking and data logging on the electronics module
+- implementing GPS tracking and data logging to external storage (as opposed to within Pi) on the electronics module
 - adapting the temperature prediction algorithm to account for the door open vs door closed
 
   <br />
