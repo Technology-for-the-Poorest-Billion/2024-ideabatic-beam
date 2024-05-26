@@ -1,11 +1,16 @@
 # Romeo's role:
-Predominantly focussed on the physical aspect of the electronics module. This includes interfacing the electronics with each other, along with finding the best way to implement the electronics module that best preserves insulation.
-Dealing with the software implementation.
+Predominantly focussed on the physical aspect of the electronics module. This includes interfacing the electronics with each other, along with finding the best way to implement the electronics module that best preserves insulation. Will also be dealing with the software implementation.
 
-# Tasks completed (?)
+
+# Personal and technical development
+
+
+
+# Tasks completed
 - Sent order for the electronic components required; ETA Tuesday 28/05.
   - This included the following: Raspberry Pi Pico, DHT22 temperature sensor, an OLED screen, buttons, and an AA battery holder, among other components for testing.
 - Brainstormed different ideas with Benjamin to narrow down different designs to detect the door being open/closed.
+- Rough software draft made, but will require testing to determine hurdles.
 
 # Main tasks remaining:
 - Combine the electronics into an "electronics module", working with Ness to build a case via 3D printing. 
@@ -16,6 +21,9 @@ Dealing with the software implementation.
 - Reconciling the code the team last year had with our prototype
   - Converting the code to python for better function with Pico.
 
+# Issues
+All work done has been theoretical, so the main issues that have arisen have been compatibility issues. 
+<br> The main problem we are currently facing is deciding which paths we wish to explore and which aren't worth exploring, especially considering the limited time we have left. To best tackle this, we have looked at each and explored them as best we can to see which will be most fruitful in our case.
 
 ## Methods of detecting the door state
 - Button switch that is pressed when the door is closed, as the last years team. (CAN INCLUDE PICTURE?)
@@ -47,3 +55,5 @@ Dealing with the software implementation.
 Notes to tackle:
 <br> Water resistance: Electronics module prototype likely won't be water resistant, which could be especially different noting that the module would involve a screen, buttons, a USB port for charging, and potentially a micro SD card slot, though for this we consider having this only accessible inside the casing. 
 <br> This is a conceptual prototype, and the external case is highly water resistant.
+
+
