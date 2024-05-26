@@ -33,7 +33,7 @@ If the primary goal is comfortably satisfied within the time constraints of the 
 Prototype candidate designs:
 
 
-
+<img alt="Circuit Diagram" src="interim/Screenshot 2024-05-26 at 15.01.22.png">
 
 
 Radar plot for 
