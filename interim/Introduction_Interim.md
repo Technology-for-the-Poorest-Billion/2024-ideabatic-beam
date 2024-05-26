@@ -18,6 +18,7 @@ Work done:
 Issues encountered:
 
 - actually deciphering all of the available data (not particularly good file management from partner or previous team)
+- surprisingly long lead time on component orders (need to order all components we will need today if not before this presentation)
 
 Steps taken to overcome issues:
 
