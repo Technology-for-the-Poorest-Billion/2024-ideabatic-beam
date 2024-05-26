@@ -9,7 +9,8 @@ Dealing with the software implementation.
 
 # Main tasks remaining:
 - Combine the electronics into an "electronics module", working with Ness to build a case via 3D printing. 
-- Designing a way to interface the electronics module with the internal temperature sensor. Current method is to use a pair of male/female headers to connect the module to the internal temperature sensor, with the following routing ideas:
+- Designing a way to interface the electronics module with the internal temperature sensor. Current method is to use a pair of male/female headers to connect the module to the internal temperature sensor.
+  - Using a bluetooth temperature sensor that is embedded among the vials is a possible solution, albeit expensive and possibly complicated.
 - Trialling methods of detecting the door state.
 - Decide the best cable routing method.
 - Reconciling the code the team last year had with our prototype
@@ -39,9 +40,9 @@ Dealing with the software implementation.
   - Issue with cable routing
 
 
-## Methods of internal cable routing
+## Methods of internal cable routing for the internal temperature sensor/other internal components
 - Wire that leads from the module connector to the temperature sensor, see Benjamin's work.
-- Route wiring through the surface of the door, using the hinge as an electrical connection.
+- Route wiring through the surface of the door, using the hinge as an electrical connection, as it is accessible from the outer and inner surfaces.
 
 Notes to tackle:
 <br> Water resistance: Electronics module prototype likely won't be water resistant, which could be especially different noting that the module would involve a screen, buttons, a USB port for charging, and potentially a micro SD card slot, though for this we consider having this only accessible inside the casing. 
