@@ -65,5 +65,5 @@ Personal and technical developments, and work done so far will be presented late
 - Direct contact with suppliers of electrical components made to negotiate bulk price discounts
 
 # Updated project timeline
-<img height="250" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/26ced931-077a-4340-92c2-954b23e655ac">
+<img width="1000" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/26ced931-077a-4340-92c2-954b23e655ac">
 <br> On track with original timeline, small adjustments made. We have used the extra time scheduled, noting that the parts took longer to arrive than expected.
