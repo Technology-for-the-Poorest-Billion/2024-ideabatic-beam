@@ -185,3 +185,5 @@ https://thepihut.com/products/raspberry-pi-pico-w?src=raspberrypi
 https://kunkune.co.uk/shop/esp32-esp8266/esp8266-nodemcu-v2-cp2102-lua-wifi-development-board-module/
 
 https://chachart.net/radar?lang=en
+
+https://wokwi.com/projects/398954539831627777
