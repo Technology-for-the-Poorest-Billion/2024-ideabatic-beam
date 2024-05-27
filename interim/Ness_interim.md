@@ -52,7 +52,7 @@ Delay in electronics delivery:
 - 3D print new door top and casing.
 - Assess success of design and give suggestions for improvement.
 
-## Personal and technical developments
+## Technical developments
 - Practiced using OpenSCad and interfacing with Solidworks through .STL files.
 - Github documentation of OpenSCAD code.
 - Learned design strategies for in field use (preventing drop damage).
