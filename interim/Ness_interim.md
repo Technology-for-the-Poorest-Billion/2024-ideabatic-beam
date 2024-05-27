@@ -37,6 +37,9 @@ Limitations with editing .STL files:
 - Unable to edit directly on OpenSCAD, therefore instead modifying door using Solidworks as modelling a new door in OpenSCAD is too difficult.
 - Download as .STL to interface with other components in OpenSCAD.
 
+Solidworks files to Github storage:
+- Stored on a One Drive for now, need to figure out transfer.
+
 Delay in electronics delivery:
 - Unable to settle on design at this stage, delays in design.
 - Easily adjustable code.
