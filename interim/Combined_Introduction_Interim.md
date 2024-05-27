@@ -3,7 +3,7 @@ Ideabatic has been collaborating with many different project groups to develop a
 
 Previous project groups have worked on different electronics housing and door slot designs, developing temperature and cool life prediction algorithms and door alert systems, and improving other mechanical features such as the self-closing mechanism and lid ergonomics. This project aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by Kitty Liao (founder of SMILE) and personal insight.
 
-#### Primary goal: (i) Make the electronics modular, (ii) minimise the compromise to insulation, (iii) improve erognomics of door
+#### Primary goal: (i) Make the electronics modular, (ii) minimise the compromise to insulation, (iii) improve erognomics of door, and make CAD open-source
 
 Secondary objectives (only if primary satisfied): 
 - implementing GPS tracking and data logging to external storage (as opposed to within Pi) on the electronics module
