@@ -25,8 +25,7 @@ Predominantly focussed on the physical aspect of the electronics module. This in
   - Using a bluetooth temperature sensor that is embedded among the vials is a possible solution, albeit expensive and possibly complicated.
 - Trialling methods of detecting the door state.
 - Decide the best cable routing method.
-- Reconciling the code the team last year had with our prototype.
-  - Converting the code to python for better function with Pico.
+- Refining the code to make it work well with our prototype.
 
 ### Notes to tackle:
 **Water resistance:** Electronics module prototype won't be water resistant, which could be especially difficult noting that the module would involve a screen, buttons, a USB port for charging, and potentially a micro SD card slot, though for this we consider having everything only accessible inside the casing. 
