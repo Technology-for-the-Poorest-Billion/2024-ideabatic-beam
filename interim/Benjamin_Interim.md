@@ -14,6 +14,10 @@ This project was taken on by a team last year, here is the progress they made an
 
 <br />
 
+# Work done so far
+<br />
+<br />
+
 ## Reassessing and redefining the objective:
 
 Following discussions with our project partner and Alexandre, the objectives for the project have been simplified:
@@ -62,6 +66,8 @@ Part of the useful output of this project will be a demonstration of why this is
 # The candidate designs
 ![IMG_548055A1CA77-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a9dc1aa-215c-462d-ad70-416d689262e8)
 
+<br />
+<br />
 
 ## 1: Direct Axial Connection - Feasability Assessment
 
@@ -81,12 +87,16 @@ Part of the useful output of this project will be a demonstration of why this is
 - Computing thermal resistance per unit depth of door;
 
 - Running simulation to quantify effect on cool lifetime:
-![IMG_BCBBDE28F372-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a8e9b9f-3947-4bb9-898e-086afd208efc)
+
+
+<img width="625" alt="Screenshot 2024-05-27 at 10 22 40" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/5056e698-d9bb-46e1-b047-cd04820a952a">
+
 
 This is worst case (can cover ends etc.), but worth worrying about! 
 
  
-
+<br />
+<br />
 
 
 
@@ -96,9 +106,13 @@ This is worst case (can cover ends etc.), but worth worrying about!
 ## 2: Wireless Communication - Feasability Assessment
 
 Cost of making wireless (two microcontrollers chaper than buying wireless temperature sensor):
+
 Pi Pico → Pi Pico W: £2
+
 Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
+
 So adds £6 to the single-unit price of electronics module
+
 Might *just* be feasible if there are no other cost incurred (see below)
 
 
@@ -116,7 +130,7 @@ Might *just* be feasible if there are no other cost incurred (see below)
 
 <img width="294" alt="Screenshot 2024-05-26 at 22 03 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/8339f98f-2ae2-430d-b406-43770354d9cf">
 
-#### Optimistic Per-unit cost for 3000 units: £11.37 
+#### Optimistic Per-unit cost of core electronics module for 3000 units: £11.37 
 (Assumes continuation of logarithmic pricing trend, such that per-unit cost falls to 60% of single-unit cost)
 
 <br />
@@ -124,34 +138,33 @@ Might *just* be feasible if there are no other cost incurred (see below)
 Hence,
 #### Single-unit cost that could feasibly be added: (15-11.37)/0.6 = £6.05
 
-
-
-My output for tomorrow:
-- Introduce the remaining candidate designs
--  An outline of how I am going to go about similar feasability analysis of each remaining design, and what I expect the main concern to be
-- (eg an illustration of the added uncertainty caused by putting the temperature sensor external (thermal resistive component))
-
-- How I intend to rank them to determine which ones should be pursued
-- Outline of the dimensions of the key performance indicator, one example radar plot for each candidate design (to be updated)
-- A rough rating of each candidate's rankings on radar plot
-
 # Communicating Design Decisions
 
-Radar plot for 
+To justify design decisions, score each in the following dimensions, resulting in Key Performance Indicator
 
+Radar plot for visualisation of rankings:
 
-Introducing the Key Performance Indicator: Area of the Radar Plot. Alternatively just a weighted product of the various dimensions. Probably more appropriate since each one is essential, so any one going to zero should give a KPI of zero. 
+<img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
 
-Dimensions of Radar plot:
-- cost
-- mechanical robustness
-- insulation efficacy
-- accuracy and verasity of temperature measurement
+<img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
 
-Ideal output will be a visual and quantified representation of the experienced or expected suitability of each candidate design.
+Since each dimension critical, alternatively KPI is a weighted product of scores in each dimension. 
 
-- using the temperature sensor externally only enhances potential for modularity
-- if temperature sensor external, we will need to reconsider series used as DHT22 does not have very good water resistance. Will need to revisit component selection. 
+- which candidates to proceed with
+- relative strengths and weaknesses
+- areas for improvement 
+
+<br />
+
+# My Personal and Technical Development
+- Redefining the objectives: what is really necessary?
+- Discussing changes of direction with project partner
+- Applying conceptual engineering skills (eg heat transfer) to a real problem
+- Clear documentation and communication of design decisions for partner
+- Contacting suppliers for quotes
+- Budgeting
+- Project direction and management
+
 
 <br />
 
