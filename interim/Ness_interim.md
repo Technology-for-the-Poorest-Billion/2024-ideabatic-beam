@@ -8,6 +8,8 @@
 - Soft ridge around electronics module slot (preliminary OpenSCAD design shown with hard ridge).
 ![Screen Shot 2024-05-27 at 12 49 04](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/230af53f-4ea0-40a9-ad0e-0e69329a3fb9)
 - Ridges on component interfaces to facilitate joining and compatability.
+
+  
 ![plastic-to-metal-300x268](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/fa2993a0-f6a4-4fce-9b40-bad383336df5)
 
 ## Tasks completed
