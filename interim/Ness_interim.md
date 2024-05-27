@@ -29,7 +29,7 @@ Assembling components:
 - Used online .STL measurement tools to obtain precise measurements.
 ![Screen Shot 2024-05-27 at 13 17 05](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/6fac668d-58c6-40d3-876e-c00197562814)
 
-Editing .STL files:
+Limitations with editing .STL files:
 - Using difference/intersection commands to edit .STL imported files becomes rather buggy.
 - Unable to edit directly on OpenSCAD, therefore instead modifying door using Solidworks as modelling a new door in OpenSCAD is too difficult.
 - Download as .STL to interface with other components in OpenSCAD.
