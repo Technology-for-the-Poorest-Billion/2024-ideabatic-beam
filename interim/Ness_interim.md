@@ -55,6 +55,7 @@ Delay in electronics delivery:
 
 ## Technical developments
 - Practiced using OpenSCad and interfacing with Solidworks through .STL files.
+- Brushed up on Solidworks skills.
 - Github documentation of OpenSCAD code.
 - Learned design strategies for in field use (preventing drop damage).
 
