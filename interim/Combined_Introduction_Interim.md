@@ -2,7 +2,9 @@
 
 Ideabatic has been collaborating with many different project groups to develop a temperature display electronics module as an add-on product to the SMILE device. The need for such a product was identified after some users relayed that they wanted to keep track of the temperature in the SMILE device to better ensure the vaccine is stored properly.
 
-Previous project groups have worked on different electronics housing and door slot designs, developing temperature and cool life prediction algorithms and door alert systems, and improving other mechanical features such as the self-closing mechanism and lid ergonomics. This project aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by Kitty Liao (founder of SMILE) and personal insight.
+Previous project groups have worked on different electronics housing and door slot designs, developing temperature and cool life prediction algorithms and door alert systems, and improving other mechanical features such as the self-closing mechanism and lid ergonomics. 
+
+This project aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by Kitty Liao (founder of SMILE) and personal insight.
 
 # Teamworking
 
