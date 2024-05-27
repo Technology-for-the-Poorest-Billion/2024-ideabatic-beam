@@ -60,8 +60,10 @@ Part of the useful output of this project will be a demonstration of why this is
 <br />
 
 # The candidate designs
+![IMG_548055A1CA77-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a9dc1aa-215c-462d-ad70-416d689262e8)
 
-## 1: Direct Axial Connection
+
+## 1: Direct Axial Connection - Feasability Assessment
 
 ![IMG_E583BCB9C4C2-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/3e06c55b-12ec-494d-95e8-133f6d736d58)
 
@@ -91,7 +93,7 @@ This is worst case (can cover ends etc.), but worth worrying about!
 
 
 
-
+## 2: Wireless Communication - Feasability Assessment
 
 Cost of making wireless (two microcontrollers chaper than buying wireless temperature sensor):
 Pi Pico → Pi Pico W: £2
@@ -109,6 +111,8 @@ Might *just* be feasible if there are no other cost incurred (see below)
 | OLED Display | £10.19 | Pending (supplier contacted) ~ £7.95 |  
 
 #### Per-unit cost for 100+ units: £14.65
+
+<img width="554" alt="Screenshot 2024-05-27 at 09 31 38" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/ce9f7c97-dcb2-4112-bca8-47bfbc8a6cdc">
 
 <img width="294" alt="Screenshot 2024-05-26 at 22 03 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/8339f98f-2ae2-430d-b406-43770354d9cf">
 
