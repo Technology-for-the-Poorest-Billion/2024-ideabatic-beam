@@ -3,7 +3,10 @@ Predominantly focussed on the physical aspect of the electronics module. This in
 
 
 # Personal and technical development
-
+- Developed personal knowledge of all the parts and how best to combine them.
+- Getting used to developing with the pi pico via Thonny
+- Improving logic regarding software
+- Will have to get used to interrupts etc
 
 
 # Project Timeline
