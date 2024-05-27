@@ -1,8 +1,3 @@
-• Troubleshooting skills 
-• Present a summary of team members' personal and technical development (what have you learnt and how have you learned it?);
-• Team working skills, good log of work done and issues
-My role: Project management, The design problem
-
 ## Some additional context:
 This project was taken on by a team last year, here is the progress they made and where they fell short:
 
