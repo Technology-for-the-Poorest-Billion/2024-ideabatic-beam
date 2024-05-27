@@ -21,7 +21,7 @@
 ## Issues faced and solutions
 Understanding OpenSCAD syntax:
 - Simple but required time to get used to and not as intuitive as Solidworks.
-- Using difference/intersection commands to edit .STL imported files becomes rather buggy.
+- Consult online forums and wiki.
 
 Assembling components:
 - Difficult to assemble components, need to constantly refer back to Solidworks file to check how they fit.
@@ -30,6 +30,7 @@ Assembling components:
 ![Screen Shot 2024-05-27 at 13 17 05](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/6fac668d-58c6-40d3-876e-c00197562814)
 
 Editing .STL files:
+- Using difference/intersection commands to edit .STL imported files becomes rather buggy.
 - Unable to edit directly on OpenSCAD, therefore instead modifying door using Solidworks as modelling a new door in OpenSCAD is too difficult.
 - Download as .STL to interface with other components in OpenSCAD.
 
