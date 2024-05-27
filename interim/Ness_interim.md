@@ -37,6 +37,10 @@ Limitations with editing .STL files:
 - Unable to edit directly on OpenSCAD, therefore instead modifying door using Solidworks as modelling a new door in OpenSCAD is too difficult.
 - Download as .STL to interface with other components in OpenSCAD.
 
+Delay in electronics delivery:
+- Unable to settle on design at this stage, delays in design.
+- Easily adjustable code.
+
 ## Next steps
 - Adding ridges to the casing/casing cap and casing bottom/door slot interfaces to facilitate joining of components.
 - Finish first door lip design modification on Solidworks.
