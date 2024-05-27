@@ -6,8 +6,8 @@ Previous project groups have worked on different electronics housing and door sl
 #### Primary goal: (i) Make the electronics modular, (ii) minimise the compromise to insulation, (iii) improve erognomics of door, and make CAD open-source
 
 Secondary objectives (only if primary satisfied): 
-- implementing GPS tracking and data logging to external storage (as opposed to within Pi) on the electronics module
-- adapting the temperature prediction algorithm to account for the door open vs door closed
+- Implementing GPS tracking and data logging to external storage (as opposed to within Pi) on the electronics module
+- Adapting the temperature prediction algorithm to account for the door open vs door closed
 
 # Teamworking
 
@@ -35,11 +35,11 @@ Transfer drawings of previous and current designs from Solidworks to OpenSCAD to
 <br />
 
 **Teamwork:**
-- have been meeting multiple times a week to discuss project ideas
-- assisting each other in assigned tasks
-- constantly discussing project direction and progress on Whatsapp
-- also in regular contact with project partner
-- expect in-lab hours to increase as electronics components arrive
+- Have been meeting multiple times a week to discuss project ideas
+- Assisting each other in assigned tasks
+- Constantly discussing project direction and progress on Whatsapp
+- Also in regular contact with project partner
+- Expect in-lab hours to increase as electronics components arrive
 
 <br />
 
@@ -49,8 +49,8 @@ Personal and technical developments, and work done so far will be presented late
 
 ## Issues encountered:
 
-- actually deciphering all of the available data (not particularly good file management from partner or previous team)
-- some design assumptions have been 'locked in' to partner's preferences by previous iterations of the project. Careful communication of deviations required. 
+- Actually deciphering all of the available data (not particularly good file management from partner or previous team)
+- Some design assumptions have been 'locked in' to partner's preferences by previous iterations of the project. Careful communication of deviations required. 
 - Surprisingly long lead time on component orders (first order of components still haven't arrived, second order made today)
 - Budgeting becomes difficult as we are looking at a large batch size (3000)
 
