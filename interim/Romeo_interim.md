@@ -6,6 +6,8 @@ Predominantly focussed on the physical aspect of the electronics module. This in
 
 
 
+# Project Timeline
+Our project is mostly on track, though we have required the extra time originally scheduled. From the electronics side, it has taken longer than we expected to get an order in and receive the parts. 
 
 
 # Tasks completed
@@ -53,9 +55,6 @@ All work done has been theoretical, so the main issues that have arisen have bee
 ## Methods of internal cable routing for the internal temperature sensor/other internal components
 - Wire that leads from the module connector to the temperature sensor, see Benjamin's work.
 - Route wiring through the surface of the door, using the hinge as an electrical connection, as it is accessible from the outer and inner surfaces.
-
-# Project Timeline
-Our project is mostly on track, though we have required the extra time originally scheduled. From the electronics side, it has taken longer than we expected to get an order in and receive the parts. 
 
 
 Notes to tackle:
