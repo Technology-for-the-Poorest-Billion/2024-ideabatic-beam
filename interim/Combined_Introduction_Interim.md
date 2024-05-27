@@ -20,9 +20,9 @@ Secondary objectives (only if primary satisfied):
 **Romeo's role:**
 
 The electronics and code (already prepared some code in the Raspberry Pi Pico's compatible Python IDE Thonny, 
-which should work, just needs to be adapted to the specific temeprature sensor and tested with the circuit once assembled). 
+which should work, just needs to be adapted to the specific temperature sensor and tested with the circuit once assembled). 
 
-Romeo more suited to how the electronic circuit should actually work, and choosing the appropriate components 
+Romeo more suited to how the electronic circuit should actually work, and choosing the appropriate components, along with combining them all into a module that then slots into the door.
 (for example the details of how the switch could be implemented)
 
 <br />
