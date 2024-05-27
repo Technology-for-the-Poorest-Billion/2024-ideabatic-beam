@@ -1,17 +1,6 @@
 # Benjamin's Work done so far
 <br />
 
-## Reassessing and redefining the objective:
-
-Following discussions with our project partner and Alexandre, the objectives for the project have been simplified:
-
-#### Primary goal: (i) Make the electronics modular, (ii) minimise the compromise to insulation.
-
-Secondary objectives (only if primary satisfied): 
-- implementing GPS tracking and data logging to external storage (as opposed to within Pi) on the electronics module
-- adapting the temperature prediction algorithm to account for the door open vs door closed
-
-  <br />
 
 ## Formalising the primary design problem:
 - electronics module with temperature sensor to inform algorithm and display for user
