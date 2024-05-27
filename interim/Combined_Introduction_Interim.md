@@ -66,4 +66,4 @@ Personal and technical developments, and work done so far will be presented late
 
 # Updated project timeline
 <img width="1000" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/26ced931-077a-4340-92c2-954b23e655ac">
-<br> On track with original timeline, small adjustments made. We have used the extra time scheduled, noting that the parts took longer to arrive than expected.
+<br> On track with original timeline, small adjustments made to the remaining tasks left. We have used the extra time originally scheduled, noting that the parts took longer to arrive than expected.
