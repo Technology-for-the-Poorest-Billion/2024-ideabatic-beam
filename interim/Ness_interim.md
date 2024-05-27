@@ -50,6 +50,7 @@ Delay in electronics delivery:
 - 3D print door to start testing ergonomics.
 - Once electronics team has a model of the electronics components, edit the casing and door hole dimensions.
 - 3D print new door top and casing.
+- Assess success of design and give suggestions for improvement.
 
 ## Personal and technical developments
 - Practiced using OpenSCad and interfacing with Solidworks through .STL files.
