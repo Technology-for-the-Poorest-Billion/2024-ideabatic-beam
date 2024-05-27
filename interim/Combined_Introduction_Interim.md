@@ -40,6 +40,7 @@ Transfer drawings of previous and current designs from Solidworks to OpenSCAD to
 - Constantly discussing project direction and progress on Whatsapp
 - Also in regular contact with project partner
 - Expect in-lab hours to increase as electronics components arrive
+- Keeping github up to date
 
 <br />
 
