@@ -6,6 +6,12 @@ Previous project groups have worked on different electronics housing and door sl
 
 This project aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by Kitty Liao (founder of SMILE) and personal insight.
 
+#### Primary goal: (i) Make the electronics modular, (ii) minimise the compromise to insulation.
+
+Secondary objectives (only if primary satisfied): 
+- implementing GPS tracking and data logging to external storage (as opposed to within Pi) on the electronics module
+- adapting the temperature prediction algorithm to account for the door open vs door closed
+
 # Teamworking
 
 <br />
@@ -49,6 +55,7 @@ Personal and technical developments, and work done so far will be presented late
 - actually deciphering all of the available data (not particularly good file management from partner or previous team)
 - some design assumptions have been 'locked in' to partner's preferences by previous iterations of the project. Careful communication of deviations required. 
 - Surprisingly long lead time on component orders (first order of components still haven't arrived, second order made today)
+- Budgeting becomes difficult as we are looking at a large batch size (3000)
 
 <br />
 
@@ -58,5 +65,6 @@ Personal and technical developments, and work done so far will be presented late
 - Explicit communications with project partner about the intentions to revise design assumptions
 - Making direct contact with contributors to previous projects to understand rationales and recommendations
 - A revision of the objectives to ensure we can deliver useful output in the timeframe
+- Direct contact with suppliers of electrical components made to negotiate bulk price discounts
 
 • Update the project development time-line and present a plan for completion.
