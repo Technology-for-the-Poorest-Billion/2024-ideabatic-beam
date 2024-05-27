@@ -24,21 +24,26 @@ Design the electronics module casing and door using OpenSCAD.
 Transfer drawings of previous and current designs from Solidworks to OpenSCAD to facilitate future development.
 
 Teamwork:
+- have been meeting multiple times a week to discuss project ideas
+- assisting each other in assigned tasks
+- constantly discussing project direction and progress on Whatsapp
+- also in regular contact with project partner
+- expect in-lab hours to increase as electronics components arrive
 
-
-Personal and technical developments will be presented later by each member.
-
-# Summary of work done
+Personal and technical developments, and work done so far will be presented later by each member.
 
 
 ## Issues encountered:
 
 - actually deciphering all of the available data (not particularly good file management from partner or previous team)
-- surprisingly long lead time on component orders (need to order all components we will need today if not before this presentation)
+- some design assumptions have been 'locked in' to partner's preferences by previous iterations of the project. Careful communication of deviations required. 
+- Surprisingly long lead time on component orders (first order of components still haven't arrived, second order made today)
 
-## Steps taken to overcome issues:
+## Steps already taken, and future steps to overcome issues:
 
-
+- During lead wait time, conceptual aspects of the project such as feasability assessments and CAD translation have been carried out
+- Explicit communications with project partner about the intentions to revise design assumptions
+- Making direct contact with contributors to previous projects to understand rationales and recommendations
+- A revision of the objectives to ensure we can deliver useful output in the timeframe
 
 • Update the project development time-line and present a plan for completion.
-• Present a summary of team members' personal and technical development (what have you learnt and how have you learned it?);
