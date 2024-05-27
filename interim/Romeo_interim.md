@@ -3,11 +3,10 @@ Predominantly focussed on the physical aspect of the electronics module. This in
 
 
 # Personal and technical development
-- Developed personal knowledge of all the parts and how best to combine them.
-- Getting used to developing with the pi pico via Thonny
-- Improving logic regarding software
-- Will have to get used to interrupts etc
-- RETURN TO
+- Personal knowledge of all the parts and researched how best to combine them.
+- Getting used to developing with the Pi Pico via Thonny
+- Improving logic ability and coding ability regarding software
+- Will have to learn how to appropriately with the button inputs, will do this via interrupts.
 
 
 # Tasks completed
@@ -44,12 +43,15 @@ All work done has been theoretical, so the main issues that have arisen have bee
 <img height="250" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/74f72f82-4954-45d3-bcd5-5df57296b694">
 <img height="250" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/40ec579b-b10c-4ebe-8ec4-fc389b64f768">
 <br>
-<br>
+
+
+
 - An open circuit that is shut when the door closes, likely done through two open contacts that conduct via a plate when the door is shut.
   - Will potentially have issues with corrosion/lifetime as exposed with the door.
   - Faces issues with cable routing.
 <img height="250" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/8752d163-084f-4c26-98f7-afc65ecb1e2b">
-<br>
+
+
 - Software based method: If we do use two temperature sensors, we can measure the internal temperature sensor, comparing this with the external temperature sensor to detect whether the door is open
   - Doesn't require further cable routing.
   - Based on two temperature sensors, which may not be included in the final design.
@@ -64,10 +66,14 @@ All work done has been theoretical, so the main issues that have arisen have bee
   - Relatively cheap (£3.90)
   - Would need to be mounted onto the edge of the door, with a corresponding part required to block the beam.
   - Issue with cable routing
+ 
 
+## Mounting the electronics module
+The plan is to have these connectors, the male side attached to the module, with the female side attached to the door, allowing plug and play capability. <br>
+<img height="250" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/6cb9c6e1-60c8-4e93-8ad9-ac7a6c964117">
 
 ## Methods of internal cable routing for the internal temperature sensor/other internal components
-See Benjamin's work:
+
 
 
 
