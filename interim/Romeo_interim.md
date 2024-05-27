@@ -14,7 +14,7 @@ Our project is mostly on track, though we have required the extra time originall
 - Sent order for the electronic components required; ETA Tuesday 28/05.
   - This included the following: Raspberry Pi Pico, DHT22 temperature sensor, an OLED screen, buttons, and an AA battery holder, among other components for testing.
 - Brainstormed different ideas with Benjamin to narrow down different designs to detect the door being open/closed.
-- Rough software draft made, but will require testing to determine hurdles.
+- Very rough software draft made, but will require testing to determine and overcome hurdles.
 
 # Main tasks remaining:
 - Combine the electronics into an "electronics module", working with Ness to build a case via 3D printing. 
