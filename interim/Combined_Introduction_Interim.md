@@ -6,7 +6,7 @@ Previous project groups have worked on different electronics housing and door sl
 
 # Teamworking
 
-Benjamin's role: Project management, The design problem
+Benjamin's role: The design problem, project management
 
 Romeo's role:
 
