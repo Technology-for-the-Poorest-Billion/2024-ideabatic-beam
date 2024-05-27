@@ -49,6 +49,7 @@ Project partner has her own preferences, particularly concerned with sensor degr
 <br />
 
 Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
+Also important for future projects.
 
 
 #### Communication and justification of our design decisions is important!
