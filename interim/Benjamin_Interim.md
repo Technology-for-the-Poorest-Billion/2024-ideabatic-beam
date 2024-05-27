@@ -146,9 +146,9 @@ Might *just* be feasible if there are no other cost incurred (see below)
 
 #### Per-unit cost for 100+ units: £14.65
 
-<img width="554" alt="Screenshot 2024-05-27 at 09 31 38" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/ce9f7c97-dcb2-4112-bca8-47bfbc8a6cdc">
 
-<img width="294" alt="Screenshot 2024-05-26 at 22 03 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/8339f98f-2ae2-430d-b406-43770354d9cf">
+
+<img width="1421" alt="Screenshot 2024-05-27 at 14 21 13" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/7a74a6ea-cc89-40df-80aa-688a63e6a762">
 
 #### Optimistic Per-unit cost of core electronics module for 3000 units: £11.37 
 (Assumes continuation of logarithmic pricing trend, such that per-unit cost falls to 60% of single-unit cost)
