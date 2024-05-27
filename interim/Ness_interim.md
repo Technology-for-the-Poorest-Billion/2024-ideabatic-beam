@@ -51,3 +51,4 @@ Limitations with editing .STL files:
 
 Next:
 - 3D printing.
+- Iterative design.
