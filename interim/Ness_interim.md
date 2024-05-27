@@ -1,3 +1,8 @@
+## Main objectives
+- Modularised electronics: create a compatible casing and slot.
+- Improve ergonomics: lip of lid and torsional spring parameters.
+- Transfer of models to open source CAD: increase accessibility for future design modifications.
+
 ## Design considerations
 - Slot for connector and temperature sensor on door.
 - Soft ridge around electronics module slot (preliminary OpenSCAD design shown with hard ridge).
