@@ -55,6 +55,28 @@ Part of the useful output of this project will be a demonstration of why this is
 
 <br />
 
+# Communicating Design Decisions
+
+To justify design decisions, score each in the following dimensions, resulting in Key Performance Indicator
+
+Radar plot for visualisation of rankings:
+
+<img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
+
+<img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
+
+<br />
+<br />
+
+Since each dimension critical, a better KPI might be a weighted *product* of the scores in each dimension. 
+
+- which candidates to proceed with
+- relative strengths and weaknesses
+- areas for improvement 
+
+<br />
+
+
 # The candidate designs
 ![IMG_548055A1CA77-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a9dc1aa-215c-462d-ad70-416d689262e8)
 
@@ -138,26 +160,6 @@ Hence,
 
 <br />
 
-# Communicating Design Decisions
-
-To justify design decisions, score each in the following dimensions, resulting in Key Performance Indicator
-
-Radar plot for visualisation of rankings:
-
-<img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
-
-<img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
-
-<br />
-<br />
-
-Since each dimension critical, a better KPI might be a weighted *product* of the scores in each dimension. 
-
-- which candidates to proceed with
-- relative strengths and weaknesses
-- areas for improvement 
-
-<br />
 
 # Benjamin's Personal and Technical Development
 - Redefining the objectives: what is really necessary?
