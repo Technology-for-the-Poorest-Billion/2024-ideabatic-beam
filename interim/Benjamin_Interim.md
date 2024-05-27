@@ -96,7 +96,7 @@ Since each dimension critical, a better KPI might be a weighted *product* of the
 ### Quantifying Compromise to Insulation
 
 - Manufacturing and design interdependence:
- Smallest wiring ~ 2 mm. Door made of PBS, manufactured by casting ⇒ ± 1 mm
+Wiring ~ 2 mm. Door made of PBS, manufactured by casting ⇒ ± 1 mm
 
 ![IMG_BBFAF02D5158-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e295f11e-0cd9-4e65-a32e-ce5a66196fa9)
 
