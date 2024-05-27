@@ -43,6 +43,9 @@ Editing .STL files:
 - 3D print new door top and casing.
 
 ## Personal and technical developments
-- Practiced using OpenSCad.
+- Practiced using OpenSCad and interfacing with Solidworks through .STL files.
 - Github documentation of OpenSCAD code.
-- 
+- Learned design strategies for in field use (preventing drop damage).
+
+Next:
+- 3D printing.
