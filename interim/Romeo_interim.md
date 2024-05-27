@@ -15,10 +15,12 @@ Predominantly focussed on the physical aspect of the electronics module. This in
   - This included the following: Raspberry Pi Pico, DHT22 temperature sensor, an OLED screen, buttons, and an AA battery holder, among other components for testing.
 - Brainstormed different ideas with Benjamin to narrow down different designs to detect the door being open/closed.
 - Very rough software draft made, but will require testing to determine and overcome hurdles.
-![Connectors](assets/Connectors.jpg)
+<br>
+
 
 
 # Main tasks remaining:
+- Order any further parts required when possible.
 - Combine the electronics into an "electronics module", working with Ness to build a case via 3D printing. 
 - Designing a way to interface the electronics module with the internal temperature sensor. Current method is to use a pair of male/female headers to connect the module to the internal temperature sensor.
   - Using a bluetooth temperature sensor that is embedded among the vials is a possible solution, albeit expensive and possibly complicated.
@@ -39,14 +41,15 @@ All work done has been theoretical, so the main issues that have arisen have bee
 - Button switch that is pressed when the door is closed, as the last years team. 
   - Will need to be mounted at the edge of the door.
   - Faces issues with cable routing.
-![Button Switch](assets/Switch.jpg)
-
-
-
+<img height="250" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/74f72f82-4954-45d3-bcd5-5df57296b694">
+<img height="250" alt="Screenshot 2024-05-27 132004" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/40ec579b-b10c-4ebe-8ec4-fc389b64f768">
+<br>
+<br>
 - An open circuit that is shut when the door closes, likely done through two open contacts that conduct via a plate when the door is shut.
   - Will potentially have issues with corrosion/lifetime as exposed with the door.
   - Faces issues with cable routing.
-![Open Circuit Contact](assets/Contacts.jpg)
+<img height="250" alt="image" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/99049952/8752d163-084f-4c26-98f7-afc65ecb1e2b">
+<br>
 - Software based method: If we do use two temperature sensors, we can measure the internal temperature sensor, comparing this with the external temperature sensor to detect whether the door is open
   - Doesn't require further cable routing.
   - Based on two temperature sensors, which may not be included in the final design.
