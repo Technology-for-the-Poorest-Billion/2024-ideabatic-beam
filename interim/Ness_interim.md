@@ -1,9 +1,9 @@
 ## Tasks completed
 - Learned basic skills in OpenSCAD and exporting .STL files.
-<img width="450" alt="Screen Shot 2024-05-27 at 12.08.57.png" src="interim/assets/Screen Shot 2024-05-27 at 12.08.57.png">
+![SMILE shell.](assets/Screen Shot 2024-05-27 at 12.08.57.png)
+![The sustainable development goals.](assets/SDG_source_UN.org.svg)
 
 - Preliminary design of electronics module casing on OpenSCAD ready for future compatibility adjustments.
-<img width="450" alt="Screen Shot 2024-05-27 at 12.08.57.png" src="interim/assets/Screen Shot 2024-05-27 at 12.02.42.png">
 
 - Preparing for 3D printing of casing.
 - Transfer of SMILE design files into OpenSCAD (shell and door).
