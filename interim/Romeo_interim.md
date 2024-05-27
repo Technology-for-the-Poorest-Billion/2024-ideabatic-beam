@@ -7,10 +7,7 @@ Predominantly focussed on the physical aspect of the electronics module. This in
 - Getting used to developing with the pi pico via Thonny
 - Improving logic regarding software
 - Will have to get used to interrupts etc
-
-
-# Project Timeline
-Our project is mostly on track, though we have required the extra time originally scheduled. From the electronics side, it has taken longer than we expected to get an order in and receive the parts. 
+- RETURN TO
 
 
 # Tasks completed
