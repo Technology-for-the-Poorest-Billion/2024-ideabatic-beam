@@ -1,15 +1,4 @@
-## Some additional context:
-This project was taken on by a team last year, here is the progress they made and where they fell short:
-
-- successfully made an electronic circuit that displayed the temperature and remaining cool life
-- was not very modular, required removal of door which was tedious in practice.
-- ambiguous in their final recommendation for position of the temperature sensor
-- did not quantify the effect of the electronics module compromising insulation
-- mechanical issues with door ergonomics, lack of protection for display screen
-
-<br />
-
-# Work done so far
+# Benjamin's Work done so far
 <br />
 
 ## Reassessing and redefining the objective:
@@ -29,6 +18,17 @@ Secondary objectives (only if primary satisfied):
 - module should be clip on clip off (opt in design, easy charging)
 - minimise compromise to insulation
 - target budget: £15 (batch size ~3000)
+
+<br />
+
+## Some additional context:
+This project was taken on by a team last year, here is the progress they made and where they fell short:
+
+- successfully made an electronic circuit that displayed the temperature and remaining cool life
+- was not very modular, required removal of door which was tedious in practice.
+- ambiguous in their final recommendation for position of the temperature sensor
+- did not quantify the effect of the electronics module compromising insulation
+- mechanical issues with door ergonomics, lack of protection for display screen
 
 <br />
 
