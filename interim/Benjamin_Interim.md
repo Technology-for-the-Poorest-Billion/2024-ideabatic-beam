@@ -70,16 +70,20 @@ Part of the useful output of this project will be a demonstration of why this is
 
 ## 1: Direct Axial Connection - Feasability Assessment
 
-![IMG_E583BCB9C4C2-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/3e06c55b-12ec-494d-95e8-133f6d736d58)
+<img width="500" alt="Screenshot 2024-05-27 at 10 57 20" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/ae1fbc5b-4113-426e-a840-3b8d7522d0d4">
 
+<br />
+<br />
 
-- Design prototyped by last year's group
+- This is the design prototyped by last year's group
 - They neglected the obvious risk of insulation compromise
 
 ### Quantifying Compromise to Insulation
 
 - Manufacturing and design interdependence:
  Smallest wiring ~ 2 mm. Door made of PBS, manufactured by casting ⇒ ± 1 mm
+
+![IMG_BBFAF02D5158-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e295f11e-0cd9-4e65-a32e-ce5a66196fa9)
 
 - Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 6.3mm<sup>2</sup> wiring, 20.2mm<sup>2</sup> air.  
 
@@ -91,7 +95,9 @@ Part of the useful output of this project will be a demonstration of why this is
 <img width="625" alt="Screenshot 2024-05-27 at 10 22 40" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/5056e698-d9bb-46e1-b047-cd04820a952a">
 
 
-This is worst case (can cover ends etc.), but worth worrying about! 
+Cool lifetime at 24ºC ambient temperature reduces from 97.5 hours to 14.5 hours.
+
+This is worst case (can cover ends etc.), but clearly worth worrying about! 
 
  
 <br />
@@ -168,6 +174,7 @@ Since each dimension critical, a better KPI might be a weighted *product* of the
 - Budgeting, including obtaining quotes for bulk orders
 - Project direction and management
 
+**How I have learnt/acquired these developments**: Direct exposure by doing
 
 <br />
 
@@ -178,3 +185,5 @@ https://mathworld.wolfram.com/Lens.html
 https://thepihut.com/products/raspberry-pi-pico-w?src=raspberrypi
 
 https://kunkune.co.uk/shop/esp32-esp8266/esp8266-nodemcu-v2-cp2102-lua-wifi-development-board-module/
+
+https://chachart.net/radar?lang=en
