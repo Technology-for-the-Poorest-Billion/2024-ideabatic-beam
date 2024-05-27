@@ -158,7 +158,7 @@ Since each dimension critical, a better KPI might be a weighted *product* of the
 
 <br />
 
-# My Personal and Technical Development
+# Benjamin's Personal and Technical Development
 - Redefining the objectives: what is really necessary?
 - Discussing changes of direction with project partner
 - Applying conceptual engineering skills to a real problem (eg heat transfer, manufacturing + design interplay, circuit design)
