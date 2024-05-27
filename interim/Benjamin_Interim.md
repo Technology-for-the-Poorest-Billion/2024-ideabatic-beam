@@ -114,7 +114,7 @@ This is worst case (can cover ends etc.), but clearly worth worrying about!
 
 ## 2: Wireless Communication - Feasability Assessment
 
-Cost of making wireless (two microcontrollers chaper than buying wireless temperature sensor):
+Cost of making wireless (two microcontrollers cheaper than buying wireless temperature sensor):
 
 Pi Pico → Pi Pico W: £2
 
