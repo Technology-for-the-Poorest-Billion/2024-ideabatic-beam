@@ -6,6 +6,8 @@ Predominantly focussed on the physical aspect of the electronics module. This in
 
 
 
+
+
 # Tasks completed
 - Sent order for the electronic components required; ETA Tuesday 28/05.
   - This included the following: Raspberry Pi Pico, DHT22 temperature sensor, an OLED screen, buttons, and an AA battery holder, among other components for testing.
@@ -51,6 +53,10 @@ All work done has been theoretical, so the main issues that have arisen have bee
 ## Methods of internal cable routing for the internal temperature sensor/other internal components
 - Wire that leads from the module connector to the temperature sensor, see Benjamin's work.
 - Route wiring through the surface of the door, using the hinge as an electrical connection, as it is accessible from the outer and inner surfaces.
+
+# Project Timeline
+Our project is mostly on track, though we have required the extra time originally scheduled. From the electronics side, it has taken longer than we expected to get an order in and receive the parts. 
+
 
 Notes to tackle:
 <br> Water resistance: Electronics module prototype likely won't be water resistant, which could be especially different noting that the module would involve a screen, buttons, a USB port for charging, and potentially a micro SD card slot, though for this we consider having this only accessible inside the casing. 
