@@ -16,7 +16,6 @@ This project was taken on by a team last year, here is the progress they made an
 
 # Work done so far
 <br />
-<br />
 
 ## Reassessing and redefining the objective:
 
@@ -53,11 +52,16 @@ Raspberry Pi Pico Microcontroller, DHT22 temperature sensor, 10kΩ resistor and 
 ![IMG_9413C2C4692F-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/60c86eb5-2260-4c7b-bbe1-881a7b46c9ef)
 
 
-Why is there a 'default'? Shouldn't this be an open design problem?
+*Why is there a 'default'? Shouldn't this be an open design problem?*
+
 Yes, but...
-Project partner has her own preferences, particularly concerned with sensor degradation, 
-Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
+
+Project partner has her own preferences, particularly concerned with sensor degradation, exposure to heat from electronics module, veracity of temperature prediction.
+
 <br />
+
+Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
+
 
 #### Communication and justification of our design decisions is important!
 
@@ -148,7 +152,10 @@ Radar plot for visualisation of rankings:
 
 <img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
 
-Since each dimension critical, alternatively KPI is a weighted product of scores in each dimension. 
+<br />
+<br />
+
+Since each dimension critical, a better KPI might be a weighted *product* of the scores in each dimension. 
 
 - which candidates to proceed with
 - relative strengths and weaknesses
@@ -159,16 +166,17 @@ Since each dimension critical, alternatively KPI is a weighted product of scores
 # My Personal and Technical Development
 - Redefining the objectives: what is really necessary?
 - Discussing changes of direction with project partner
-- Applying conceptual engineering skills (eg heat transfer) to a real problem
+- Applying conceptual engineering skills to a real problem (eg heat transfer, manufacturing + design interplay, circuit design)
+- Learning how to develop code in Raspberry Pi's Micropython IDE Thonny (not shown in this presentation)
 - Clear documentation and communication of design decisions for partner
-- Contacting suppliers for quotes
-- Budgeting
+- Communicating directly with suppliers
+- Budgeting, including obtaining quotes for bulk orders
 - Project direction and management
 
 
 <br />
 
-References
+**References**
 
 https://mathworld.wolfram.com/Lens.html
 
