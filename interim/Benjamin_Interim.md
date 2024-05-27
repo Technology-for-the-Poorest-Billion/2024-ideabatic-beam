@@ -32,6 +32,10 @@ This project was taken on by a team last year, here is the progress they made an
 
 <br />
 
+## Our Design Process
+
+<br />
+
 #### Core Electrical Circuit
 
 <img width="550" alt="Screenshot 2024-05-26 at 15 14 30" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/d8ad377c-824a-41d8-bdd4-f801853df728">
@@ -141,7 +145,9 @@ Might *just* be feasible if there are no other cost incurred (see below)
 <br />
 
 Hence,
-#### Single-unit cost that could feasibly be added: (15-11.37)/0.6 = £6.05
+**Single-unit cost that could feasibly be added: (15-11.37)/0.6 = £6.05** ≈ £6
+
+<br />
 
 # Communicating Design Decisions
 
