@@ -8,7 +8,11 @@ This project aims to build upon the work done by these previous groups, identify
 
 # Teamworking
 
+<br />
+
 **Benjamin's role:** The design problem, project management, also working with Romeo on electronics and software implementation
+
+<br />
 
 **Romeo's role:**
 
@@ -18,10 +22,14 @@ which should work, just needs to be adapted to the specific temeprature sensor a
 Romeo more suited to how the electronic circuit should actually work, and choosing the appropriate components 
 (for example the details of how the switch could be implemented)
 
+<br />
+
 **Ness' role:**
 Design the electronics module casing and door using OpenSCAD.
 3D print designs to assess component compatability and ergonomics.
 Transfer drawings of previous and current designs from Solidworks to OpenSCAD to facilitate future development.
+
+<br />
 
 **Teamwork:**
 - have been meeting multiple times a week to discuss project ideas
@@ -30,8 +38,11 @@ Transfer drawings of previous and current designs from Solidworks to OpenSCAD to
 - also in regular contact with project partner
 - expect in-lab hours to increase as electronics components arrive
 
+<br />
+
 Personal and technical developments, and work done so far will be presented later by each member.
 
+<br />
 
 ## Issues encountered:
 
@@ -39,7 +50,9 @@ Personal and technical developments, and work done so far will be presented late
 - some design assumptions have been 'locked in' to partner's preferences by previous iterations of the project. Careful communication of deviations required. 
 - Surprisingly long lead time on component orders (first order of components still haven't arrived, second order made today)
 
-## Steps already taken, and future steps to overcome issues:
+<br />
+
+## Steps taken and future steps to overcome issues:
 
 - During lead wait time, conceptual aspects of the project such as feasability assessments and CAD translation have been carried out
 - Explicit communications with project partner about the intentions to revise design assumptions
