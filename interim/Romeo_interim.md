@@ -5,7 +5,7 @@ Predominantly focussed on the physical aspect of the electronics module. This in
 # Personal and technical development
 - Personal knowledge of all the parts and researched how best to combine them.
 - Getting used to developing with the Pi Pico via Thonny.
-- Improving logic ability and coding ability regarding software.
+- Improving logic and coding ability regarding software.
 - Will have to learn how to appropriately deal with the button inputs, will do this via interrupts.
 
 
