@@ -19,7 +19,7 @@
 - Transfer of SMILE design files into OpenSCAD (chassis, casing and door) and assemble components.
 ![Screen Shot 2024-05-27 at 12 08 57](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/0c5be530-7ee1-4a42-ad3c-5d66ba3289ef)
 - Edits of door design on Solidworks (connector placement, temperature sensor slot).
-- Compiled literature on door ergonomics design.
+- Compiled literature on door ergonomics design and reviewed previous designs.
 
 ## Issues faced and solutions
 Understanding OpenSCAD syntax:
