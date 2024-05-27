@@ -3,7 +3,7 @@ This project was taken on by a team last year, here is the progress they made an
 
 - successfully made an electronic circuit that displayed the temperature and remaining cool life
 - was not very modular, required removal of door which was tedious in practice.
-- ambiguity in their recommendation for position of the temperature sensor
+- ambiguous in their final recommendation for position of the temperature sensor
 - did not quantify the effect of the electronics module compromising insulation
 - mechanical issues with door ergonomics, lack of protection for display screen
 
