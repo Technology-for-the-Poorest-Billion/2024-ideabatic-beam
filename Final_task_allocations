@@ -1,6 +1,12 @@
 Benjamin
+Stage 1:
 - Candidates and designs for electronics module arrangement
-- Candidates and designs for door mechanism
+- Feasability assessments and rankings, clearly communicating design decisions
+
+- focus on improving environmental resistance aspect of the single-module design
+
+Stage 2:
+- Candidates and designs for door mechanism (external button waterproof considerations)
 - Feasability assessments and rankings, clearly communicating design decisions
 - temp sensor inside compartment (innacurate temp) vs outside compartment (waterproof issue)
 - upper limit heat corrpution effects: heat power = electronic power for batteries and display
@@ -12,11 +18,19 @@ Benjamin
 - manufacturing complexity
 - rough sketch of preferred design
 
+- module is external-clipping onto door so that there is no gap in door when it is not needed. 
+
+- compare with possibility of taking entire door off; customer-wise, why would this be preferable?
+
+
+Clipping mechanism:
+- 3D print from CAD a clip (eg ridge-fitting)
+- magnet?
 
 
 Romeo
-- Testing, then Electronics order: battery, waterproof temp sensor
 - Choosing battery + power consumption theory
+- Testing, then Electronics order: battery, physical clips mechanism? (or will this be 3D-printed into door and module?), buzzer? 
 - Getting it working with Code 
 - Assembling the electronic circuit for both sensor/display + button switch/beeping
 - Build see-through compartment on 3D-printed prototype of case
@@ -28,4 +42,4 @@ Romeo
 Ness
 Only two tasks:
 - Cad model of the actual case, including a see-through compartment and a conductive compartment, ready to be 3D-printed.  (Romeo tells dimensions after assembling circuit)
-- Cad model of the door that is receptive to the case being clipped on
+- Cad model of the door that is receptive to the case being clipped on (make sure it slants inwards etc)
