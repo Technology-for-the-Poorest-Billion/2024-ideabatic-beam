@@ -46,6 +46,7 @@
 
 - Need manual button to reset cool life: where to put button? Difficult to access place - maybe aturomatically pressed when module clipped back on, solves water resistance (lifetime of button?)
 
+<br />
 
 ## Romeo
 - Calculate expected power consumption of electronics module, justifying choice of battery (cost, recharge/overcharge?). PASS POWER CONSUMPTION DATA TO BENJAMIN.
@@ -55,7 +56,7 @@
 - Mount it into correct shape (collb w Ness)
 
 
-
+<br />
 
 ## Ness
 - Cad model of the actual case, including a see-through compartment and a conductive compartment, ready to be 3D-printed.  (Romeo tells dimensions after assembling circuit)
