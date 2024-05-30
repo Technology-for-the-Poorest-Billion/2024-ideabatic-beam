@@ -10,13 +10,13 @@
 - Put the button on the bottom of the module to be automatically pressed when module reloaded: difficulties with each method, this is another user problem to be solved. 
 
 
-### Stage 3: Solving the temperature sensor problem
+### Stage 2: Solving the temperature sensor problem
 - Compare the two designs for temperature sensor: external, waterproof sensor (cost and mounting issues) vs internal DHT22 (innacurate temperature issue - back up with conductivity requirement, cost)
 - upper limit heat corrpution effects: heat power = electronic power for batteries and display
 - Output: the minimum surface area that needs to be made with conductive material, show that it is within budget + the area with 
 
 
-### Stage 4: Solving the door switch and button problem
+### Stage 3: Solving the door switch and button problem
 
 - Considered cutting out a large region, inserting module to fill the gap, but this compromises water resistance when module removed (either by leaving water seal intact but providing a parallel path straight through, or but taking out a chunk of the water seal)
 - Also considered mounting entire module on the top of the door (could do a mechanical impulse analysis) but makes it less drop-resistant (module breaks off) and requires outside ridge of box to be raised so that button can still be pressed, also probably a less secure clipping mechanism if not indenting into door
