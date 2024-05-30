@@ -63,4 +63,4 @@
 - Cad model of the door that is receptive to the case being clipped on (choose and justify clipping mechanism)
 - Outline file compatibility issues between OpenSCAD and SolidWorks
 - 3D print and assemble door + case of electronics module (collaborate w Romeo): *Working prototype*
-- Suggestion of how the different materials can be joined together (eg the see-through section of the case, the main body of the case and the heat-conductive section of the case) (talk to Romeo about this)
+- Explanation of how the different materials were be joined together (eg the see-through section of the case, the main body of the case and the heat-conductive section of the case; also the rubbery coverings for the buttons) (talk to Romeo about this)
