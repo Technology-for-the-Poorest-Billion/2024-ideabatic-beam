@@ -7,7 +7,7 @@
 - Calulcation proving temperature sensor can be incorrput if certain area of conductive material used for module casing: shows why preferable to external temperature sensor
 (include cost assessment of using this much conductive material); with upper limit of heat power produced coming from battery power considerations
 
-- Probably first requires material selection
+- Probably first requires material selection (graphene? silicon?)
 
 <br />
 
