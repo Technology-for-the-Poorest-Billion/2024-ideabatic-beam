@@ -2,6 +2,9 @@
 - targeted to general public
 - what the overall product is, what you have added to it
 
+- Be explicit about what we are trying to design:
+- The door should work whether people order the electronic version or the non-electronic version of the SMILE
+
 # Presentation
 - Slides + Camera on Zoom recording. Monday evening. 
 - All insights into the problem, basically everything you had to consider to get to the final output, but without the excruciating detail
