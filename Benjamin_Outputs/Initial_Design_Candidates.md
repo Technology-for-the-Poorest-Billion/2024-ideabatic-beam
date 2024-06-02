@@ -21,7 +21,8 @@ This project was taken on by a team last year, here is the progress they made an
 
 ### Default Physical Arrangement
 
-![IMG_9413C2C4692F-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/60c86eb5-2260-4c7b-bbe1-881a7b46c9ef)
+
+<img width="700" alt="Screenshot 2024-06-02 at 16 59 07" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/1e477adf-bfd7-49b6-9dbb-1e4c5634decf">
 
 
 *Why is there a 'default'? Shouldn't this be an open design problem?*
