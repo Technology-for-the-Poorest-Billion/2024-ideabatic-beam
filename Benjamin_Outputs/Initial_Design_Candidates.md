@@ -128,9 +128,13 @@ In the interests of fairness, the best-case possibility is explored:
 
 ### The electrical components needed
 
-Pi Pico → Pi Pico W
+- Pi Pico → Pi Pico W to allow for wireless communication
 
-Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
+- Wireless module microcontroller (ESP8266) to operate temeprature sensor and communicate with Pi Pico
+
+- AA batteries x2 needed to power ESP8266
+
+- Holder for AA batteries
 
 
 ### Deriving the Best-case Quantity Discount Curve
@@ -166,14 +170,17 @@ This is the best-case estimate which is used for the cost-effectiveness feasabil
 
 The cost of electrical wiring, resistors and capacitors is neglected. 
 
-#### Best-case per-unit cost for 300 units: £15.24
+#### Best-case per-unit cost for 3000 units: £16.31
+
+- already above budget, without accounting for the cost of housing the module
+
+This is above the budget, making the cost effectiveness score zero, giving Candidate 2 a KPI of zero. 
+
+(the increased cost from the base module is the cost of two AA batteries + one battery holder + ESP8266 + Cost of converting Pi Pico to Pi Pico W, which totals to £5.02 increased cost, in the best case.)
 
 
-- also need to take into account the cost of housing
 
-So adds £6 to the single-unit price of electronics module
 
-Might *just* be feasible if there are no other cost incurred (see below)
 
 <br />
 
