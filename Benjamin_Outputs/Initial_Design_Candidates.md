@@ -19,18 +19,6 @@ This project was taken on by a team last year, here is the progress they made an
 
 ## Our Design Process
 
-<br />
-
-#### Core Electrical Circuit
-
-<img width="550" alt="Screenshot 2024-05-26 at 15 14 30" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/d8ad377c-824a-41d8-bdd4-f801853df728">
-
-In its simplest state, only requires four components:
-Raspberry Pi Pico Microcontroller, DHT22 temperature sensor, 10kΩ resistor and OLED display
-* note - temperature sensor series may be subject to change
-
-<br />
-
 ### Default Physical Arrangement
 
 ![IMG_9413C2C4692F-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/60c86eb5-2260-4c7b-bbe1-881a7b46c9ef)
@@ -38,9 +26,11 @@ Raspberry Pi Pico Microcontroller, DHT22 temperature sensor, 10kΩ resistor and 
 
 *Why is there a 'default'? Shouldn't this be an open design problem?*
 
-Yes, but...
+This is an open design problem, but it has a starting point. 
 
-Project partner has her own preferences, particularly concerned with sensor degradation, exposure to heat from electronics module, veracity of temperature prediction.
+The starting point reflects the initial preferences of the project partner, which are informed by designs and analysis presented to her by previous contributors to this project. 
+
+Given this, the quality of the communication and justification of our design decisions is crucial. 
 
 <br />
 
