@@ -126,6 +126,13 @@ In the interests of fairness, the best-case possibility is explored:
 - the lowest-cost implementation is used, which is to use a second microcontroller which can wirelessly communicate with the Pi Pico
 - the quantity discounts for bulk-ordering is assumed to follow the best-case exponential decay per-unit cost curve derived below
 
+### The electrical components needed
+
+Pi Pico → Pi Pico W
+
+Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
+
+
 ### Deriving the Best-case Quantity Discount Curve
 
 - Pricing tables for the components of interest were obtained from suppliers, either via direct contact or from their websites (see example).
@@ -148,19 +155,18 @@ This is the best-case estimate which is used for the cost-effectiveness feasabil
 
 | Part Description | Single Unit Cost | Per-Unit Cost in batch of 3000 | 
 |-|-|-|
-|Raspberry Pi Pico| £4.02 | £2.41 | 
+|Raspberry Pi Pico W| £5.80 | £3.48 | 
+|ESP8266| £4.22 | £2.53 | 
 |DHT22| £4.74 | £2.84 | 
-| OLED Display | £10.19 | £6.11 | 
-|Battery holder| £4.74 | £2.844 | 
-|AA Batteries x2 | £4.74 | £2.88 | 
+| OLED Display | £4.98 | £2.99 | 
+| Door-sensing switch | £1.02 | £0.61 |
+|Buzzer for door open alert| £2.15 | £1.29 | 
+|Battery holder x2 | £1.96 | £1.18 | 
+|AA Batteries x4 | £2.316 | £1.39 | 
 
-#### Per-unit cost for 100+ units: £14.65
+The cost of electrical wiring, resistors and capacitors is neglected. 
 
-Cost of making wireless (two microcontrollers cheaper than buying wireless temperature sensor):
-
-Pi Pico → Pi Pico W: £2
-
-Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
+#### Best-case per-unit cost for 300 units: £15.24
 
 
 - also need to take into account the cost of housing
@@ -168,18 +174,6 @@ Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
 So adds £6 to the single-unit price of electronics module
 
 Might *just* be feasible if there are no other cost incurred (see below)
-
-
-
-
-
-#### Optimistic Per-unit cost of core electronics module for 3000 units: £11.37 
-(Assumes continuation of logarithmic pricing trend, such that per-unit cost falls to 60% of single-unit cost)
-
-<br />
-
-Hence,
-**Single-unit cost that could feasibly be added: (15-11.37)/0.6 = £6.05** ≈ £6
 
 <br />
 
