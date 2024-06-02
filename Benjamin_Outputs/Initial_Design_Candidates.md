@@ -138,10 +138,11 @@ In the interests of fairness, the best-case possibility is explored:
   
 <img width="600" alt="Screenshot 2024-06-02 at 16 26 31" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/92732948-9a31-4829-a735-5a382bf50f22">
 
-- The discounting rate was extrapolated past its usual limit of 100 components, up to our batch size of 3000 components, and plotted on a log
+- The discounting rate was extrapolated past its usual limit of 100 components, up to our batch size of 3000 components resulting in the following best-case quantity discount:
 
+****Per-unit price for 3000 units = 0.6 x Per-unit price for 1 unit****
 
-
+This is the best-case estimate which is used for the cost-effectiveness feasability assessment of Design Candidate 2. 
 
 
 ### Budget Feasability
