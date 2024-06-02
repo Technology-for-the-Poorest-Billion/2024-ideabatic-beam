@@ -65,20 +65,10 @@ $\{KPI}$ = Score 1 $\times$ Score 2 $\times$ Score 3 $\times$ Score 4 $\times$ S
 
 This product-rating method is also useful for eliminating design candidates: evidence that a candidate is unsuitable on any of the five dimensions immediately sets its KPI to zero and eliminates it from the design process. 
 
-
-
-<img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
-
-<img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
-
-<br />
-<br />
-
-Since each dimension critical, a better KPI might be a weighted *product* of the scores in each dimension. 
-
-- which candidates to proceed with
-- relative strengths and weaknesses
-- areas for improvement 
+The radar plot conveniently visualises three important things:
+- Area shows which design candidates to proceed with
+- Relative strengths and weaknesses of each design candidate
+- Areas for maximum improvement on each design candidate
 
 <br />
 
@@ -164,4 +154,14 @@ Might *just* be feasible if there are no other cost incurred (see below)
 Hence,
 **Single-unit cost that could feasibly be added: (15-11.37)/0.6 = £6.05** ≈ £6
 
+<br />
+
+
+
+
+<img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
+
+<img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
+
+<br />
 <br />
