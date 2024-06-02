@@ -52,6 +52,7 @@
 - Calculate expected power consumption of electronics module, justifying choice of battery (cost, recharge/overcharge?). PASS POWER CONSUMPTION DATA TO BENJAMIN.
 - How long are AA batteries expected to last? Is the electronics module always on?
 - Design and implementation of the (capacitor-based?) circuit for door switch detection
+- Full circuit diagram, including temperature sensor, OLED, microcontroller, batteries, capacitor, resistor, door switch, user-interface button
 - Assemble electronics module (screen working/updating + switch informing buzzer) and test. PASS DIMENSIONS OF MODULE TO NESS. 
 - Getting it working with Code 
 - Mount it into correct shape (collb w Ness)
