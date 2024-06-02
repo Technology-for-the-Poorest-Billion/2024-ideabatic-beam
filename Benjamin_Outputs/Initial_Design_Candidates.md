@@ -126,7 +126,7 @@ In the interests of fairness, the best-case possibility is explored:
 - the lowest-cost implementation is used, which is to use a second microcontroller which can wirelessly communicate with the Pi Pico
 - the quantity discounts for bulk-ordering is assumed to follow the best-case exponential decay per-unit cost curve derived below
 
-#### Deriving the Best-case Quantity Discount Curve
+### Deriving the Best-case Quantity Discount Curve
 
 - Pricing tables for the components of interest were obtained from suppliers, either via direct contact or from their websites (see example).
  
@@ -144,16 +144,15 @@ In the interests of fairness, the best-case possibility is explored:
 
 This is the best-case estimate which is used for the cost-effectiveness feasability assessment of Design Candidate 2. 
 
+### Best-case cost effectiveness of Candidate 2
 
-### Budget Feasability
-
-| Part Description | Single Unit Cost | Bulk 100+ Unit Cost |  |
-|-|-|-|-|
-|Raspberry Pi Pico| £4.02 | £3.14 | 
-|DHT22| £4.74 | £3.56 | 
-| OLED Display | £10.19 | Pending (supplier contacted) ~ £7.95 | 
-|Battery holder| £4.74 | £3.56 | 
-|AA Batteries| £4.74 | £3.56 | 
+| Part Description | Single Unit Cost | Per-Unit Cost in batch of 3000 | 
+|-|-|-|
+|Raspberry Pi Pico| £4.02 | £2.41 | 
+|DHT22| £4.74 | £2.84 | 
+| OLED Display | £10.19 | £6.11 | 
+|Battery holder| £4.74 | £2.844 | 
+|AA Batteries x2 | £4.74 | £2.88 | 
 
 #### Per-unit cost for 100+ units: £14.65
 
