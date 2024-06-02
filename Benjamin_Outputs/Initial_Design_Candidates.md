@@ -63,17 +63,9 @@ Given that a failure to be fit for purpose in any of the five dimensions would r
 
 $\{KPI}$ = Score 1 $\times$ Score 2 $\times$ Score 3 $\times$ Score 4 $\times$ Score 5
 
+This product-rating method is also useful for eliminating design candidates: evidence that a candidate is unsuitable on any of the five dimensions immediately sets its KPI to zero and eliminates it from the design process. 
 
 
-#### Communication and justification of our design decisions is important!
-
-<br />
-
-# Communicating Design Decisions
-
-To justify design decisions, score each in the following dimensions, resulting in Key Performance Indicator
-
-Radar plot for visualisation of rankings:
 
 <img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
 
