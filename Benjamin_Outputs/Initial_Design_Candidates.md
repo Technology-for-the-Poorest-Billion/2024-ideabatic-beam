@@ -185,10 +185,10 @@ This is above the budget, making the cost effectiveness score zero, giving Candi
 <br />
 
 
-## 3: Connection through Hinges - Feasability Assessment
+## Candidate 3: Connection through Hinges - KPI
 
 
-## 4: Connection across Door Sensor - Feasability Assessment
+## Candidate 4: Connection across Door Sensor - KPI
 
 
 Design candidates 3 and 4 are suitable, but offered no advantage according to their KPI over candidate 5, and threatened significantly more manufacturing complexity. 
