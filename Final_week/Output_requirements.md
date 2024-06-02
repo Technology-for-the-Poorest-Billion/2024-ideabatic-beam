@@ -11,5 +11,6 @@
 
 # Github Repository
 - Readme acts as Contents page
+- Formalise the design problem
 - Be explicit about anything that you did but is not presented, or anything you did not consider and why, and future steps
 - Use hyperlinks but make a clear progression through the entire repository
