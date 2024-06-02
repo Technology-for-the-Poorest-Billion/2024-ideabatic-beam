@@ -22,20 +22,43 @@ Will this heat cause the temperature inside the module to be significantly diffe
 
 <ins>The Analysis</ins>
 
-Maximum Power Transfer Theorem: 
+<ins>Maximum Heat Power Produced</ins>
 
-Resistance of Load = Internal Resistance of Batteries
+Two AA batteries
 
-Two AA batteries$\implies$ R<sub>in,total</sub> = 2 R<sub>in,single battery</sub>
+$\implies {R_{in,total}}$ = $\{2R_{in,single}}$
 
-R<sub>L</sub> = R<sub>in,total</sub>
+Maximum Power Transfer Theorem: Resistance of Load = Internal Resistance of Batteries
 
-$\implies {R_{total}}$ = 
 
-$\{P_{total}} = \frac{V^2}{\{R_{total}}}$
+$\implies {R_{L}}$ = $\{R_{in,total}}$
 
-$\implies$ 
+$\implies {R_{total}}$ = $\{2R_{in,total}}$ = $\{4R_{in,single}}$
 
-For super-and sub-scripts: a<sub>1</sub> = 12 ms<sup>-2</sup>.
+$\{P_{total}} = \frac{V^2}{\{R_{total}}} = \frac{V^2}{\{4R_{in,single}}}$
 
-You can also include formulae in LaTeX syntax: $\alpha=\frac{1}{\sqrt{2}}$.
+Maximum Total Voltage = 3V (1.5V per battery); Minimum $\{R_{in,single}}$ = 0.19 Ω
+
+$\implies$ $\{P_{total}} = \frac{3^2}{\{4\times0.19}} =$ 11.84 W
+
+<ins>Heat Conducted Away</ins>
+
+- Allow the temperature inside the module casing to exceed external temperature by 1ºC (∆T=1),
+- (Error caused by mismatch: Quantify with a plot from Notebook).
+
+$\dot{Q} = \frac{∆T}{\{R_{th}}}$
+
+To conduct away enough heat to remain in the acceptable range, $\dot{Q} \ge$ Heat produced $=$ 11.84 W
+
+$\implies {R_{th}} = \frac{l}{\lambda\times{A}} \le \frac{1}{\{11.84}}$ = 0.084 KW<sup>-1</sup>
+
+$\lambda_{aluminium}$ = 237 Wm<sup>-1</sup>K<sup>-1</sup>
+
+$\implies$ For an aluminium casing, $\frac{l}{\{A}} \le 237\times{0.084} =$ 19.9 m<sup>-1</sup>
+
+
+If any part of the module casing is made with aluminium which meets this aspect ratio, then any other sections (eg the transparent section for screen viewing) can be modelled as parallel resistive components in the heat analysis, only further improving the cooling capability of the casing. Thus manufacturing the casing with a section of aluminium meeting the aspect ratio required is sufficient to ensure that the temperature measured remains within the acceptable range. 
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10144406/#:~:text=Aluminum%20has%20a%20thermal%20conductivity,1%2C2%2C3%5D.
+
