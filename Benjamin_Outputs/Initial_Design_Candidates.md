@@ -32,6 +32,10 @@ The starting point reflects the initial preferences of the project partner, whic
 
 Given this, the quality of the communication and justification of our design decisions is crucial. 
 
+Part of this project's useful output is a thorough documentation and justification of all design decisions made, quantified and visualised where possible. 
+
+This is useful in the immediate term, as a means of presenting and justifying design decisions to the project partner, and also in the future, as subsequent work on this design problem will be streamlined by the clarity of this discussion, illustrating possibilities that have already been explored and eliminated. 
+
 <br />
 
 Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
