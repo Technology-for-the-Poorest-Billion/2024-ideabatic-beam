@@ -59,6 +59,11 @@ $\implies$ For an aluminium casing, $\frac{l}{\{A}} \le 237\times{0.084} =$ 19.9
 
 If any part of the module casing is made with aluminium which meets this aspect ratio, then any other sections (eg the transparent section for screen viewing) can be modelled as parallel resistive components in the heat analysis, only further improving the cooling capability of the casing. Thus manufacturing the casing with a section of aluminium meeting the aspect ratio required is sufficient to ensure that the temperature measured remains within the acceptable range. 
 
+Aluminium thermal conductivity:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10144406/#:~:text=Aluminum%20has%20a%20thermal%20conductivity,1%2C2%2C3%5D.
+
+Cost of aluminium sheeting:
+
+https://www.aluminiumwarehouse.co.uk/products/1-5-mm-5251-h22-aluminium-sheet?variant=42412383240380&utm_source=google&utm_medium=organic&utm_campaign=UK%20-%20Aluminium%20Warehouse&utm_content=1.5%20mm%20-%205251%20H22%20-%20Aluminium%20Sheet¤cy=GBP&utm_source=google&utm_medium=cpc&utm_campaign=Pmax%20tier%201%20-%20others&utm_id=20993447663&utm_term=&gad_source=1&gclid=Cj0KCQjwsPCyBhD4ARIsAPaaRf3k0eqC-FZWQaHwsebMHXSQ9EdVMUEPBOZF0SQjGx6mZrish0z4w_8aAsqzEALw_wcB
 
