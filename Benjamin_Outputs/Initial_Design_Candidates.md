@@ -38,8 +38,20 @@ This is useful in the immediate term, as a means of presenting and justifying de
 
 <br />
 
-Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
-Also important for future projects.
+To quantify the performace of each design candidate, it will be scored in each of five dimensions:
+- Cost effectiveness
+- Robustness: Environmental resistance and mechanical robustness
+- Insulation
+- Veracity of temperature prediction
+- User friendliness, primarily concerned with modularity
+
+A candidate's performance can be visualised using a radar plot. 
+
+- somethinng here about the non-linear characteristic curves of threshold dimensions
+
+The scores will then be combined to give a Key Performance Indicator (KPI), which quantifies the overall performance potential of a design. 
+
+Given that a failure to be fit for purpose in any of the five dimensions would render a design unsuitable, the KPI is calculated as the product of the five scores.
 
 
 #### Communication and justification of our design decisions is important!
