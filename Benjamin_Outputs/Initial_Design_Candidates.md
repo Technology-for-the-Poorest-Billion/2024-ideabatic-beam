@@ -65,6 +65,8 @@ $\{KPI}$ = Score 1 $\times$ Score 2 $\times$ Score 3 $\times$ Score 4 $\times$ S
 
 This product-rating method is also useful for eliminating design candidates: evidence that a candidate is unsuitable on any of the five dimensions immediately sets its KPI to zero and eliminates it from the design process. 
 
+As such, each candidate is checked first against its most problematic dimension, so that it can be quickly eliminated if unfeasible. 
+
 The radar plot conveniently visualises three important things:
 - Area shows which design candidates to proceed with
 - Relative strengths and weaknesses of each design candidate
@@ -79,7 +81,7 @@ The radar plot conveniently visualises three important things:
 <br />
 <br />
 
-## 1: Direct Axial Connection - Feasability Assessment
+## Candidate 1: Direct Axial Connection - KPI
 
 <img width="500" alt="Screenshot 2024-05-27 at 10 57 20" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/ae1fbc5b-4113-426e-a840-3b8d7522d0d4">
 
@@ -89,7 +91,7 @@ The radar plot conveniently visualises three important things:
 - This is the design prototyped by last year's group
 - They neglected the obvious risk of insulation compromise
 
-### Quantifying Compromise to Insulation
+### Scoring Candidate 1 on the 'Insulation' Dimension
 
 - Manufacturing and design interdependence:
 Wiring ~ 2 mm. Door made of PBS, manufactured by casting ⇒ ± 1 mm
@@ -116,20 +118,30 @@ This is worst case (can cover ends etc.), but clearly worth worrying about!
 
 
 
+## Candidate 2: Wireless Communication - KPI
+
+The dimension on which this design is most liekly to be unfeasible is cost effectiveness. 
+
+In the interests of fairness, the best-case possibility is explored: 
+- the lowest-cost implementation is used, which is to use a second microcontroller which can wirelessly communicate with the Pi Pico
+- the quantity discounts for bulk-ordering is assumed to follow the best-case exponential decay per-unit cost curve derived below
+
+#### Deriving the Best-case Quantity Discount Curve
+
+- Pricing tables for the components of interest were obtained from suppliers, either via direct contact or from their websites (see example).
+ 
+<img width="300" alt="Screenshot 2024-06-02 at 16 25 21" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/b18de748-69dd-4355-bce0-9ec4ba21493f">
+
+****Figure X: Example of quantity discount table****
+
+- The most generous discounting rate across websites and components was assumed, and plotted on logarithmic axis
+  
+<img width="600" alt="Screenshot 2024-06-02 at 16 26 31" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/92732948-9a31-4829-a735-5a382bf50f22">
+
+- The discounting rate was extrapolated past its usual limit of 100 components, up to our batch size of 3000 components, and plotted on a log
 
 
 
-## 2: Wireless Communication - Feasability Assessment
-
-Cost of making wireless (two microcontrollers cheaper than buying wireless temperature sensor):
-
-Pi Pico → Pi Pico W: £2
-
-Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
-
-So adds £6 to the single-unit price of electronics module
-
-Might *just* be feasible if there are no other cost incurred (see below)
 
 
 ### Budget Feasability
@@ -138,13 +150,28 @@ Might *just* be feasible if there are no other cost incurred (see below)
 |-|-|-|-|
 |Raspberry Pi Pico| £4.02 | £3.14 | 
 |DHT22| £4.74 | £3.56 | 
-| OLED Display | £10.19 | Pending (supplier contacted) ~ £7.95 |  
+| OLED Display | £10.19 | Pending (supplier contacted) ~ £7.95 | 
+|Battery holder| £4.74 | £3.56 | 
+|AA Batteries| £4.74 | £3.56 | 
 
 #### Per-unit cost for 100+ units: £14.65
 
+Cost of making wireless (two microcontrollers cheaper than buying wireless temperature sensor):
+
+Pi Pico → Pi Pico W: £2
+
+Wireless module microcontroller (ESP8266) to communicate with Pi Pico: £4
 
 
-<img width="1421" alt="Screenshot 2024-05-27 at 14 21 13" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/7a74a6ea-cc89-40df-80aa-688a63e6a762">
+- also need to take into account the cost of housing
+
+So adds £6 to the single-unit price of electronics module
+
+Might *just* be feasible if there are no other cost incurred (see below)
+
+
+
+
 
 #### Optimistic Per-unit cost of core electronics module for 3000 units: £11.37 
 (Assumes continuation of logarithmic pricing trend, such that per-unit cost falls to 60% of single-unit cost)
@@ -157,6 +184,15 @@ Hence,
 <br />
 
 
+## 3: Connection through Hinges - Feasability Assessment
+
+
+## 4: Connection across Door Sensor - Feasability Assessment
+
+
+Design candidates 3 and 4 are suitable, but offered no advantage according to their KPI over candidate 5, and threatened significantly more manufacturing complexity. 
+
+Hence, the design taken forward is candidate 5. 
 
 
 <img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
