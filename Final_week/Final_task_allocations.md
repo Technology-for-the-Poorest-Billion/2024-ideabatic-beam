@@ -62,7 +62,7 @@
 ## Ness
 - Cad model of the actual case, including a see-through compartment and a conductive compartment, ready to be 3D-printed.  (Romeo tells dimensions after assembling circuit)
 - Cad model of the door that is receptive to the case being clipped on (choose and justify clipping mechanism)
-- Choose materials for module casing: (i) base module. (ii) transparent section over screen. (iii) **conductive section is aluminium, with thickness/area < 9.954**. (iv) rubbery casings for buttons.
+- Choose materials for module casing: (i) base module. (ii) transparent section over screen. (iii) **conductive section is aluminium, with thickness/area < 19.9**. (iv) rubbery casings for buttons.
 - Constraints for choosing materials: - need to be easy to join together (suggest methods for joining, possibly including cost and efficiency considerations), - each needs to be thick enough to have sufficient mechanical robustness
 - Outline file compatibility issues between OpenSCAD and SolidWorks
 - 3D print and assemble door + case of electronics module (collaborate w Romeo): *Working prototype*
