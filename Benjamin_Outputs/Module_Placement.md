@@ -42,8 +42,6 @@ Assessing the two candidates against these criteria:
 - ****Water-tightness is compromised****.
   The button protrudes out the side of the door rather than across the top face. When the module (including the button) is removed, this will necessarily leave a gap in the water-tight seal, thus allowing for water ingress when the module is charging.
 
-- there is also an aesthetic issue: when the module is unclipped, or the non-electronic version of the 
-
 ***Shortcomings of Candidate 2, in which the module clips onto the top face:***
 - ****Mechanical roubstness****
   The entire module protrudes significantly above the top face of the door, making it the first point of contact for the coolbox if dropped upside down.
