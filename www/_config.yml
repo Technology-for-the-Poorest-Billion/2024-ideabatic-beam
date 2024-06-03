@@ -1,14 +1,12 @@
-title: Cool project 2024
+title: Ideabatic BEAM
 
 author:
-  name: Student name 1, Student name 2, etc.
+  name: Benjamin Adams, Romeo Basser, Ness Lam
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  BEAM aims to improve on previous designs of an electronics module for the last-mile cooling carrier system, SMILE, developed by Ideabatic. The electronics module include functions such as temperature data logging, cool-life predictions, and a door alert system.
 
 # Build settings
 
