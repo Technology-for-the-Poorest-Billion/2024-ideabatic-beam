@@ -66,7 +66,7 @@ $\{KPI}$ = Score 1 $\times$ Score 2 $\times$ Score 3 $\times$ Score 4 $\times$ S
 
 This product-rating method is also useful for eliminating design candidates: evidence that a candidate is unsuitable on any of the five dimensions immediately sets its KPI to zero and eliminates it from the design process. 
 
-As such, each candidate is checked first against its most problematic dimension, so that it can be quickly eliminated if unfeasible. 
+As such, each candidate is checked first against its most problematic dimension in a 'feasability test', so that it can be quickly eliminated if unfeasible. 
 
 The radar plot conveniently visualises three important things:
 - Area shows which design candidates to proceed with
@@ -82,7 +82,7 @@ The radar plot conveniently visualises three important things:
 <br />
 <br />
 
-## Candidate 1: Direct Axial Connection - KPI
+## Candidate 1: Direct Axial Connection - Insulation Feasability Assessment
 
 <img width="500" alt="Screenshot 2024-05-27 at 10 57 20" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/ae1fbc5b-4113-426e-a840-3b8d7522d0d4">
 
@@ -91,8 +91,7 @@ The radar plot conveniently visualises three important things:
 
 - This is the design prototyped by last year's group
 - They neglected the obvious risk of insulation compromise
-
-### Scoring Candidate 1 on the 'Insulation' Dimension
+- 
 
 The first dimension on which Candidate 1 will be scored is insulation, in an attempt to elimiinate it early on the grounds that it compromises insulation to an unacceptable level. 
 
@@ -105,6 +104,7 @@ Inkeeping with the conservative analysis principles, the analysis will be done w
 -   (in reality, there is ~ ±1 mm accuracy on casting, which would provide a tunnel air gap, further worsening insulation, and potentially causing issues with water ingress.)
 - the change in area of the door cross-section is neglected
 
+- Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 1.57mm<sup>2</sup> wiring, 3.83mm<sup>2</sup> air.
 
 ![IMG_BBFAF02D5158-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e295f11e-0cd9-4e65-a32e-ce5a66196fa9)
 
@@ -137,32 +137,16 @@ The new value for overall thermal reistance was simulated in the cool life estim
 
 
 
-Cool life decreases from 97.5 hours to 89.1 hours in 24ºC ambient temperature. This is a significant but non-fatal reduction in insulation efficacy. 
-
-- Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 6.3mm<sup>2</sup> wiring, 20.2mm<sup>2</sup> air.  
-
-- Computing thermal resistance per unit depth of door;
-- 
+Cool life decreases from 97.5 hours to 89.1 hours in 24ºC ambient temperature. 
 
 
+This is deemed feasible - the reduction in cool lifetime is not drastic enough to eliminate this candidate entirely. 
 
-- Running simulation to quantify effect on cool lifetime:
-
-
-<img width="625" alt="Screenshot 2024-05-27 at 10 22 40" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/5056e698-d9bb-46e1-b047-cd04820a952a">
-
-
-Cool lifetime at 24ºC ambient temperature reduces from 97.5 hours to 14.5 hours.
-
-This is worst case (can cover ends etc.), but clearly worth worrying about! 
-
- 
-<br />
-<br />
+However, it will be scored lower than the other design candidates, which don't threaten any significant reduction in insulation. 
 
 
 
-## Candidate 2: Wireless Communication - KPI
+## Candidate 2: Wireless Communication - Cost Effectiveness Feasability Assessment
 
 The dimension on which this design is most liekly to be unfeasible is cost effectiveness. 
 
@@ -220,6 +204,8 @@ The cost of electrical wiring, resistors and capacitors is neglected.
 
 This is above the budget, making the cost effectiveness score zero, giving Candidate 2 a KPI of zero. 
 
+Candidate 2 will therefore be eliminated from consideration without further consideration. 
+
 (the increased cost from the base module is the cost of two AA batteries + one battery holder + ESP8266 + Cost of converting Pi Pico to Pi Pico W, which totals to £5.02 increased cost, in the best case.)
 
 
@@ -229,10 +215,48 @@ This is above the budget, making the cost effectiveness score zero, giving Candi
 <br />
 
 
-## Candidate 3: Connection through Hinges - KPI
+# Scoring Candidates on Each Dimension
+
+## Scoring Criteria
+
+The following subjective (yet defensible) criteria were used for scoring on the five dimensions:
+
+### Cost effectiveness
+- Any design which is unfeasible within the £15 budget is scored zero
+- The remaining four designs are inseparable on cost (neglecting cost of wiring), so are all scored 5 
+
+### Robustness: Environmental resistance and mechanical robustness
+The primary risks for environmental and mechanical degradation are water ingress and damage to external wiring.
+- Any design which might be susceptible to water ingress is scored 5
+- Any design which requires external wiring is scored 8 (can be mitigated by further printing wiring)
+- Any design with both of the above is scored 4
+
+### Insulation
 
 
-## Candidate 4: Connection across Door Sensor - KPI
+### Veracity of temperature prediction
+- Any design with the temperature sensor outside the insulation is scored 8 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
+- Any with the temperature sensor susceptible to inorganic heating is scored 5
+
+
+### User friendliness, primarily concerned with modularity
+- Any design which has both mechanical and electrical modularity is scored 10
+- Any design which is mechanically but not electrically modular is scored 6
+
+
+
+| Part Description | Single Unit Cost | Per-Unit Cost in batch of 3000 | 
+|-|-|-|
+|Raspberry Pi Pico W| £5.80 | £3.48 | 
+|ESP8266| £4.22 | £2.53 | 
+|DHT22| £4.74 | £2.84 | 
+| OLED Display | £4.98 | £2.99 | 
+| Door-sensing switch | £1.02 | £0.61 |
+|Buzzer for door open alert| £2.15 | £1.29 | 
+|Battery holder x2 | £1.96 | £1.18 | 
+|AA Batteries x4 | £2.316 | £1.39 | 
+
+
 
 
 Design candidates 3 and 4 are suitable, but offered no advantage according to their KPI over candidate 5, and threatened significantly more manufacturing complexity. 
