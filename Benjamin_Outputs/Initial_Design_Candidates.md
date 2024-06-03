@@ -255,7 +255,7 @@ The primary risks for environmental and mechanical degradation are water ingress
 | Insulation | 7.6 | - | 10 | 10 |10 | 
 | Temp Prediction Veracity | 10 | - | 10 | 10 |6 | 
 | Modularity | 6 | - | 6 | 6 |10 | 
-| Overall KPI /1000 | 11.4 | 24 | 24 | - | 30 |
+| **Overall KPI /1000** | **11.4** | **24** | **24** | - | **30** |
 
 
 
