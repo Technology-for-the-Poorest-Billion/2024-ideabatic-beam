@@ -230,6 +230,7 @@ The primary risks for environmental and mechanical degradation are water ingress
 - Any design which might be susceptible to water ingress is scored 5
 - Any design which requires external wiring is scored 8 (can be mitigated by further printing wiring)
 - Any design with both of the above is scored 4
+- Any design with neither is scored 10
 
 ### Insulation
 - Any design which does not compromise insulation is scored 10
@@ -238,7 +239,7 @@ The primary risks for environmental and mechanical degradation are water ingress
 ### Veracity of temperature prediction
 - Any design with the temperature sensor outside the insulation is scored 9 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
 - Any design with the temperature sensor susceptible to inorganic heating (eg due to contact with the electronics) is scored 7
-- Any designw ith both of the above is scored 6
+- Any design with both of the above is scored 6
 - Other designs are scored 10
 
 ### User friendliness, primarily concerned with modularity
@@ -250,11 +251,11 @@ The primary risks for environmental and mechanical degradation are water ingress
 | Dimension | Candidate 1 Score | Candidate 2 Score | Candidate 3 Score | Candidate 4 Score | Candidate 5 Score | 
 |-|-|-|-|-|-|
 | Cost effectiveness | 5 | 0 | 5 | 5 |5 | 
-| Robustness | 5 | £3.48 | £5.80 | £3.48 |£5.80 | 
-| Insulation | 5 | £3.48 | £5.80 | £3.48 |£5.80 | 
-| Temp Prediction Veracity | £5.80 | £3.48 | £5.80 | £3.48 |£5.80 | 
-| Modularity | £5.80 | £3.48 | £5.80 | £3.48 |£5.80 | 
-| Overall KPI | £5.80 | £3.48 | £5.80 | £3.48 |£5.80 |
+| Robustness | 5 | - | 8 | 8 |10 | 
+| Insulation | 7.6 | - | 10 | 10 |10 | 
+| Temp Prediction Veracity | 10 | - | 10 | 10 |6 | 
+| Modularity | 6 | - | 6 | 6 |10 | 
+| Overall KPI /1000 | 11.4 | 24 | 24 | - | 30 |
 
 
 
