@@ -106,11 +106,31 @@ Inkeeping with the conservative analysis principles, the analysis will be done w
 
 ![IMG_BBFAF02D5158-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e295f11e-0cd9-4e65-a32e-ce5a66196fa9)
 
-Previous contributors computed the thermal resistance *per unit depth* of door to be 
+The bulk of the door is made of the insulating material tricast. 
+Previous contributors computed the average thermal resistance *per unit depth* of door to be 
+
+$\ {R_{th, tri}} =$ = 198.6 KW<sup>-1</sup>m<sup>-1</sup>
+
+The area of copper in two 1mm diameter copper wires is 1.57 mm<sup>2</sup>, 
+
+$\implies$ *per unit depth*,
+
+$\ {R_{th, copper}} =\frac{1}{\lambda\times{A}} =\frac{1}{{398}\times{1.57\times{10^-6}}} =$ 1600 KW<sup>-1</sup>m<sup>-1</sup>
+
+$\ {R_{th, air}} =\frac{1}{\lambda\times{A}} =\frac{1}{{0.025}\times{3.83\times{10^-6}}} =$ 10.4 x 10<sup>6</sup> KW<sup>-1</sup>m<sup>-1</sup>
+
+The three resistive elements are in parallel through the entire depth of the door, so 
+
+$\frac{1}{R_{th, total}} = \frac{1}{{R_{th, copper}} + \frac{1}{{R_{th, air}} + \frac{1}{{R_{th, tri}}$
+
+$\implies {R_{th, total}} =$ 176.7 KW<sup>-1</sup>m<sup>-1</sup>
+
+Thus the thermal insulation of the door per-unit depth is reduced by 11.04%. 
+
+Using data from previous contributors to compute the new total thermal resistance between the ice pack at the centre of the cooling device and the external air, the thermal resistance is found to be reduced from 9.72 to 8.88 KW<sup>-1
 
 
-
-
+<img width="601" alt="Screenshot 2024-06-03 at 22 38 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/a737c389-ac74-4d22-b0e9-230d6f306884">
 
 - Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 6.3mm<sup>2</sup> wiring, 20.2mm<sup>2</sup> air.  
 
