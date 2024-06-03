@@ -94,14 +94,30 @@ The radar plot conveniently visualises three important things:
 
 ### Scoring Candidate 1 on the 'Insulation' Dimension
 
-- Manufacturing and design interdependence:
-Wiring ~ 2 mm. Door made of PBS, manufactured by casting ⇒ ± 1 mm
+The first dimension on which Candidate 1 will be scored is insulation, in an attempt to elimiinate it early on the grounds that it compromises insulation to an unacceptable level. 
+
+This is suspected to be the case, as the electrical wiring, being very thermally conductive, needs to cut straight through the insulated bulk of the door, providing a short-circuit path for heat conduction. 
+
+Inkeeping with the conservative analysis principles, the analysis will be done with the following assumptions, each of which leads to the most conservative estimate of insulation efficacy:
+- the wiring used is has the lowest readily available diameter, 1 mm
+- manufacturing is done with perfect precision (in reality, there is ~ ±1 mm accuracy on casting, which would provide a tunnel air gap, further worsening insulation, and potentially causing issues with water ingress.)
+- the change in area of the door cross-section is neglected
+
 
 ![IMG_BBFAF02D5158-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e295f11e-0cd9-4e65-a32e-ce5a66196fa9)
+
+Previous contributors computed the thermal resistance *per unit depth* of door to be 
+
+
+
+
 
 - Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 6.3mm<sup>2</sup> wiring, 20.2mm<sup>2</sup> air.  
 
 - Computing thermal resistance per unit depth of door;
+- 
+
+
 
 - Running simulation to quantify effect on cool lifetime:
 
