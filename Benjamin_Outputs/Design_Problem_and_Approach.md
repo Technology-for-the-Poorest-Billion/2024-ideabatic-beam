@@ -1,11 +1,3 @@
-## Formalising the primary design problem:
-- electronics module with temperature sensor to inform algorithm and display for user
-- module should be clip on clip off (opt in design, easy charging)
-- minimise compromise to insulation
-- target budget: £15 (batch size ~3000)
-
-<br />
-
 ## Some additional context:
 This project was taken on by a team last year, here is the progress they made and where they fell short:
 
@@ -14,6 +6,18 @@ This project was taken on by a team last year, here is the progress they made an
 - ambiguous in their final recommendation for position of the temperature sensor
 - did not quantify the effect of the electronics module compromising insulation
 - mechanical issues with door ergonomics, lack of protection for display screen
+
+<br />
+
+## Formalising the primary design problem:
+- electronics module with temperature sensor to inform algorithm and display for user
+- module should be clip on clip off (opt in design, easy charging)
+- minimise compromise to insulation
+- target budget: £15 (batch size ~3000)
+
+
+
+
 
 <br />
 
