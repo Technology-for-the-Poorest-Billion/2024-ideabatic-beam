@@ -16,7 +16,9 @@ Ideabatic had been collaborating with different project groups to develop a temp
 
 Previous project groups have worked on different electronics housing and door slot designs, developing temperature and cool life prediction algorithms and door alert systems, and improving other mechanical features such as the self-closing mechanism and lid ergonomics. BEAM aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by SMILE's founder, Kitty Liao, and our own personal insight.
 
-#### Our goal: Modularise the electronics. Minimise the compromise to insulation. Improve ergonomics of the door.
+### Our goal: Modularise the electronics. Minimise the compromise to insulation. Improve ergonomics of the door.
+
+
 
 ### To configure your website:
 
