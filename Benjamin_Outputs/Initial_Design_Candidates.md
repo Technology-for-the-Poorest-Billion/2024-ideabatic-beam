@@ -257,10 +257,10 @@ The primary risks for environmental and mechanical degradation are water ingress
 | Modularity | 6 | - | 6 | 6 |10 | 
 | **Overall KPI /1000** | **11.4** | **24** | **24** | - | **30** |
 
+**Add in radar plots here**
 
 
 
-Design candidates 3 and 4 are suitable, but offered no advantage according to their KPI over candidate 5, and threatened significantly more manufacturing complexity. 
 
 Hence, the design taken forward is candidate 5. 
 
