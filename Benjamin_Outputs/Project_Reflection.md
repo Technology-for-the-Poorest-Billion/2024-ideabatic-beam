@@ -1,0 +1,3 @@
+- What is the useful output of the project
+- Do also a costing of total money spent and time period in this project, in pursuit of a design solution and working prototype
+- Teamworking; what each team member learnt
