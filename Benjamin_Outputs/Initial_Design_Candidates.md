@@ -219,7 +219,7 @@ Candidate 2 will therefore be eliminated from consideration without further cons
 
 ## Scoring Criteria
 
-The following subjective (yet defensible) criteria were used for scoring on the five dimensions:
+Based on personal judgement and continual discussion with the project partner, the following subjective (yet defensible) criteria were used for scoring on the five dimensions: **defend these further!**
 
 ### Cost effectiveness
 - Any design which is unfeasible within the £15 budget is scored zero
@@ -232,12 +232,14 @@ The primary risks for environmental and mechanical degradation are water ingress
 - Any design with both of the above is scored 4
 
 ### Insulation
-
+- Any design which does not compromise insulation is scored 10
+- Any design which multiplies the 24º cool lifetime by a factor m is scored m<sup>3</sup> x 10
 
 ### Veracity of temperature prediction
-- Any design with the temperature sensor outside the insulation is scored 8 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
-- Any with the temperature sensor susceptible to inorganic heating is scored 5
-
+- Any design with the temperature sensor outside the insulation is scored 9 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
+- Any design with the temperature sensor susceptible to inorganic heating (eg due to contact with the electronics) is scored 7
+- Any designw ith both of the above is scored 6
+- Other designs are scored 10
 
 ### User friendliness, primarily concerned with modularity
 - Any design which has both mechanical and electrical modularity is scored 10
@@ -245,16 +247,14 @@ The primary risks for environmental and mechanical degradation are water ingress
 
 
 
-| Part Description | Single Unit Cost | Per-Unit Cost in batch of 3000 | 
-|-|-|-|
-|Raspberry Pi Pico W| £5.80 | £3.48 | 
-|ESP8266| £4.22 | £2.53 | 
-|DHT22| £4.74 | £2.84 | 
-| OLED Display | £4.98 | £2.99 | 
-| Door-sensing switch | £1.02 | £0.61 |
-|Buzzer for door open alert| £2.15 | £1.29 | 
-|Battery holder x2 | £1.96 | £1.18 | 
-|AA Batteries x4 | £2.316 | £1.39 | 
+| Dimension | Candidate 1 Score | Candidate 2 Score | Candidate 3 Score | Candidate 4 Score | Candidate 5 Score | 
+|-|-|-|-|-|-|
+| Cost effectiveness | 5 | 0 | 5 | 5 |5 | 
+| Robustness | 5 | £3.48 | £5.80 | £3.48 |£5.80 | 
+| Insulation | 5 | £3.48 | £5.80 | £3.48 |£5.80 | 
+| Temp Prediction Veracity | £5.80 | £3.48 | £5.80 | £3.48 |£5.80 | 
+| Modularity | £5.80 | £3.48 | £5.80 | £3.48 |£5.80 | 
+| Overall KPI | £5.80 | £3.48 | £5.80 | £3.48 |£5.80 |
 
 
 
