@@ -1,5 +1,5 @@
 ---
-title: Cool-life and Temperature Display for Assurance of Cold-Chain Logistics
+title: Cool-life and Temperature Display for Enhancing Cold-Chain Assurance 
 ---
 
 ## Idabatic's Mission
