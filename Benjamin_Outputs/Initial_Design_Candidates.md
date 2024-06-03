@@ -100,7 +100,9 @@ This is suspected to be the case, as the electrical wiring, being very thermally
 
 Inkeeping with the conservative analysis principles, the analysis will be done with the following assumptions, each of which leads to the most conservative estimate of insulation efficacy:
 - the wiring used is has the lowest readily available diameter, 1 mm
-- manufacturing is done with perfect precision (in reality, there is ~ ±1 mm accuracy on casting, which would provide a tunnel air gap, further worsening insulation, and potentially causing issues with water ingress.)
+- manufacturing is done with maximal precision. For casting a polymer, 
+-
+-   (in reality, there is ~ ±1 mm accuracy on casting, which would provide a tunnel air gap, further worsening insulation, and potentially causing issues with water ingress.)
 - the change in area of the door cross-section is neglected
 
 
@@ -129,8 +131,13 @@ Thus the thermal insulation of the door per-unit depth is reduced by 11.04%.
 
 Using data from previous contributors to compute the new total thermal resistance between the ice pack at the centre of the cooling device and the external air, the thermal resistance is found to be reduced from 9.72 to 8.88 KW<sup>-1
 
+The new value for overall thermal reistance was simulated in the cool life estimation algorithm, and the effect of the axial connection was plotted:
 
 <img width="601" alt="Screenshot 2024-06-03 at 22 38 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/a737c389-ac74-4d22-b0e9-230d6f306884">
+
+
+
+Cool life decreases from 97.5 hours to 89.1 hours in 24ºC ambient temperature. This is a significant but non-fatal reduction in insulation efficacy. 
 
 - Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 6.3mm<sup>2</sup> wiring, 20.2mm<sup>2</sup> air.  
 
