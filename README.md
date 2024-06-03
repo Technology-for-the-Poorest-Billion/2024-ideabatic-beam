@@ -28,4 +28,5 @@ Rough connections, maybe add in a diagram later. Note all components will work f
   - This can be done via thonny; connect the Pi to the computer whilst holding the BOOTSEL button, and install the standard relevant micropython.
 2. Install the ssd1306 and dht libraries.
   - This can be also be done via thonny; with the pi connected and responding, click tools -> manage packages and install the libraries there.
-  - 
+3. Port over all items in the code folder.
+4. The Pico, on boot, will run main.py by default. For testing, mainTest.py is recommended, as this can "accelerate" the heat loss rate, along with increasing the polling rate, allowing for easy testing of all the features.
