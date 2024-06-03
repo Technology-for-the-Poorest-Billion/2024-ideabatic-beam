@@ -1,5 +1,5 @@
 ---
-title: Electronics Module for Enhancing Cold-Chain Assurance 
+title: Electronics Module for Cold-Chain Assurance 
 ---
 
 ## Ideabatic's Mission
