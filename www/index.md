@@ -2,7 +2,7 @@
 title: Electronics Module for Enhancing Cold-Chain Assurance 
 ---
 
-## Idabatic's Mission
+## Ideabatic's Mission
 
 Current vaccine carriers use cooler boxes that are poorly equipped to handle their transport environment. Vaccines stored in average cooler boxes are shown to last approximately 4 hours in the field, which is simply not enough for last-mile journeys that can last up to 2 days in over 25ºC heat. 
 
