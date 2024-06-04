@@ -105,9 +105,9 @@ class SoftSwitch():
             self._start_debounce_timer()
 
 #initialise extra components
-buzzer = Pin(14, Pin.OUT, Pin.PULL_DOWN) # Buzzer is connected between GPIO pin 14 (board pin 19), and ground. Polarity does matter
-bottomButton = Pin(15, Pin.IN, Pin.PULL_UP) # Bottom button is connected between GPIO pin 15 (board pin 20) and ground)
-doorSwitch = Pin(16, Pin.IN, Pin.PULL_UP) # Door switch is connected between GPIO pin 16 (board pin 21), and ground
+buzzer = Pin(10, Pin.OUT, Pin.PULL_DOWN) # Buzzer is connected between GPIO pin 10, and ground. Polarity does matter
+bottomButton = Pin(18, Pin.IN, Pin.PULL_UP) # Bottom button is connected between GPIO pin 18 and ground
+doorSwitch = Pin(14, Pin.IN, Pin.PULL_UP) # Door switch is connected between GPIO pin 14 and ground
 constants = updateJson('constants.json') # Import all the relevant constants
 Qleft = constants["Qtotal"] # Initialises heat energy.
 endBuzz = False
@@ -132,7 +132,7 @@ try:
         sleep(1)
         continue
     print("starting")
-    bottomButton = SoftSwitch(Pin(15, machine.Pin.IN, machine.Pin.PULL_UP), constants) # THIS REQUIRES A TECHNICAL PRESS, PUSH THE BUTTON THEN PUSH AGAIN IN QUICK SUCCESSION, OR A QUICK TRIPLE CLICK
+    bottomButton = SoftSwitch(Pin(18, machine.Pin.IN, machine.Pin.PULL_UP), constants) # THIS REQUIRES A TECHNICAL PRESS, PUSH THE BUTTON THEN PUSH AGAIN IN QUICK SUCCESSION, OR A QUICK TRIPLE CLICK
     count = 0 # A counter for the number of loops the door has been left open
     lastTime = time()
     while True:
