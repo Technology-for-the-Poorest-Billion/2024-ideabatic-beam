@@ -19,7 +19,7 @@ Previous project groups have worked on different electronics housing and door sl
 ### Our goal: Modularise the electronics. Minimise the compromise to insulation. Improve ergonomics of the door.
 
 
-
+<!--
 ### To configure your website:
 
 - The required files to run a basic website are included in the repository. We use here Jekyll to turn markdown files into html that will be automatically updated on the website. The component responsible for this is a GitHub action, which is specified in the folder .github/workflows. There is no need to change this file. However:
@@ -44,4 +44,4 @@ This is a [link](linkedpage.md) to interesting content.
 
 - Pay attention to the header of the markdown files in this section. It contains a title section that you will need to reproduce for each page to render them properly.
 
-
+-->
