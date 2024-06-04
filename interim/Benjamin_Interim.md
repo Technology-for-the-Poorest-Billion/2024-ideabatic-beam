@@ -23,18 +23,6 @@ This project was taken on by a team last year, here is the progress they made an
 
 ## Our Design Process
 
-<br />
-
-#### Core Electrical Circuit
-
-<img width="550" alt="Screenshot 2024-05-26 at 15 14 30" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/d8ad377c-824a-41d8-bdd4-f801853df728">
-
-In its simplest state, only requires four components:
-Raspberry Pi Pico Microcontroller, DHT22 temperature sensor, 10kΩ resistor and OLED display
-* note - temperature sensor series may be subject to change
-
-<br />
-
 ### Default Physical Arrangement
 
 ![IMG_9413C2C4692F-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/60c86eb5-2260-4c7b-bbe1-881a7b46c9ef)
@@ -42,14 +30,35 @@ Raspberry Pi Pico Microcontroller, DHT22 temperature sensor, 10kΩ resistor and 
 
 *Why is there a 'default'? Shouldn't this be an open design problem?*
 
-Yes, but...
+This is an open design problem, but it has a starting point.
 
-Project partner has her own preferences, particularly concerned with sensor degradation, exposure to heat from electronics module, veracity of temperature prediction.
+The starting point represents the company's initial preferences, based on the work presented to them by previous contributors. 
+
+Some of the key factors informing the company's initial preferences are: environmental/wear resitance of the electronics module and veracity of the temperature prediction. 
+
+Part of the useful output of this project is a demonstration in quantifying and visualising the performance of candidate designs, as a means of justifying the design decisions made. This is useful in the immediate term, as an assurance to the company, and will be useful in the future, as it streamlines further work which might be done in incrementally improving the design we present. 
+
+Therefore, in the subsequent design process, a five 'key performance indicators' were defined:
+
+- Cost Effectiveness
+- Veracity of Temperature Prediction
+- Modularity/User-friendliness
+- Environmental Resistance and Mechanical Robustness
+- Insulation
 
 <br />
 
-Part of the useful output of this project will be a demonstration of why this is might not be necessary/optimal, by attempting to visualise, and quantify with a KPI, the drawbacks.
-Also important for future projects.
+Each candidate design is given a rating in each of these five dimensions. 
+
+Each candiate's ratings across the board can be visualised by a radar plot:
+
+
+
+An overall 'fit for purpose' score can then be assigned to each candidate, according to the formula below:
+
+Score = (Rating in KPI 1) x (Rating in KPI 2) x (Rating in KPI 3) x (Rating in KPI 4) x (Rating in KPI 5)
+
+A product-based scoring system is preferred because 
 
 
 #### Communication and justification of our design decisions is important!
