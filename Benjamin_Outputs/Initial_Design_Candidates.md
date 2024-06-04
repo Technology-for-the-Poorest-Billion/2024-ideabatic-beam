@@ -181,8 +181,12 @@ The primary risks for environmental and mechanical degradation are water ingress
 | Modularity | 6 | - | 6 | 6 |10 | 
 | **Overall KPI /1000** | **11.4** | **24** | **24** | - | **30** |
 
-**Add in radar plots here**
 
+<img width="330" alt="Screenshot 2024-06-04 at 10 44 39" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/d133f17e-0e13-45d1-b63c-70eb4346e0cb">
+
+<img width="330" alt="Screenshot 2024-06-04 at 10 47 37" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/d9a9a7b7-a551-46d5-ad39-c126b3f9e75e">
+
+<img width="330" alt="Screenshot 2024-06-04 at 10 49 19" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4b986d9e-1efa-4eb6-bb1d-3931d1883591">
 
 
 
