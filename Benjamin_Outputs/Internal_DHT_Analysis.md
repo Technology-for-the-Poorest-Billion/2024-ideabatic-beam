@@ -43,7 +43,7 @@ $\implies$ $\{P_{total}} = \frac{3^2}{\{4\times0.19}} =$ 11.84 W
 
 <ins>Heat Conducted Away</ins>
 
-- Allow the temperature inside the module casing to exceed external temperature by 1ºC (∆T=1),
+- Allow the temperature inside the module casing to exceed external temperature by 1ºC (∆T=1), *This is asssumed small enough to have a negligible impact on the temperature prediction. Assumption checked in Final_Design_Feasability.md*
 - (Error caused by mismatch: Quantify with a plot from Notebook).
 
 $\dot{Q} = \frac{∆T}{\{R_{th}}}$
