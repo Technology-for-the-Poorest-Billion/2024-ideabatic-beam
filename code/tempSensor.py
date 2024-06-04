@@ -2,7 +2,7 @@ from machine import Pin
 from time import sleep
 from dht import DHT22
 # Initialising GPIO und DHT22
-dht22_sensor = DHT22(Pin(2, Pin.IN, Pin.PULL_UP))
+dht22_sensor = DHT22(Pin(5, Pin.IN, Pin.PULL_UP))
 
 def tempMeasure():
     dht22_sensor.measure()
