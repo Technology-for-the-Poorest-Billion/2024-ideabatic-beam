@@ -193,9 +193,5 @@ The primary risks for environmental and mechanical degradation are water ingress
 Hence, the design taken forward is candidate 5, with a specific focus on improving/validating its performance in the 'temperature prediction veracity' dimension, and ensuring that its cost effectiveness, robustness, insulation and modularity are upheld, as it is selected for its good performance across these dimensions. 
 
 
-<img width="450" alt="Screenshot 2024-05-27 at 10 17 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c045e667-ff44-4336-966f-8e713be696de">
-
-<img width="450" alt="Screenshot 2024-05-27 at 10 15 11" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e665e3ba-2e67-4c85-8292-c0a53bb3d79b">
-
 <br />
 <br />
