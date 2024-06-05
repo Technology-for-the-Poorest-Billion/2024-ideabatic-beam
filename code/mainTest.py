@@ -17,7 +17,7 @@ class SoftSwitch():
     clicking the button down, then clicking it again quickly, or adjusting the
     sensitivity in self.sensitivity.
     """
-    def __init__(self, pin, constants: dict, tempMeasure, changeDisplay, checks=3, check_period=100):
+    def __init__(self, pin, constants: dict, tempMeasure, changeDisplay, checks=3, check_period=80):
         self.pin = pin
         self.pin.irq(handler=self._switch_change,
                      trigger= machine.Pin.IRQ_RISING | machine.Pin.IRQ_FALLING)
