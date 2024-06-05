@@ -47,6 +47,8 @@ $\ {R_{th, air}} =\frac{1}{\lambda\times{A}} =\frac{1}{{0.025}\times{3.83\times{
 
 The three resistive elements are in parallel through the entire depth of the door, so 
 
+(*Be explicit here; you are modelling this as a thermal resistance in parallel with the insulating material tricast*)
+
 $\frac{1}{R_{th, total}} = \frac{1}{{R_{th, copper}} + \frac{1}{{R_{th, air}} + \frac{1}{{R_{th, tri}}$
 
 $\implies {R_{th, total}} =$ 176.7 KW<sup>-1</sup>m<sup>-1</sup>
