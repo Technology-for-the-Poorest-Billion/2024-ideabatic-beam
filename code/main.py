@@ -17,7 +17,7 @@ class SoftSwitch():
     clicking the button down, then clicking it again quickly, or adjusting the
     sensitivity in self.sensitivity.
     """
-    def __init__(self, pin, constants: dict, checks=3, check_period=100):
+    def __init__(self, pin, constants: dict, tempMeasure, changeDisplay, checks=3, check_period=100):
         self.pin = pin
         self.pin.irq(handler=self._switch_change,
                      trigger= machine.Pin.IRQ_RISING | machine.Pin.IRQ_FALLING)
@@ -70,22 +70,25 @@ class SoftSwitch():
                     
                 self.currentTime = time()
                 if not self.previousTime:
-                    self.previousTime = self.currentTime - 1000
+                    self.previousTime = self.currentTime - 1000 #Makes sure the first click isn't a double click
                 dummyQ = False
-                if self.currentTime - self.previousTime < self.sensitivity:
+                if self.currentTime - self.previousTime < self.sensitivity: # Check for a double click with sensitivity _
                     print("Double click detected")
-                    if self.reverted == False:
-                        self.reverted = True
+                    if self.reverted == False: # Makes sure it only reverts once
+                        self.reverted = True 
                         print("Reverting Q to", constants["revertQ"])
-                        dummyQ = max(0, constants["revertQ"])
-                        displayStrings("Reverting to previous Q", None)
-                        sleep(1)
+                        dummyQ = max(0, constants["revertQ"]) # Makes sure that it doesn't revert the cool life to a negative number; if 0 then can be reset
+                        changeDisplay(revert = True)
                     else:
-                        dummyQ = constants["Qtotal"]
-                        print("Resetting time.")
+                        changeDisplay(reset = True)
+                        dummyQ = constants["Qtotal"]  
                 if dummyQ:     
                     global Qleft
                     Qleft = dummyQ
+                    temp = tempMeasure()
+                    heatLossRate = (temp) / constants["Rth"]
+                    timeRemaining = dummyQ / (heatLossRate * (60*60))
+                    displayTime(timeRemaining, None)
                 self.previousTime = self.currentTime
 
  
@@ -130,12 +133,12 @@ while started is False:
     sleep(1)
     continue
 print("starting")
-pushButton = SoftSwitch(Pin(18, machine.Pin.IN, machine.Pin.PULL_UP), constants) # THIS REQUIRES A TECHNICAL PRESS, PUSH THE BUTTON THEN PUSH AGAIN IN QUICK SUCCESSION, OR A QUICK TRIPLE CLICK
+pushButton = SoftSwitch(Pin(18, machine.Pin.IN, machine.Pin.PULL_UP), constants, tempMeasure, changeDisplay) # THIS REQUIRES A TECHNICAL PRESS, PUSH THE BUTTON THEN PUSH AGAIN IN QUICK SUCCESSION, OR A QUICK TRIPLE CLICK
 count = 0 # A counter for the number of loops the door has been left open
 lastTime = time()
 while True:
     timeDiff = (time() - lastTime) # Used to calculate the time difference over which heat was lost
-    temp, humi = tempMeasure()
+    temp = tempMeasure()
     heatLossRate = (temp) / constants["Rth"] # (W), note the temp is actually a temperature difference, but since the ice pack core is 0C, the temperature in Celcius alone works
     QLoss = heatLossRate * timeDiff # (Heat energy, J, lost to surroundings)
     Qleft -= QLoss #Calculate remaining Q
@@ -164,10 +167,3 @@ turnoff()
 constants["revertQ"] = Qleft
 constants["revertTime"] = time()
 dumpJson("constants.json", constants)
-
-    
-
-
-
-
-
