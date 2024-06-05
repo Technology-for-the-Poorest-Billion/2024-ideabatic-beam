@@ -17,7 +17,7 @@ class SoftSwitch():
     clicking the button down, then clicking it again quickly, or adjusting the
     sensitivity in self.sensitivity.
     """
-    def __init__(self, pin, constants: dict, tempMeasure, changeDisplay, checks=3, check_period=100):
+    def __init__(self, pin, constants: dict, tempMeasure, changeDisplay, checks=3, check_period=80):
         self.pin = pin
         self.pin.irq(handler=self._switch_change,
                      trigger= machine.Pin.IRQ_RISING | machine.Pin.IRQ_FALLING)
@@ -140,7 +140,7 @@ while True:
     timeDiff = (time() - lastTime) # Used to calculate the time difference over which heat was lost
     temp = tempMeasure()
     heatLossRate = (temp) / constants["Rth"] # (W), note the temp is actually a temperature difference, but since the ice pack core is 0C, the temperature in Celcius alone works
-    QLoss = heatLossRate * timeDiff # (Heat energy, J, lost to surroundings)
+    QLoss = heatLossRate * (timeDiff) # (Heat energy, J, lost to surroundings).
     Qleft -= QLoss #Calculate remaining Q
     if Qleft <=0:
         pushButton.endTimer()
