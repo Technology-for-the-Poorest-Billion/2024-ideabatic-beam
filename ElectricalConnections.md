@@ -39,4 +39,4 @@ Note that the below makes reference to the board pins and GPIO pins.. See pico.p
 <br>Board 38 (GND): Battery holder positive terminal
 <br>Board 39 (VSYS): Battery holder positive terminal
 
-![Electrical Connections][Electrical_Connections.jpeg]
+![Electrical Connections](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/ElectricalConnections.png)
