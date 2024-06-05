@@ -26,9 +26,14 @@ Material costs:
 £0.22 for 0.01m2
 - 30x14 of 2mm thick acrylic https://www.perspexsheet.uk/clear-000-perspex/?gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMEZ89-n_Y2YTYkYBV_6rXlRbnBh4ZYir4bu5BmR-Uv2fd5JJoKAz8saAuZmEALw_wcB
 - £0.02 per unit
-- 13226.4mm3 of ???
+- 13226.4mm3 of ABS, costs £1.37/kg; density is 1 g/cm3, so we are using 13.2264g, so material cost is £0.02; if we want it pre-processed, £0.31.
 - two PVC button covers, £0.24 each
 
+- The logarithmic quantity discount was derived for electrical components, so as a conservative assumption we will here use the single unit cost for materials. (worst case assumptions)
+
+- We will use the upper limit of electrical component quantity discounting (worst-case, conservative assumption)
+
+So only adds £1.03 to material costs, well under budget. 
 
 Manufacutring costs:
 - 
@@ -42,6 +47,8 @@ Manufacutring costs:
 
 
   https://colab.research.google.com/drive/1pOM9zMMuzmkzLNehpk7Lr7O0WtXEk16u?authuser=1#scrollTo=-TuyIuoOHyXr
+
+https://www.plasticsdirect.co.uk/products/abs-sheet-acrylonitrile-butadiene-styrene
 
 Though not ordered in time, here is an example of a water-resistant cover that would be suitable for covering the switch and button on the module. 
 
