@@ -1,5 +1,6 @@
 from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
+from time import sleep
 
 #initialise display with data pins at GPIO 0,1 / board 1,2
 i2c=I2C(0, sda=Pin(0), scl=Pin(1), freq=400000)
@@ -52,7 +53,7 @@ def displayTime(timeleft: int, printer: bool):
     Assumes there is a 2 hour leniency during which the vaccines may still be okay.
     """
     oled.fill(0)
-    if timeleft >= 10 and timeleft < 200:
+    if timeleft >= 10 and timeleft < 300:
         #print("Device is okay to continue using")
         statement = "Remaining cool life:"
         if printer == True: (print(statement + " {:1.0f} hours.".format(timeleft)))
@@ -62,7 +63,7 @@ def displayTime(timeleft: int, printer: bool):
         statement = "Warning, cool  life is low:"
         if printer == True: (print(statement + " {:1.0f} hours.".format(timeleft)))
         displayStrings(splitString(statement, 15), timeleft)
-    elif timeleft <= 0 and timeleft >= -1:
+    elif timeleft <= 0 and timeleft >= -2:
         oled.invert(1)
         statements = ["Vaccines have ", "left safe zone", "proceed with", "caution"]
         #print(splitString(statements, 15))
@@ -80,7 +81,27 @@ def displayTime(timeleft: int, printer: bool):
     oled.show()
     return
 
+def changeDisplay(revert = False, reset = False):
+    """
+    Lets the user know that the double click has been detected and what the code is doing in response.
+    """
+    if revert:  
+        print("Reverting cool life")
+        oled.fill(0)
+        oled.text("Reverting cool", 0, 0)
+        oled.text("lifetime", 0, 8)
+    elif reset:
+        print("Resetting cool life")
+        oled.fill(0)
+        oled.text("Resetting cool",0 , 0)
+        oled.text("lifetime", 0, 8)
+    else:
+        return 
+    oled.show()
+    sleep(1)
+    
 #to test display, uncomment the below and run.
 #displayTime(0, True)
 #oled.text("test", 0, 0)
 #oled.show()
+
