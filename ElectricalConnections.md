@@ -1,7 +1,9 @@
 # Electrical connections to Pi Pico
-Note that the below makes reference to the board pins and GPIO pins.. See pico.pinout.xyz for more information.
+Note that the below makes reference to the board pins and GPIO pins. See pico.pinout.xyz for more information.
 
 ## Pinout:
+![Electrical Connections](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Pictures/ElectricalConnections.png)
+
 |Board|GPIO/V|Purpose|
 |-|-|-|
 |1|GP0|Display SDA|
@@ -20,9 +22,7 @@ Note that the below makes reference to the board pins and GPIO pins.. See pico.p
 |38|GND|Battery holder positive terminal|
 |39|VSYS|Battery holder positive terminal|
 
-
-
-
+<!--
 <BR>Board 1 (GP0): Display SDA
 <br>Board 2 (GP1): Display SCL
 <br>Board 3 (GND): Display GND 
@@ -37,6 +37,4 @@ Note that the below makes reference to the board pins and GPIO pins.. See pico.p
 <br>Board 29 (GP22): Connected to 3V3. Used as an extended positive terminal for further wires. (Display Vin and DHT Vin are connected to this)
 <br>Board 36 (3V3 Out): Connected to board 29 (GP22). Used as an extended positive terminal for further wires. (Display Vin and DHT22 Vin are connected to this)
 <br>Board 38 (GND): Battery holder positive terminal
-<br>Board 39 (VSYS): Battery holder positive terminal
-
-![Electrical Connections](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/ElectricalConnections.png)
+<br>Board 39 (VSYS): Battery holder positive terminal -->
