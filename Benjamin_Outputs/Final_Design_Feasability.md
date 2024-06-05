@@ -44,6 +44,11 @@ Manufacutring costs:
   Hence all of the dimensions are satisfied, it is a theoretically successful design. Now build the prototype!
 
 
+# Insulation
+
+*This uses a different model: split the total thermal resistance of ABS into two parts: the insulation in door face and the insulation in all other faces. Then the thermal resistance in door face is reduced by a factor of (62-7)/55; conservatively assuming that air in parallel with insulating material is as bad as just air in the top 7mm of the door*
+
+
 
 
   https://colab.research.google.com/drive/1pOM9zMMuzmkzLNehpk7Lr7O0WtXEk16u?authuser=1#scrollTo=-TuyIuoOHyXr
