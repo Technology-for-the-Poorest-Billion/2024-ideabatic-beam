@@ -12,7 +12,7 @@
 
 ### Robustness: 
 - With the existing sealing not being compromised, water resistance remains
-- With the mechanical solutions implemented, the final product is drop resistant
+- With the [mechanical solutions implemented](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/mechanical%20design/handover%20notes/drop%20resistance.md), the final product is drop resistant
 
 
 
