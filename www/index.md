@@ -6,6 +6,10 @@ title: Electronics Module for Cold-Chain Assurance
 
 Current vaccine carriers use cooler boxes that are poorly equipped to handle their transport environment. Vaccines stored in average cooler boxes are shown to last approximately 4 hours in the field, which is simply not enough for last-mile journeys that can last up to 2 days in over 25ºC heat. 
 
+![cameroonstorydesktop](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/669194ba-cf64-4a94-8788-f7a7f53a4e7e)
+Source: [about.ups.com](
+https://about.ups.com/ae/en/our-stories/innovation-driven/solving-the-cold-chain-challenge.html)
+
 Human error is also a problem, as healthcare workers may unknowingly leave cooler boxes open for long periods of time, especially during vaccine administration. Workers may also skimp out on the required number of icepacks, or place the vaccines and icepacks haphazardly. These mistakes significantly reduce the cooling lifetime of the vaccine carrier.
 
 SMILE, or SMart last-miLE Cooling System, aims to combat these issues with a uniquely designed cooler box containing only one single ice pack that can keep 18 vials of vaccines cool for up to 4 days (120 hours), along with a self-closing door mechanism to reduce human error. The design is waterproof, is carefully insulated, and includes straps for comfortable carry as a backpack. Ideabatic also envisions SMILE to be used in other temperature-sensitive applications, as a more efficient and fail-proof alternative to other cooling boxes in the market.
