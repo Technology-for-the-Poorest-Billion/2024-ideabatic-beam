@@ -10,12 +10,12 @@ Based on previous work informing a ['default design'](https://github.com/Technol
 <br />
 <br />
 
-Applying the [conservative principles for analysis](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Conservative_Analysis_Principles.md), each design was analysed via eliminating analysis, to result in a quantified measure of its best-case performance. Best-case performance was analysed at this stage to ensure that no viable designs were discarded. 
+Applying the [conservative principles for analysis](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Conservative_Analysis_Principles.md), each design was analysed via *eliminating analysis*, to result in a quantified measure of its best-case performance. Best-case performance was analysed at this stage to ensure that no viable designs were discarded. 
 
 <br />
 
 
-## Candidate 1: Direct Axial Connection - Insulation Feasability Assessment
+## Candidate 1: Direct Axial Connection - Eliminating Analysis on the Insulation Dimension
 
 <img width="500" alt="Screenshot 2024-05-27 at 10 57 20" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/ae1fbc5b-4113-426e-a840-3b8d7522d0d4">
 
@@ -27,13 +27,16 @@ Applying the [conservative principles for analysis](https://github.com/Technolog
 
 The first dimension on which Candidate 1 will be scored is insulation, in an attempt to elimiinate it early on the grounds that it compromises insulation to an unacceptable level. 
 
-This is suspected to be the case, as the electrical wiring, being very thermally conductive, needs to cut straight through the insulated bulk of the door, providing a short-circuit path for heat conduction. 
+### The Problem:
+- Electrical wiring, made of copper, is very thermally conductive, so an axial path of heat flow is effectively short-circuited.
+- Additionally, there is a manufturing and design interdependence. Given that the door is intended to be manufactured by polymer casting, there is significant tolerance. 
+- To ensure that the wires fit in the door, the design therefore needs to made too wide. Then with the tolerance, the best case still results in some parts in the manufacturing batch containing a significant air gap around the wires. 
 
-Inkeeping with the conservative analysis principles, the analysis will be done with the following assumptions, each of which leads to the most conservative estimate of insulation efficacy:
+
+Inkeeping with the conservative analysis principles, the analysis will be done with the following assumptions, each of which leads to the most conservative estimate of insulation compromise:
 - the wiring used is has the lowest readily available diameter, 1 mm
-- manufacturing is done with maximal precision. For casting a polymer, 
--
--   (in reality, there is ~ ±1 mm accuracy on casting, which would provide a tunnel air gap, further worsening insulation, and potentially causing issues with water ingress.)
+- manufacturing is done with maximal precision. For casting a polymer, this is of order ±1 mm accuracy on casting
+
 - the change in area of the door cross-section is neglected
 
 - Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 1.57mm<sup>2</sup> wiring, 3.83mm<sup>2</sup> air.
