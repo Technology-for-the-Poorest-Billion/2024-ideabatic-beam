@@ -11,12 +11,12 @@ The preliminary candidate designs for the placement of the electronics module on
 
 <img width="573" alt="Screenshot 2024-06-02 at 14 47 36" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/c3a3d5dd-7df6-48d8-96a9-f23f8eb71fef">
 
-***Details of Design Candidate 1***
+***Details of Specific Design Candidate 1***
 
 - there a slot indented into the design of the door, which the electronic module clips into
 - the open/closed button sensor protrudes out the side of the door
 
-***Details of Design Candidate 2***
+***Details of Specific Design Candidate 2***
 
 - the electronic module clips onto the top surface of the door
 - the open/closed button sensor protrudes as low as possible across the top surface of the door, low enough to still be pressed by surrounding ridges when the door is closed
@@ -58,6 +58,9 @@ Following this analysis, a third candidate design is proposed, which is a hybrid
 
 <img width="606" alt="Screenshot 2024-06-02 at 14 48 01" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/2099c0e0-bebd-4f29-bdda-ca85e347cd50">
 
-***Details of Design Candidate 3***
+***Details of Specific Design Candidate 3***
 
+- there a slot indented into the design of the door, which the electronic module clips into
+- the open/closed button sensor protrudes out the side of the door
+- 
 As it meets all four of the the design requirements, this is design which will be pursued into the physical prototyping stage. 
