@@ -1,12 +1,8 @@
 ## Validating Analysis of the Final Design across all dimensions
 
-- Mechanical 
-- Insulation: show that insulation is not significantly compromised
 
-
-
-
-- Modularity: state that it is entirely electronically and mechanically modular
+### Modularity: 
+- entirely electronically and mechanically modular for easy charging and opt-in 
 
 
 
@@ -16,12 +12,13 @@
 
 
 
-- Temeprature Prediction Veracity: quantify effect of 1º overestimate of external temperature on final cool life prediction
+### Temeprature Prediction Veracity: 
+- 1º overestimate proven to be sufficiently accurate
 
 <img width="671" alt="Screenshot 2024-06-06 at 14 01 27" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/2c56ec1e-dc93-4ba6-8c1a-76ee717190f9">
 
 
-- Cost effectiveness: do a detailed final costing assessment
+### Cost effectiveness: do a detailed final costing assessment
   (Include cost of rubbery coverings etc. )
 
 
@@ -50,7 +47,7 @@ Manufacutring costs:
   Hence all of the dimensions are satisfied, it is a theoretically successful design. Now build the prototype!
 
 
-# Insulation
+### Insulation
 
 *This uses a different model: split the total thermal resistance of ABS into two parts: the insulation in door face and the insulation in all other faces. Then the thermal resistance in door face is reduced by a factor of (62-7)/55; conservatively assuming that air in parallel with insulating material is as bad as just air in the top 7mm of the door*
 
