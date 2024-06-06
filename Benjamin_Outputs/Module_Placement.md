@@ -64,3 +64,9 @@ Following this analysis, a third candidate design is proposed, which is a hybrid
 - the open/closed button sensor is across the top face of the door, so does not compromise water resistance and is low enough to be pressed when door is closed
   
 As it meets all four of the the design requirements, this is design which will be pursued into the physical prototyping stage. 
+
+<br />
+
+Hence we have our final (theoretical) design!
+
+After making it into a physical prototpye
