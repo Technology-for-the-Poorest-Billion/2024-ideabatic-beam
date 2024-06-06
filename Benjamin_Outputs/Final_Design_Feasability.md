@@ -13,6 +13,7 @@
 
 - Temeprature Prediction Veracity: quantify effect of 1º overestimate of external temperature on final cool life prediction
 
+<img width="671" alt="Screenshot 2024-06-06 at 14 01 27" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/2c56ec1e-dc93-4ba6-8c1a-76ee717190f9">
 
 
 - Cost effectiveness: do a detailed final costing assessment
