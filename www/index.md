@@ -24,11 +24,11 @@ SMILE, or SMart last-miLE Cooling System, aims to combat these issues with a uni
 
 ## BEAM's Objectives
 
-<img width="200" alt="Screen Shot 2024-06-06 at 05 49 06" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/46feb4f0-be41-4be4-95d1-20d6e82da9da">
-
 Ideabatic had been collaborating with different project groups to develop an electronics module that displays the temperature and remaining cool life as an add-on product to the SMILE device. The need for such a product was identified after some users relayed that they wanted to keep track of the temperature in the SMILE device to better ensure the vaccine is stored properly, and give an indicator of whether or not there is time to schedule visits to close neighborhoods.
 
 Previous project groups have worked on different electronics housing and door slot designs, developing temperature and cool life prediction algorithms and door alert systems, and improving other mechanical features such as the self-closing mechanism and lid ergonomics. BEAM aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by SMILE's founder, Kitty Liao, and our own personal insight.
+
+<img width="200" alt="Screen Shot 2024-06-06 at 05 49 06" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/46feb4f0-be41-4be4-95d1-20d6e82da9da">
 
 ### Our goal: Modularise the electronics. Minimise the compromise to insulation. Improve ergonomics of the door.
 
