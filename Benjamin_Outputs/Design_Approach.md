@@ -6,7 +6,7 @@ This is useful in the immediate term, as a means of presenting and justifying de
 
 <br />
 
-To quantify the performace of each design candidate, it will be scored in each of five dimensions:
+The [formalised problem definition](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Our_Design_Problem_and_Context.md) naturally gives rise to five key dimensions:
 - Cost effectiveness
 - Robustness: Environmental resistance and mechanical robustness
 - Insulation
