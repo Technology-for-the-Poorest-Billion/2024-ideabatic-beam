@@ -17,10 +17,15 @@ Will this heat cause the temperature inside the module to be significantly diffe
 1) All of the power consumed by the circuit is produced as heat
 2) The internal resistance of the batteries used is at the lower end of the [average range for AA batteries](https://www.researchgate.net/figure/Average-internal-resistance-of-AA-batteries_tbl2_379429848), as this gives the highest heat production.
 3) The 'load' (the circuit supplied by the batteries) satisfies the maximum power transfer theorem, as this gives the highest heat production.
-4) Convective heat transfer out of the module casing is neglected; all heat transfer is assumed to be conductive
+4) Convective heat transfer out of the module casing is neglected; only conductive heat transfer is analysed
 
+<br />
 
+<img width="200" alt="Screenshot 2024-06-06 at 15 11 28" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/f23619df-4828-4ee3-bd9b-254a9fe6db3e">
 
+#### [Figure 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmaximum-power-transfer-theorem%2F&psig=AOvVaw2DwCYf4Gm9FaJ-gqkSTDGT&ust=1717769472212000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCHpouUx4YDFQAAAAAdAAAAABAE): Maximum Power Transfer Theorem
+
+<br />
 
 <ins>The Analysis</ins>
 
@@ -45,8 +50,24 @@ $\implies$ $\{P_{total}} = \frac{3^2}{\{4\times0.19}} =$ 11.84 W
 
 <ins>Heat Conducted Away</ins>
 
-- Allow the temperature inside the module casing to exceed external temperature by 1ºC (∆T=1), *This is asssumed small enough to have a negligible impact on the temperature prediction. Assumption checked in Final_Design_Feasability.md*
-- (Error caused by mismatch: Quantify with a plot from Notebook).
+<br />
+
+- In order for heat produced inside the electronics module to be conducted away, it is physically necessary for the temperature inside the module to exceed the actual external temperature. 
+
+- Allow the temperature inside the module casing to exceed external temperature by 1ºC (∆T=1).
+
+#### Check that the cool life prediciton is not drastically affected by a 1ºC overestimate in the ambient temperature:
+
+- Plugging into the [temperature prediction algorithm](https://colab.research.google.com/drive/1pOM9zMMuzmkzLNehpk7Lr7O0WtXEk16u?authuser=1#scrollTo=-TuyIuoOHyXr), the effect is quantified:
+
+<img width="426" alt="Screenshot 2024-06-06 at 15 16 24" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/330470d3-9019-4dde-8927-4d99c566bf1d">
+
+#### Figure 2: Overestimate in ambient temperature results in only a 4% underestimate in cool lifetime (acceptable)
+
+<br />
+<br />
+
+#### For a 1ºC maximum overestimate:
 
 $\dot{Q} = \frac{∆T}{\{R_{th}}}$
 
