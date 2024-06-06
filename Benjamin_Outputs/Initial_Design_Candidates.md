@@ -90,13 +90,18 @@ In the interests of fairness, the best-case possibility is explored:
 - Holder for AA batteries
 
 
-### Deriving the Best-case Quantity Discount Curve
+### Deriving Possible Quantity Discount Curves
 
 - Pricing tables for the components of interest were obtained from suppliers, either via direct contact or from their websites (see example).
  
 <img width="300" alt="Screenshot 2024-06-02 at 16 25 21" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/b18de748-69dd-4355-bce0-9ec4ba21493f">
 
+
 ****Figure X: Example of quantity discount table****
+
+<img width="671" alt="Screenshot 2024-06-06 at 14 01 27" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/2c56ec1e-dc93-4ba6-8c1a-76ee717190f9">
+
+
 
 - The most generous discounting rate across websites and components was assumed, and plotted on logarithmic axis
   
