@@ -4,13 +4,15 @@ an analysis of the feasibility of the DHT being kept inside the module housing w
 
 <ins>The Problem to be Solved</ins>
 
-Heat will be dissipated by the electronics module (powered by two AA batteries).
+- Our general design is Candidate 5, which integrates the temperature sensor into the electronics module. Heat will be dissipated by the electronics module (powered by two AA batteries).
+
+<br />
 
 Will this heat cause the temperature inside the module to be significantly different from the actual temperature outside the door?
 
+<br />
 
-
-<ins>Conservative Analysis Assumptions</ins>
+<ins>Validating Analysis: Worst-Case Assumptions</ins>
 
 1) All of the power consumed by the circuit is produced as heat
 2) The internal resistance of the batteries used is at the lower end of the [average range for AA batteries](https://www.researchgate.net/figure/Average-internal-resistance-of-AA-batteries_tbl2_379429848), as this gives the highest heat production.
