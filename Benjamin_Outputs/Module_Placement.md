@@ -69,4 +69,4 @@ As it meets all four of the the design requirements, this is design which will b
 
 Hence we have our final (theoretical) design!
 
-After making it into a physical prototype, it is essential to prove that our design still meets the performance requriements on all five of the dimensions. Hence, a [final feasability analysis](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Final_Design_Feasability.md) was performed. 
+After making the module into a [physical prototype](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/mechanical%20design/handover%20notes/final%20design%20dimensions.md), it is essential to prove that our design still meets the performance requriements on all five of the dimensions. Hence, a [final feasability analysis](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Final_Design_Feasability.md) was performed. 
