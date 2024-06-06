@@ -10,7 +10,8 @@ https://about.ups.com/ae/en/our-stories/innovation-driven/solving-the-cold-chain
 
 Current vaccine carriers use cooler boxes that are poorly equipped to handle their transport environment. Vaccines stored in average cooler boxes are shown to last approximately 4 hours in the field, which is simply not enough for last-mile journeys that can last up to 2 days in over 25ºC heat. 
 
-![b15aae5413891f4654121f47aa32fa63](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/4cfc217b-5f6d-4724-8e26-380154f62c67)
+<img width="500" alt="b15aae5413891f4654121f47aa32fa63" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/4cfc217b-5f6d-4724-8e26-380154f62c67">
+
 Source: [heraldsun.com.au](https://www.heraldsun.com.au/)
 
 Human error is also a problem, as healthcare workers may unknowingly leave cooler boxes open for long periods of time, especially during vaccine administration. Workers may also skimp out on the required number of icepacks, or place the vaccines and icepacks haphazardly. These mistakes significantly reduce the cooling lifetime of the vaccine carrier.
@@ -23,9 +24,9 @@ SMILE, or SMart last-miLE Cooling System, aims to combat these issues with a uni
 
 ## BEAM's Objectives
 
-Ideabatic had been collaborating with different project groups to develop an electronics module that displays the temperature and remaining cool life as an add-on product to the SMILE device. The need for such a product was identified after some users relayed that they wanted to keep track of the temperature in the SMILE device to better ensure the vaccine is stored properly, and give an indicator of whether or not there is time to schedule visits to close neighborhoods.
+<img width="200" alt="Screen Shot 2024-06-06 at 05 49 06" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/46feb4f0-be41-4be4-95d1-20d6e82da9da">
 
-![Screen Shot 2024-06-06 at 05 49 06](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/d53369c5-e426-4cdb-a3b8-b1f28615e115)
+Ideabatic had been collaborating with different project groups to develop an electronics module that displays the temperature and remaining cool life as an add-on product to the SMILE device. The need for such a product was identified after some users relayed that they wanted to keep track of the temperature in the SMILE device to better ensure the vaccine is stored properly, and give an indicator of whether or not there is time to schedule visits to close neighborhoods.
 
 Previous project groups have worked on different electronics housing and door slot designs, developing temperature and cool life prediction algorithms and door alert systems, and improving other mechanical features such as the self-closing mechanism and lid ergonomics. BEAM aims to build upon the work done by these previous groups, identifying the limitations of previous designs and improving on these features based on feedback given by SMILE's founder, Kitty Liao, and our own personal insight.
 
