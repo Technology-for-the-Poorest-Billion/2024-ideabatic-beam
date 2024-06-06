@@ -1,5 +1,5 @@
 # Issues and further improvements
-- The battery life of the module can certainly be improved. When sleeping, the module sips 30mA at 3V which depletes 2 AA batteries in under 3 days. 
+- The battery life of the module can certainly be improved. When sleeping, the module sips 30mA at 3V which depletes 2 AA batteries in 78 hours, whilst the expected cool life at 22 degrees is just over 100 hours. 
   - The pico's power draw can be reduced by using machine.lightsleep instead of sleep, and additionally reducing the power draw of the display (ie by using a lower display brightness).
     - Note that lightsleep may cut power to the display, and can have problems with the external modules. It is also incredibly annoying to prototype with, requiring a manual reconnect of the usb connector after each use.
 - A relatively easy improvement to the code would be to have the display turn on for a second when the button is pressed once, before shutting off again, though this will make the display less useful.
