@@ -39,7 +39,9 @@ Inkeeping with the conservative analysis principles, the analysis will be done w
 
 - the change in area of the door cross-section is neglected
 
-- Optimising Geometry: Optimal housing for wiring is 'figure 8' shaped, results in: 1.57mm<sup>2</sup> wiring, 3.83mm<sup>2</sup> air.
+### Optimising Geometry: 
+Coordinate geometry reveals that the optimal housing for wiring is 'figure 8' shaped.
+Evaluating the area of the lens shape created by the two tunnels overlapping, this results in: 1.57mm<sup>2</sup> wiring, 3.83mm<sup>2</sup> air.
 
 ![IMG_BBFAF02D5158-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/e295f11e-0cd9-4e65-a32e-ce5a66196fa9)
 
@@ -58,7 +60,7 @@ $\ {R_{th, air}} =\frac{1}{\lambda\times{A}} =\frac{1}{{0.025}\times{3.83\times{
 
 The three resistive elements are in parallel through the entire depth of the door, so 
 
-(*Be explicit here; you are modelling this as a thermal resistance in parallel with the insulating material tricast*)
+*modelling these as a thermal resistances in parallel with the insulating material tricast*,
 
 $\frac{1}{R_{th, total}} = \frac{1}{R_{th, copper}} + \frac{1}{R_{th, air}} + \frac{1}{R_{th, tri}}$
 
@@ -73,7 +75,6 @@ The new value for overall thermal reistance was simulated in the cool life estim
 <img width="601" alt="Screenshot 2024-06-03 at 22 38 47" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/a737c389-ac74-4d22-b0e9-230d6f306884">
 
 
-
 Cool life decreases from 97.5 hours to 89.1 hours in 24ºC ambient temperature. 
 
 
@@ -81,13 +82,15 @@ This is deemed feasible - the reduction in cool lifetime is not drastic enough t
 
 However, it will be scored lower than the other design candidates, which don't threaten any significant reduction in insulation. 
 
+According to the scoring characteristic, this design therefore receives a score of 7.6 on the insulation dimension. 
 
 
-## Candidate 2: Wireless Communication - Cost Effectiveness Feasability Assessment
+
+## Candidate 2: Wireless Communication - Eliminating Analysis on the Cost Effectiveness Dimensions
 
 The dimension on which this design is most liekly to be unfeasible is cost effectiveness. 
 
-In the interests of fairness, the best-case possibility is explored: 
+According to conservative analysis principles, the best-case possibility is explored: 
 - the lowest-cost implementation is used, which is to use a second microcontroller which can wirelessly communicate with the Pi Pico
 - the quantity discounts for bulk-ordering is assumed to follow the best-case exponential decay per-unit cost curve derived below
 
@@ -103,10 +106,17 @@ In the interests of fairness, the best-case possibility is explored:
 
 
 ### Deriving Possible Quantity Discount Curves
+- Most electrical component websites offered limited information on the discounts offered for ordering components in large quantites:
 
-- Pricing tables for the components of interest were obtained from suppliers, either via direct contact or from their websites (see example).
- 
 <img width="300" alt="Screenshot 2024-06-02 at 16 25 21" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/b18de748-69dd-4355-bce0-9ec4ba21493f">
+
+#### Table 1: Example of publicly avaialble quantity discounting data
+
+- Via private communication with suppliers about buk orders, a more detailed range of possible quantity discounting curves were obtained.
+- The discounting data received only extends to 1000 units at most, whereas our batch size was 3000
+- By modelling the quantity discounts a logarithmic decay, the range of cost curves were extrapolated to a batch size of 3000 to obtain a best-case and worst-case estimate for the quantity discount offered on electrical components. 
+ 
+
 
 
 ****Figure X: Example of quantity discount table****
