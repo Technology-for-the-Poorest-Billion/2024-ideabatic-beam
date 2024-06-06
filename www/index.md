@@ -24,6 +24,7 @@ Previous project groups have worked on different electronics housing and door sl
 
 [Read about how we achieved this.](/2024-ideabatic-beam/linkedpage.html)
 
+Authors: Ness, Romeo
 
 <!--
 ### To configure your website:
