@@ -29,7 +29,7 @@ The list of components used in the final prototype can be found below, with the 
 - Button switch
 - Battery holder (for two AA batteries)
 
-A simplified logic process behind the code is described below. [For more details, see](/code)
+A simplified logic process behind the code is described below. [For more details, click here](/code)
 1. Initialises components, like the temperature sensor and display, making sure these are connected properly.
 2. Prompts the user via the display to press the button to then commence calculating the remaining cool lifetime.
 3. Main loop runs, calculating and displaying the remaining cool lifetime with appropriate warnings displayed once theres a certain cool lifetime left.
