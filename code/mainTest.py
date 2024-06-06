@@ -113,7 +113,7 @@ constants = updateJson('constants.json') # Import all the relevant constants
 Qleft = constants["Qtotal"] # Initialises heat energy.
 endBuzz = False
 
-constants["tdelta"] = 1 #used for testing
+constants["tdelta"] = 1
 
 def wait_for_start(x):
     """
@@ -142,7 +142,7 @@ while True:
     timeDiff = (time() - lastTime) # Used to calculate the time difference over which heat was lost
     temp = tempMeasure()
     heatLossRate = (temp) / constants["Rth"] # (W), note the temp is actually a temperature difference, but since the ice pack core is 0C, the temperature in Celcius alone works
-    QLoss = heatLossRate * (timeDiff * 60*60*20) # (Heat energy, J, lost to surroundings). 20 HOURS PER TDELTA FOR TESTING
+    QLoss = heatLossRate * (timeDiff * 3600 *10) # (Heat energy, J, lost to surroundings).
     Qleft -= QLoss #Calculate remaining Q
     if Qleft <=0:
         pushButton.endTimer()
@@ -158,7 +158,7 @@ while True:
         count+=1
         if count >=2:
             #count = 0
-            buzz(buzzer, 1)
+            buzz(buzzer, 0.5)
     else:
         count = 0
     sleep(constants["tdelta"]) # Polling rate of tdelta, default 5 mins
@@ -169,3 +169,4 @@ turnoff()
 constants["revertQ"] = Qleft
 constants["revertTime"] = time()
 dumpJson("constants.json", constants)
+
