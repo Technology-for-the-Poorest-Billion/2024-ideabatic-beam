@@ -1,3 +1,5 @@
+Author: Ness
+
 #### Solidworks files
 1. Door top 2024.SLDPRT [Part file with door top final design and suppressed 3D printed prototype iterations]
 2. Module casing base 2024.SLDPRT [Part file with module casing base final design]
