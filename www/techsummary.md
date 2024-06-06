@@ -17,4 +17,19 @@ Rapid prototyping techniques like CAD modelling and 3D printing were used to tes
 <img width="253" alt="IMG_9139" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/43f5a139-c3ba-4566-b0a9-43eeaa229190">
 
 
-Authors: Ness
+
+### Electronics module
+Within the electronics module, all the electrical componens are housed with a focus towards maintaining water resistance. 
+The list of components used in the final prototype can be found below, with the appropriate soldering carried out:
+- Pi Pico 
+- OLED display
+- DHT22 temperature sensor
+- Buzzer
+- Push button
+- Button switch
+- Battery holder (for two AA batteries)
+
+
+
+
+Authors: Ness, Romeo
