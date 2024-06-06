@@ -22,10 +22,16 @@ Due to the tight time scale and pressure to deliver, our time management was sub
 
 2. A lot of time was spent interfacing work between OpenSCAD and Solidworks. A more careful decision about which CAD package to use in design, for example using a list of pros and cons, would also allow for the final design medium to be determined earlier on.
 
-3. We ordered electronics from an overseas supplier, leading to delays in component delivery and having to push back subsequent timeline tasks. Ordering from local suppliers would have been more time and cost effective.
+3. We unknowingly ordered electronics from an overseas supplier, leading to delays in component delivery and having to push back subsequent timeline tasks. Ensuring that we order from local suppliers would be more time and cost effective in the future.
 
-Although these setbacks hindered our progress, we were able to bounce back due to good contingency planning early on:
+Although these setbacks hindered our progress, we were able to bounce back due to good communication and contingency planning early on:
 
-1. Our project timeline included extra bandwidth in case of external, personal, or technical issues. This allowed more flexibility in our schedule that was necessary.
+1. Our project timeline included extra bandwidth in case of external, personal, or technical issues. This allowed more flexibility in our schedule that was proven necessary.
+
+2. We had a comprehensive contingency plan that indicated alternative pathways or aspects of the project that could be omitted, such that we narrowed down our focus to complete the most crucial objectives when our time was constrained. This was helpful in ensuring we deliver the best product when facing time and budget constraints.
+  
+3. We met up regularly to discuss project progress, problems faced and important insights. This allowed for in-depth discussions that formed the basis of determining our project direction over time, and allowed members to brainstorm ideas quickly to problem solve roadblocks.
+
+4.  We set up a group chat amongst the members, as well as a separate chat with out client, to communicate different aspects of the project easily when face-to-face meetings were not possible or not necessary.
 
 Author: Ness
