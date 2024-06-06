@@ -22,7 +22,7 @@ Previous project groups have worked on different electronics housing and door sl
 
 ### Our goal: Modularise the electronics. Minimise the compromise to insulation. Improve ergonomics of the door.
 
-## [Read about how we achieved this.](/2024-ideabatic-beam/linkedpage.html)
+## [Read about how we achieved this.](/2024-ideabatic-beam/techsummary.html)
 
 Authors: Ness, Romeo
 
