@@ -153,7 +153,7 @@ Scoring each design on according to the scoring criteria outline on Design_Appro
 | **Overall KPI /1000** | **11.4** | - | **24** | **24** | **30** |
 
 
-
+<br />
 
 
 <img width="330" alt="Screenshot 2024-06-04 at 10 44 39" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/d133f17e-0e13-45d1-b63c-70eb4346e0cb">
