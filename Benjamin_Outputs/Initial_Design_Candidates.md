@@ -1,10 +1,19 @@
 
 
 # The candidate designs
+
+Based on previous work informing a ['default design'](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Our_Design_Problem_and_Context.md), four general candidate designs following this archetype were brainstormed, along with one outside of the archetype (Candidate 5):
+
+
 ![IMG_548055A1CA77-1](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a9dc1aa-215c-462d-ad70-416d689262e8)
 
 <br />
 <br />
+
+Applying the [conservative principles for analysis](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Conservative_Analysis_Principles.md), each design was analysed via eliminating analysis, to result in a quantified measure of its best-case performance. Best-case performance was analysed at this stage to ensure that no viable designs were discarded. 
+
+<br />
+
 
 ## Candidate 1: Direct Axial Connection - Insulation Feasability Assessment
 
