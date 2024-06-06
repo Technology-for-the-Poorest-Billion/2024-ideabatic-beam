@@ -1,3 +1,10 @@
-- When doing a feasibility assessment, we don’t want to unnecessarily eliminate any candidates, so be as generous as possible to each candidate
-- When doing a proof of viability/validation, we don’t want to leave any chance that the final design doesn’t work, so be as harsh as possible to the final design. 
+Each analysis checks the design against one of the five dimensions.
+Each analysis is either eliminating (attempts to discard a candidate design) or validating (attempts to justify a candidate design being pursued)
 
+- Eliminating analysis: Uses only the most generous assumptions and over-estimates performance (Best-case)
+- Validating analysis: Uses only the harshest assumptions and under-estimates performance (Worst-case)
+
+By adhering to the conservative analysis principles, we ensure that:
+
+- No viable designs eliminated 
+- No inviable design pursued
