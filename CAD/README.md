@@ -1,5 +1,20 @@
 Author: Ness
 
+### Handover notes
+
+#### Prototyping insights
+1. CAD design medium
+2. 3D printing
+
+#### Main design considerations
+1. Snap-fit connection between module and door
+2. Compatible joints between module base and lid
+3. Drop protection of electronics module
+
+#### Material selection (further discussed in Benjamin's part)
+
+### CAD
+
 #### Solidworks files
 1. Door top 2024.SLDPRT [Part file with door top final design and suppressed 3D printed prototype iterations]
 2. Module casing base 2024.SLDPRT [Part file with module casing base final design]
