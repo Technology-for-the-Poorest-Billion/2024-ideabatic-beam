@@ -43,3 +43,45 @@ The radar plot conveniently visualises three important things:
 
 <br />
 
+# Scoring Candidates on Each Dimension
+
+## Scoring Criteria
+
+Based on personal judgement and continual discussion with the project partner, the following subjective (yet defensible) criteria were used for scoring on the five dimensions: **defend these further!**
+
+### Cost effectiveness
+- Any design which is unfeasible within the £15 budget is scored zero
+- The remaining four designs are inseparable on cost (neglecting cost of wiring), so are all scored 5 
+
+### Robustness: Environmental resistance and mechanical robustness
+The primary risks for environmental and mechanical degradation are water ingress and damage to external wiring.
+- Any design which might be susceptible to water ingress is scored 5
+- Any design which requires external wiring is scored 8 (can be mitigated by further printing wiring)
+- Any design with both of the above is scored 4
+- Any design with neither is scored 10
+
+### Insulation
+- Any design which does not compromise insulation is scored 10
+- Any design which multiplies the 24º cool lifetime by a factor m is scored m<sup>3</sup> x 10
+
+### Veracity of temperature prediction
+- Any design with the temperature sensor outside the insulation is scored 9 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
+- Any design with the temperature sensor susceptible to inorganic heating (eg due to contact with the electronics) is scored 7
+- Any design with both of the above is scored 6
+- Other designs are scored 10
+
+### User friendliness, primarily concerned with modularity
+- Any design which has both mechanical and electrical modularity is scored 10
+- Any design which is mechanically but not electrically modular is scored 6
+
+
+
+| Dimension | Candidate 1 Score | Candidate 2 Score | Candidate 3 Score | Candidate 4 Score | Candidate 5 Score | 
+|-|-|-|-|-|-|
+| Cost effectiveness | 5 | 0 | 5 | 5 |5 | 
+| Robustness | 5 | - | 8 | 8 |10 | 
+| Insulation | 7.6 | - | 10 | 10 |10 | 
+| Temp Prediction Veracity | 10 | - | 10 | 10 |6 | 
+| Modularity | 6 | - | 6 | 6 |10 | 
+| **Overall KPI /1000** | **11.4** | **24** | **24** | - | **30** |
+
