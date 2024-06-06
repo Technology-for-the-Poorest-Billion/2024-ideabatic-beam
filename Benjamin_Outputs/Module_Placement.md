@@ -60,7 +60,7 @@ Following this analysis, a third candidate design is proposed, which is a hybrid
 
 ***Details of Specific Design Candidate 3***
 
-- there a slot indented into the design of the door, which the electronic module clips into
-- the open/closed button sensor protrudes out the side of the door
-- 
+- there a shallow slot indented into the design of the door, which the electronic module clips into
+- the open/closed button sensor is across the top face of the door, so does not compromise water resistance and is low enough to be pressed when door is closed
+  
 As it meets all four of the the design requirements, this is design which will be pursued into the physical prototyping stage. 
