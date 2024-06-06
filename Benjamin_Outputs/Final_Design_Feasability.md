@@ -1,3 +1,6 @@
+## Validating Analysis of the Final Design across all dimensions
+
+- Mechanical 
 - Insulation: show that insulation is not significantly compromised
 
 
@@ -7,7 +10,9 @@
 
 
 
-- Robustness: state that, with correct sealing, it is water restistant and with correct protection (cylinder-hemispheres) and clipping mechanism it is mechanically robust
+### Robustness: 
+- With the existing sealing not being compromised, water resistance remains
+- With the mechanical solutions implemented, the final product is drop resistant
 
 
 
