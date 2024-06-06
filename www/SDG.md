@@ -19,7 +19,7 @@ Tackling good health and wellbeing is the priority of the cool box. The addition
 
 - Targeted towards developing economies, the addition of the electronics module to the SMILE device allows for better information for administering vaccinations.
 
-- As it is typically 
+- As it is typically poor countries need these, this reduces health inequaity globally
 
 
 #  responsible consumption and production
