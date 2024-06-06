@@ -18,3 +18,9 @@ Our work primarily contributes to three of these five goals, in the following wa
 
 
 ## Reduced Inequality
+
+
+
+#  responsible consumption and production
+
+The electronics module is built with this in mind. The final prototype takes rechargeable batteries and has an unbound theoretical lifetime when used correctly. We have also designed it to have components that able to be replaced. 
