@@ -30,7 +30,7 @@ Previous project groups have worked on different electronics housing and door sl
 
 <img width="200" alt="Screen Shot 2024-06-06 at 05 49 06" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/46feb4f0-be41-4be4-95d1-20d6e82da9da">
 
-### Our goal: Modularise the electronics. Minimise the compromise to insulation. Improve ergonomics of the door.
+### Our goal: Modularise the electronics. Minimise the compromise to insulation.
 
 ## [Read about how we achieved this.](/2024-ideabatic-beam/techsummary.html)
 
