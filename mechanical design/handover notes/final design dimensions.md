@@ -21,18 +21,20 @@ Consideration:
 Cavity in door top surface must be 15.45 - 12.87 mm = 2.7 mm deep at least.
 We want it deep enough for stability of snap-fit mechanism, so choose higher value of 7 mm.
 
+![IMG_9144](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/3e1481bd-e780-4ace-b4c2-aa0e802354b0)
+
 This gives initial internal module casing dimensions of:
 Long height = 21.6 mm
 Short height = 14.6 mm
+
+![IMG_9146](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/3f2e8591-720e-48f2-b780-bb0d863cdde7)
 
 Consideration:
 Shells should be multiples of 0.8 mm (2 nozzles thick) for 3D printing.
 Case cover and case base should form the combined module height.
 
+![Exploded](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/26df8d60-3052-4bc2-b1f9-46bc9fb43d9b)
+
 Therefore:
 Case cover of height 3 mm
 Case base of (short height) 11.6 mm
-
-![IMG_9146](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/3f2e8591-720e-48f2-b780-bb0d863cdde7)
-
-![IMG_9144](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/3e1481bd-e780-4ace-b4c2-aa0e802354b0)
