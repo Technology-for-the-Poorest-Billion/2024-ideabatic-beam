@@ -123,7 +123,7 @@ According to conservative analysis principles, the best-case possibility is expl
 - For a best-case eliminating analysis, the most generous discounting rate across websites and components was assumed 
   
 
-****Per-unit price for 3000 units = 0.6 x Per-unit price for 1 unit****
+****Best-case Per-unit price for 3000 units = 0.5 x Per-unit price for 1 unit****
 
 This is the best-case estimate which is used for the cost-effectiveness feasability assessment of Design Candidate 2. 
 
@@ -131,33 +131,31 @@ This is the best-case estimate which is used for the cost-effectiveness feasabil
 
 | Part Description | Single Unit Cost | Per-Unit Cost in batch of 3000 | 
 |-|-|-|
-|Raspberry Pi Pico W| £5.80 | £3.48 | 
-|ESP8266| £4.22 | £2.53 | 
-|DHT22| £4.74 | £2.84 | 
-| OLED Display | £4.98 | £2.99 | 
-| Door-sensing switch | £1.02 | £0.61 |
-|Buzzer for door open alert| £2.15 | £1.29 | 
-|Battery holder x2 | £1.96 | £1.18 | 
-|AA Batteries x4 | £2.316 | £1.39 | 
+|Raspberry Pi Pico W| £5.80 | £2.90 | 
+|ESP8266| £4.22 | £2.11 | 
+|DHT22| £4.74 | £2.37 | 
+| OLED Display | £10.19 | £5.10 | 
+| Door-sensing switch | £1.02 | £0.51 |
+|Buzzer for door open alert| £2.15 | £1.08 | 
+|Battery holder x2 | £1.96 | £0.98 | 
+|AA Batteries x4 | £2.316 | £1.16 | 
 
 The cost of electrical wiring, resistors and capacitors is neglected. 
 
-#### Best-case per-unit cost for 3000 units: £16.31
+#### Best-case per-unit cost for 3000 units: £16.20
 
-- already above budget, without accounting for the cost of housing the module
 
-This is above the budget, making the cost effectiveness score zero, giving Candidate 2 a KPI of zero. 
+This is above the budget (even before considering the cost of the housing for the module), making the cost effectiveness score zero, giving Candidate 2 a KPI of zero. 
 
 Candidate 2 will therefore be eliminated from consideration without further consideration. 
 
-(the increased cost from the base module is the cost of two AA batteries + one battery holder + ESP8266 + Cost of converting Pi Pico to Pi Pico W, which totals to £5.02 increased cost, in the best case.)
-
-
-
-
+The other design candidates' electronic components are costed at £24.03 for a single unit, which is a per-unit cost of £14.42 in the worst-case quantity discount, and £12.02 in the best case, thus they are all within budget and receive score of 5. 
 
 <br />
-Scoring each design on according to the scoring criteria outline on Design_Approach.md, the following table was constructed, representing the overall performance. Candidate 2 was not scored as it was proven inviable on the insulation dimension. 
+
+## Scoring all candidates on all dimension
+
+Scoring each design on according to the [scoring criteria](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Design_Approach.md), the following table was constructed, representing the overall performance. Candidate 2 was not scored as it was proven inviable on the insulation dimension. 
 
 <br />
 
