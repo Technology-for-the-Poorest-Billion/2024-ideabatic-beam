@@ -1,6 +1,14 @@
 # SMILE, by Ideabatic
 This is an IIA project, carried out in Easter term with the intention to improve upon the design of the current SMILE prototype.
 
+# To Navigate Through this Repository
+
+- The design considerations are linked coherently in a logic order, starting with a [formalisation of the design problem](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Our_Design_Problem_and_Context.md).
+
+- The key information for mechanical design and prototyping can be found [here](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/tree/main/mechanical%20design)
+
+- The key information for electronic design and prototyping can be found [here](
+
 
 ## Setup (electronics)
 In the final prototype, [the items listed here were used.](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/BillOfMaterials.md)
