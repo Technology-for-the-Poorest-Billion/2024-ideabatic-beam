@@ -20,3 +20,14 @@ As the limitations outweight the advantages, this led me to not pursue OpenSCAD 
 
 ### 2. 3D printing
 
+List of problems faced using RS 3D printers:
+1. Poor tolerance, components do not fit together well
+2. Rounded surfaces do not print well
+3. Supports require a lot of manual effort and time to remove, hinders rapid prototyping
+4. Imperfect removal of supports cause problems in joining interfaces
+
+Higher quality printers (Ultimaker) were occupied by other groups, prioritise using those printers if future project groups are to prototype. Benefits include:
+1. No raft support. Raft supports were the most difficult to remove.
+
+![IMG_9136](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/fcc74617-f9e8-4311-9b0e-8878ca8191db)
+
