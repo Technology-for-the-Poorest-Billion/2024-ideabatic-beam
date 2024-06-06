@@ -66,7 +66,7 @@ The primary risks for environmental and mechanical degradation are water ingress
 
 ### Veracity of temperature prediction
 - Any design with the temperature sensor outside the insulation is scored 9 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
-- Any design with the temperature sensor susceptible to inorganic heating (eg due to contact with the electronics) is scored 7
+- Any design with the temperature sensor susceptible to mild inorganic heating (eg due to contact with the electronics) by less than 1ºC is scored 7
 - Any design with both of the above is scored 6
 - Other designs are scored 10
 
