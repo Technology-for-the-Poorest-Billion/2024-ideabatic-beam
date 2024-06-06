@@ -3,7 +3,7 @@ title: Technical Summary
 ---
 
 
-#### Modularise the electronics. Minimise the compromise to insulation.
+## Modularise the electronics. Minimise the compromise to insulation.
 
 As the electronics module is an additional opt-in product, we must ensure the design must still be watertight and properly insulated without the electronics module. Five key performance indicators (cost effectiveness, robustness, insulation, veracity of temperature prediction and modularity) were used to rank design candidates and determine our project direction.
 
@@ -18,14 +18,14 @@ Rapid prototyping techniques like CAD modelling and 3D printing were used to tes
 
 
 
-### Electronics module
+## Electronics module
 Within the electronics module, all the electrical componens are housed with a focus towards maintaining water resistance. 
 In use, the final prototype works great, with the one drawback being the battery life.
 
 ### Main function
 In its final state, the prototype was able to calculate the remaining cool life of the vaccines, and display this on the screen. It allowed for user interaction via button presses, allowing the user to revert to the last known Q (if the battery died), and upon further double clicks, reset the cool life time (if the ice pack was replaced). The door switch was implemented such that if the door was left open, within 10 minutes the buzzer would activate temporarily, allowing the user to close the lid.
 
-### Extra details
+### Specific details
 
 The list of components used in the final prototype can be found below, with the appropriate soldering carried out:
 - Pi Pico 
