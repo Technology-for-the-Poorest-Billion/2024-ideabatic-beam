@@ -20,6 +20,8 @@ Rapid prototyping techniques like CAD modelling and 3D printing were used to tes
 
 ### Electronics module
 Within the electronics module, all the electrical componens are housed with a focus towards maintaining water resistance. 
+In use, the final prototype works great, with the one drawback being the battery life.
+
 The list of components used in the final prototype can be found below, with the appropriate soldering carried out:
 - Pi Pico 
 - OLED display
