@@ -1,3 +1,5 @@
+The following table is a collection of all items used in the final product. [For more detail, and recommendations on further improvements click here.](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/tree/main/code)
+
 |Description|	P/n or order code|	Unit Cost (exc. VAT)|	Quantity|	Link|
 |-|-|-|-|-|
 |Raspberry Pi Pico|	2648-SC0915CT-ND	|£3.22	|1|	https://www.digikey.co.uk/en/products/detail/raspberry-pi/SC0915/13624793 |
