@@ -35,4 +35,4 @@ This is an open design problem, but it has a starting point.
 
 The starting point reflects the initial preferences of the project partner, which are informed by designs and analysis presented to her by previous contributors to this project. 
 
-Given this, the quality of the communication and justification of our design decisions is crucial. 
+Given this, the quality of the [communication and justification of our design decisions](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Design_Approach.md) is crucial. 
