@@ -9,7 +9,8 @@ Author: Ness
 #### Main design considerations
 1. Snap-fit connection between module and door
 2. Compatible joints between module base and lid
-3. Drop protection of electronics module
+3. Drop resistance of electronics module
+4. Dimensioning to fit components
 
 #### Material selection (further discussed in Benjamin's part)
 
