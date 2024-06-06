@@ -3,7 +3,7 @@ This is an IIA project, carried out in Easter term with the intention to improve
 
 
 ## Setup (electronics)
-In order to set up the electronics, the following parts are required (note only these were used in the final prototype). The specific items used can be found in the ![Bill of Materials][billOfMaterials.md].
+In order to set up the electronics, the following parts are required (note only these were used in the final prototype). [The specific items used can be found here.](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/BillOfMaterials.md)
 <br>
 |Item|Quantity Used|
 |-|-|
@@ -16,12 +16,12 @@ In order to set up the electronics, the following parts are required (note only 
 |Dual AA Battery Holder (with batteries)|1|
 
 ### Connections
-Rough connections, maybe add in a diagram later. Note all components will work from the 3V3 rail of the Pi:
-<br>Display: Power, GND, SDA Board pin 1, SCL Board pin 2
-<br>DHT: Power, GND, 1 Wire Board pin 4
-<br>Button: GND, Board pin 20
-<br>Switch: GND, Board pin 21
-<br>Buzzer: GND, Board pin 19
+The pi should be connected as shown in the following picture:
+The connections can be switched around as long as they are appropriately changed in the code. The sensors initiate the pins in their own pieces of code, whereas the button, switch, and buzzer are initialised in main.py.
+
+![Electrical Connections](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Pictures/ElectricalConnections.png)
+
+[For more detail, click here](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/ElectricalConnections.md)
 
 ### Pi Setup
 1. Install micropython onto the board. 
