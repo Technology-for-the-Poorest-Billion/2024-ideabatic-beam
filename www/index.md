@@ -2,6 +2,8 @@
 title: Electronics Module for Cold-Chain Assurance 
 ---
 
+Quick links: [Team Strategy and Project Management.](/2024-ideabatic-beam/team.html) [Technical Summary.](/2024-ideabatic-beam/techsummary.html) [SDGs.](/2024-ideabatic-beam/SDG.html) 
+
 ## Ideabatic's Mission
 
 ![cameroonstorydesktop](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/669194ba-cf64-4a94-8788-f7a7f53a4e7e)
