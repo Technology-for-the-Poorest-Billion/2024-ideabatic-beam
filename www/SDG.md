@@ -12,3 +12,9 @@ Reflective discussion about the work’s alignment with the Sustainable Developm
 <img width="978" alt="Screenshot 2024-06-06 at 15 54 12" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/503663c6-329e-45e2-bebf-eaf0806a992b">
 
 
+Our work primarily contributes to three of these five goals, in the following ways:
+
+## Good Health and Wellbeing
+
+
+## Reduced Inequality
