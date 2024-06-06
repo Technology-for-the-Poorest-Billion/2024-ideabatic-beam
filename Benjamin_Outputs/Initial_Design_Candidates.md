@@ -116,20 +116,12 @@ According to conservative analysis principles, the best-case possibility is expl
 - The discounting data received only extends to 1000 units at most, whereas our batch size was 3000
 - By modelling the quantity discounts a logarithmic decay, the range of cost curves were extrapolated to a batch size of 3000 to obtain a best-case and worst-case estimate for the quantity discount offered on electrical components. 
  
-
-
-
-****Figure X: Example of quantity discount table****
+<img width="200" alt="Screenshot 2024-06-06 at 14 56 32" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/4a36b463-b2b1-4282-b673-373ed80a3c44">
 
 <img width="671" alt="Screenshot 2024-06-06 at 14 01 27" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/2c56ec1e-dc93-4ba6-8c1a-76ee717190f9">
 
-
-
-- The most generous discounting rate across websites and components was assumed, and plotted on logarithmic axis
+- For a best-case eliminating analysis, the most generous discounting rate across websites and components was assumed 
   
-<img width="600" alt="Screenshot 2024-06-02 at 16 26 31" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/92732948-9a31-4829-a735-5a382bf50f22">
-
-- The discounting rate was extrapolated past its usual limit of 100 components, up to our batch size of 3000 components resulting in the following best-case quantity discount:
 
 ****Per-unit price for 3000 units = 0.6 x Per-unit price for 1 unit****
 
