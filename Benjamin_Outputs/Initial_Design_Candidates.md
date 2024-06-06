@@ -139,6 +139,18 @@ Candidate 2 will therefore be eliminated from consideration without further cons
 
 
 <br />
+Scoring each design on according to the scoring criteria outline on Design_Approach.md, the following table was constructed, representing the overall performance. Candidate 2 was not scored as it was proven inviable on the insulation dimension. 
+
+<br />
+
+| Dimension | Candidate 1 Score | Candidate 2 Score | Candidate 3 Score | Candidate 4 Score | Candidate 5 Score | 
+|-|-|-|-|-|-|
+| Cost effectiveness | 5 | 0 | 5 | 5 |5 | 
+| Robustness | 5 | - | 8 | 8 |10 | 
+| Insulation | 7.6 | - | 10 | 10 |10 | 
+| Temp Prediction Veracity | 10 | - | 10 | 10 |6 | 
+| Modularity | 6 | - | 6 | 6 |10 | 
+| **Overall KPI /1000** | **11.4** | - | **24** | **24** | **30** |
 
 
 
