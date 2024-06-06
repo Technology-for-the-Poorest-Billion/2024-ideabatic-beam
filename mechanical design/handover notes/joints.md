@@ -15,12 +15,15 @@ Joints were too slender and snap off.
 
 New design direction: 1) square joints. 2) less slender joints.
 
-![Mod top plane](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/4929f6f0-c92c-479a-a1a5-b8c1e97e743e)
+![Mod bottom iso](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/0d186f1d-b1cd-49ed-9fcc-046c0fd10ac3)
+
 
 Much better interfacing. Less slender joints also meant the connecting shear force is less strong, but this can be supplemented with plastic welding to ensure watertight finish in final product.
 
 ![IMG_9139](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/dfff4e3e-3ff5-41d6-8f16-78a1cbd2294a)
+![IMG_9140](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/207a9f07-5569-40e6-8fd0-b4eb6579a1f9)
 
 Module lid component needs to be made out of Aluminium for heat conductivity, so placing the holes in the lid is more compatible with metal manufacture techniques like hole punching.
 
-![IMG_9140](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/207a9f07-5569-40e6-8fd0-b4eb6579a1f9)
+![Mod top plane](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98922660/4929f6f0-c92c-479a-a1a5-b8c1e97e743e)
+
