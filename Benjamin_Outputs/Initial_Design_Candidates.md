@@ -15,7 +15,6 @@
 
 - This is the design prototyped by last year's group
 - They neglected the obvious risk of insulation compromise
-- 
 
 The first dimension on which Candidate 1 will be scored is insulation, in an attempt to elimiinate it early on the grounds that it compromises insulation to an unacceptable level. 
 
