@@ -49,6 +49,9 @@ Manufacutring costs:
 *This uses a different model: split the total thermal resistance of ABS into two parts: the insulation in door face and the insulation in all other faces. Then the thermal resistance in door face is reduced by a factor of (62-7)/55; conservatively assuming that air in parallel with insulating material is as bad as just air in the top 7mm of the door*
 
 
+<img width="140" alt="Screenshot 2024-06-06 at 13 28 40" src="https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/assets/98609386/b5f65d59-4d4a-4667-abcb-a47fccc529c8">
+
+
 
 
   https://colab.research.google.com/drive/1pOM9zMMuzmkzLNehpk7Lr7O0WtXEk16u?authuser=1#scrollTo=-TuyIuoOHyXr
