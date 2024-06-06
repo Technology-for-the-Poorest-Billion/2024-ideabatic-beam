@@ -9,6 +9,7 @@
 |OLED Display	|61-6338	|£4.98|	1|	https://www.rapidonline.com/winstar-wea012832flpp3n00000-oled-cog-128x32-yellow-0-91-on-pcb-i2c-61-6338|
 |3V Buzzer|	35-3592|	£2.15|	1|	https://www.rapidonline.com/rvfm-3v-electronic-buzzer-with-10cm-lead-35-3592|
 |AA Batteries (pack of two)|	18-1092|0.579	|1	|https://www.rapidonline.com/gp-gppcc15kc005-zinc-chloride-cell-aa-battery-pack-2-18-1092|
+
 Total cost: £22.97 
 
 These products were ordered from two websites: digikey and rapidonline. Note that digikey ships from USA, and so has around a week lead time.
