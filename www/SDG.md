@@ -22,6 +22,6 @@ Tackling good health and wellbeing is the priority of the cool box. The addition
 - As it is typically poor countries need these, this reduces health inequaity globally
 
 
-#  responsible consumption and production
+##  Responsible consumption and production
 
 The electronics module is built with this in mind. The final prototype takes rechargeable batteries and has an unbound theoretical lifetime when used correctly. We have also designed it to have components that able to be replaced. 
