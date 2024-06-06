@@ -62,7 +62,7 @@ The primary risks for environmental and mechanical degradation are water ingress
 
 ### Insulation
 - Any design which does not compromise insulation is scored 10
-- Any design which multiplies the 24º cool lifetime by a factor m is scored m<sup>3</sup> x 10
+- Any design which multiplies the 24º cool lifetime by a factor k is scored k<sup>3</sup> x 10
 
 ### Veracity of temperature prediction
 - Any design with the temperature sensor outside the insulation is scored 9 (an extra layer between sensor and vaccines increases error in algorithm, as there is uncertainty associated with the exact thermal resistance of each layer)
