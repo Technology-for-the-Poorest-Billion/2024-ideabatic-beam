@@ -185,3 +185,5 @@ Hence, the design taken forward is candidate 5, with a specific focus on improvi
 
 <br />
 <br />
+
+The specifics of how this design could be implemented, particularly its [door sensing mechanism](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Module_Placement.md) and the placement of the [temperature sensor](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Internal_DHT_Analysis.md) were then analysed.
