@@ -83,7 +83,7 @@ The radar plot conveniently visualises three important things:
 - Areas for maximum improvement on each design candidate
 
 
-*This document* shows the candidate designs which resulted from brainstorming, feasability assessments and dimension scoring which resulted in the prototyped design being taken forward.
+[This document](https://github.com/Technology-for-the-Poorest-Billion/2024-ideabatic-beam/blob/main/Benjamin_Outputs/Initial_Design_Candidates.md) shows the general candidate designs which resulted from brainstorming, and the feasability assessments and dimension scoring which resulted in the prototyped design being taken forward.
 
 
 
