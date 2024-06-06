@@ -13,7 +13,7 @@ title: Sustainable Development Goals
 Our work primarily contributes to three of these five goals, in the following ways:
 
 ## Good Health and Wellbeing
-
+Tackling good health and wellbeing is the priority of the cool box. The addition of the electronics module aims to reduce the vaccines used dangerously by informing the user when it is no longer safe to use them.  
 
 ## Reduced Inequality
 
