@@ -29,6 +29,15 @@ The list of components used in the final prototype can be found below, with the 
 - Button switch
 - Battery holder (for two AA batteries)
 
+A simplified logic process behind the code is described below. For more details, see _
+1. Initialises components, like the temperature sensor and display, making sure these are connected properly.
+2. Prompts the user via the display to press the button to then commence calculating the remaining cool lifetime.
+3. Main loop runs, calculating and displaying the remaining cool lifetime with appropriate warnings displayed once theres a certain cool lifetime left.
+4. The door switch is then checked, and if it has been open for more than 2 consecutive times (ie if the door has been detected as being open in two runs of the main loop), it will buzz the buzzer.
+5. Main loop sleeps for 5 minutes before repeating steps 3 onwards until the battery dies.
+
+
+
 
 
 
