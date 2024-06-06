@@ -61,6 +61,8 @@ It is shown that the new device maintains 96% of the original cool lifetime, sco
 
 <br />
 
+### Conclusion
+
 All five key dimension requirements are satisfied; a new KPI can be computed based on the slightly reduced insulation, at KPI/1000 = 27. Hence this still remains the best design candidate, and is proven to be a working prototype design. 
 
 The next step is to build the actual product out of the recommended materials. 
